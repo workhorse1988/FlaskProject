@@ -1,0 +1,47 @@
+/* Custom styles to complement Bootstrap theme */
+.drag-drop-zone {
+    border: 2px dashed var(--bs-secondary);
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    background-color: rgba(var(--bs-secondary-rgb), 0.1);
+    transition: all 0.3s ease;
+}
+
+.drag-drop-zone:hover {
+    border-color: var(--bs-primary);
+    background-color: rgba(var(--bs-primary-rgb), 0.1);
+}
+
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.result-card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.result-card:hover {
+    transform: translateY(-2px);
+}
+
+/* Ensure proper spacing for results section */
+#resultSection {
+    margin-top: 2rem;
+}
+
+/* Custom spinner styling */
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
