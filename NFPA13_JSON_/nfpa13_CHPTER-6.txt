@@ -1,0 +1,157 @@
+Chapter 6 — Installation Underground Piping
+
+
+
+225
+Installation Underground Piping
+Enhanced Content
+Collapse
+Chapter 6 covers the requirements for underground piping, including piping materials, fittings, joining of pipe and fittings, depth of cover, protection against freezing, protection against damage, laying of pipe, joint restraint, backfilling, and testing and acceptance.
+
+The use of private, underground piping leading from a municipal water supply or privately owned waterworks system is one of the most common methods of supply to automatic sprinkler systems. Exhibit 6.1 shows a municipal water supply (illustrated with black piping) connected to the private water supply piping (underground piping illustrated with red piping). The jurisdiction of ﻿﻿NFPA 24﻿﻿, Standard for the Installation of Private Fire Service Mains and Their Appurtenances, begins at the connection to the municipal water supply piping and ends within 24 in. (600 mm) of the underground piping entering the building. All piping, valves, and system appurtenances located between these connection points fall under the jurisdiction of NFPA 24.
+
+EXHIBIT 6.1 Underground Piping Connecting Municipal Supply Pipe to Fire Pump. (Courtesy of Stephan Laforest)
+
+
+
+6.1* Piping.
+[24:10.1]
+
+Enhanced Content
+Collapse
+FAQ 
+
+Are the underground requirements in NFPA 13 the same as in NFPA 24?
+
+The wording in Chapter 6 of NFPA 13 is extracted directly from ﻿﻿﻿﻿﻿﻿Chapter 10 of NFPA 24﻿﻿﻿﻿﻿﻿. As such, the two chapters are identical, including the text numbering (other than the chapter prefixes), the tables, and the figures. The inclusion of this material in NFPA 13 makes it easier for the reader to find the requirements for fire main piping supplying sprinkler systems, allows for better coordination between the two standards, and ensures uniformity in the requirements for underground piping serving water-based fire protection systems.
+
+6.1.1* 
+All piping used in private fire service mains shall be in accordance with 6.1.1.1, 6.1.1.2, or 6.1.1.3. [24:10.1.1]
+
+Enhanced Content
+Collapse
+FAQ 
+
+Does 6.1.1 require that all piping utilized underground be listed for fire protection service?
+
+Underground pipe must meet either of the following criteria:
+
+Be listed for fire protection service
+Comply with the American Water Works Association (AWWA) or ASTM International standards specified in Table 6.1.1.1
+6.1.1.1 Use.
+Piping manufactured in accordance with Table 6.1.1.1 shall be permitted to be used. [24:10.1.1.1]
+
+
+
+Table 6.1.1.1 Manufacturing Standards for Underground Pipe
+Materials and Dimensions	Standard
+Ductile Iron	
+Cement-mortar lining for ductile-iron pipe and fittings	AWWA C104/A21.4
+Polyethylene encasement for ductile-iron pipe systems	AWWA C105/A21.5
+Rubber-gasket joints for ductile-iron pressure pipe and fittings	AWWA C111/A21.11
+Flanged ductile-iron pipe with ductile-iron or gray-iron threaded flanges	AWWA C115/A21.15
+Thickness design of ductile-iron pipe	AWWA C150/A21.50
+Ductile-iron pipe, centrifugally cast	AWWA C151/A21.51
+Ductile iron water mains and their appurtenances	AWWA C600
+Concrete	
+Reinforced concrete pressure pipe, steel-cylinder type	AWWA C300
+Prestressed concrete pressure pipe, steel-cylinder type	AWWA C301
+Reinforced concrete pressure pipe, non-cylinder type	AWWA C302
+Reinforced concrete pressure pipe, steel-cylinder type, pretensioned	AWWA C303
+Cement-mortar lining of water pipe lines in place, 4 in. (100 mm) and larger	AWWA C602
+Plastic	
+Polyvinyl chloride (PVC) pressure pipe and fabricated fittings, 4 in. through 60 in. (100 mm through 1,500 mm)	AWWA C900
+Polyethylene (PE) pressure pipe and fittings, 4 in. (100 mm) through 63 in. (1575 mm) for waterworks	AWWA C906
+Molecularly oriented polyvinyl chloride (PVCO), 4 in. through 24 in. (100 mm through 600 mm) for water, wastewater, and reclaimed water service	AWWA C909
+Brass	
+Seamless red brass pipe, standard sizes	ASTM B43
+Copper	
+Seamless copper tube	ASTM B75/B75M
+Seamless copper water tube	ASTM B88
+Wrought seamless copper and copper-alloy tube	ASTM B251
+Stainless Steel	
+Seamless, welded, and heavily cold worked austenitic stainless steel pipes	ASTM A312/312M
+[24:Table 10.1.1.1]
+
+Enhanced Content
+Collapse
+FAQ 
+
+Several of the AWWA standards referenced in Table 6.1.1.1 address steel pipe. Does this indicate that steel pipe is permitted for general underground use if it meets the applicable AWWA standards in Table 6.1.1.1?
+
+Although several of the standards listed in Table 6.1.1.1 deal with steel pipe, flanges, welding, and installation, steel pipe is not permitted to be used in underground fire protection service, except for fire department connections or unless specially listed for this service. (See ﻿﻿﻿6.1.1.2﻿﻿﻿ and ﻿﻿6.1.1.3﻿﻿.) Steel pipe can be used for piping to a fire department connection because the fire department connection is an auxiliary, rather than a primary, water supply for the sprinkler system. Both coating and wrapping are required when internally galvanized steel pipe is used underground between an exterior fire department connection and the check valve where it connects to the system. Coating is also required for clamps, tie rods, and all bolted joint accessories.
+
+The use of plastic pipe, including polyvinyl chloride (PVC), polyethylene (PE), and oriented polyvinyl chloride (PVCO), are now included in Table 6.1.1.1 for use in underground systems, provided the piping is manufactured in accordance with the referenced AWWA standards. Listings are available for PVC and PVCO pipe and couplings for underground fire service.
+
+6.1.1.2 
+Piping specifically listed for use in private fire service mains shall be permitted to be used. [24:10.1.1.2]
+
+6.1.1.2.1 
+Where listed pipe is used, it shall be installed in accordance with the listing limitations including installation instructions. [24:10.1.1.2.1]
+
+6.1.1.2.2 
+Where listing limitations or installation instructions differ from the requirements of this standard, the listing limitations and installation instructions shall apply. [24:10.1.1.2.2]
+
+6.1.1.3 
+Steel piping manufactured in accordance with Table 6.1.1.3 that is externally coated and wrapped and internally galvanized shall be permitted to be used between the hose coupling(s) on the fire department connection and the check valve installed in the fire department connection piping. [24:10.1.1.3]
+
+
+
+Table 6.1.1.3 Steel Piping for Fire Department Connections
+Materials and Dimensions	Standard
+Black and hot-dipped zinc-coated (galvanized) welded and seamless steel pipe for fire protection use	ASTM A795/A795M
+Pipe, steel, black and hot-dipped, zinc-coated, welded and seamless	ASTM A53/A53M
+Electric-resistance-welded steel pipe	ASTM A135/A135M
+[24:Table 10.1.1.3]
+
+6.1.1.3.1 
+External coating and wrapping as required by 6.1.1.3 shall be approved. [24:10.1.1.3.1]
+
+6.1.1.4 Dry Pipe Underground.
+6.1.1.4.1 
+Where necessary to place pipe that will be under air pressure underground, the pipe shall be protected against corrosion.
+
+6.1.1.4.2 
+Unprotected cast-iron or ductile-iron pipe shall be permitted where joined with a gasketed joint listed for air service underground.
+
+6.1.2* 
+All piping used in private fire service mains shall be rated for the maximum system working pressure to which the piping is exposed to but shall not be rated at less than 150 psi (10.3 bar). [24:10.1.2]
+
+6.1.3* 
+When lined piping is used, the manufacturer’s literature for internal diameter shall be used for all hydraulic calculations. [24:10.1.3]
+
+Enhanced Content
+Collapse
+AWWA C203, Coal-Tar Protective Coatings and Linings for Steel Water Pipelines, is one standard that describes the coating materials listed in ﻿﻿Table 6.1.1.1﻿﻿, but other bituminous (coal-tar) coatings are available.
+
+AWWA C105/A21.5, Polyethylene Encasement for Ductile-Iron Pipe Systems, which is referenced in ﻿Table 6.1.1.1﻿﻿, provides useful installation guidance where wrapping is required. The standard basically requires that high-density polyethylene tubes or sheets with a minimum nominal thickness of 0.004 in. (0.1 mm) or low-density polyethylene tubes or sheets with a minimum nominal thickness of 0.008 in. (0.2 mm) be used for the wrapping. The minimum width to be used is based on the nominal pipe diameter, as shown in Commentary Table 6.1.
+
+
+
+The polyethylene is not intended to create an airtight or watertight enclosure but to prevent contact between the pipe and surrounding backfill/bedding material. Slack must be provided to prevent stretching of the polyethylene where it bridges irregular surfaces such as bolted joints, in anticipation of backfilling operations. Cuts, tears, and punctures must be repaired. Overlaps must be a minimum of 12 in. (300 mm) and must be secured using tape, string, or tie straps. Overlaps to pipe areas not wrapped must extend a minimum of 36 in. (900 mm) and be circumferentially taped. Where piping is installed below the water table or in areas affected by tidal flooding, the wrapping must be circumferentially taped every 24 in. (600 mm).
+
+FAQ 
+
+For calculation of lined underground piping, should the actual internal diameter be used?
+
+Care should be taken in using hydraulic calculations of underground piping, since manufacturers generally do not include the thickness of linings when providing information on the internal diameters of their piping products, and the thickness of the lining will vary with each manufacturer. Therefore, to calculate underground lined piping, it is imperative that the actual internal diameter of the pipe, accounting for any lining material, be utilized throughout the calculations.
+
+6.1.4* 
+Regardless of pipe type, underground piping shall be permitted to extend into the building through the slab or wall not more than 24 in. (600 mm). [24:10.1.4]
+
+Enhanced Content
+Collapse
+FAQ 
+
+Where plastic pipe is utilized underground, is it acceptable to transition to steel pipe above ground?
+
+The use of plastic pipe above ground for fire main service is not permitted, so it is necessary to transition to a piping material that meets the requirements of Chapters ﻿﻿﻿7﻿﻿﻿ and ﻿﻿16﻿﻿ of NFPA 13. For more guidance on the transition from underground to aboveground piping and the need to protect the transition piece from damage, see the requirements in ﻿﻿﻿﻿5.1.5.1﻿﻿﻿﻿.
+
+
+6.1.4.1 
+Underground piping extended vertically into the building through the slab shall be installed plumb. [24:10.1.4.1]
+
+Enhanced Content
+Collapse
+This new section to the 2022 editions of NFPA 24 and NFPA 13 is included to eliminate a common problem found on many installation sites, where the spigot piece of an underground installation in not installed “true” and therefore requires extra fittings or adjustments to align the fire protection system inside the building.
+

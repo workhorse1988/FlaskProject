@@ -1,0 +1,688 @@
+Chapter 4 — General Requirements
+
+
+
+225
+General Requirements
+Enhanced Content
+Collapse
+Chapter 4 contains the general requirements that apply to all of NFPA 13 and, in general, all systems designed and installed in accordance with NFPA 13. Chapter ﻿﻿20﻿﻿, General Requirements for Storage, provides additional requirements that apply specifically to design and installation requirements for storage occupancies. Items covered include level of protection, limited area systems, owner’s certificate, prohibited use of additives for stopping leaks in sprinkler systems, use of air or nitrogen, and support of components not included in the sprinkler system. Much of the information in Chapter 4 is addressed in other chapters of the standard, but emphasizing it here was deemed appropriate by the Technical Committee on Sprinkler System Discharge Criteria.
+
+4.1 Level of Protection.
+Enhanced Content
+Collapse
+FAQ
+
+Does my building require a sprinkler system?
+
+NFPA 13 is an installation standard and does not specify whether a sprinkler system is required to be installed in a building or structure. NFPA 13 specifies how to properly design and install a sprinkler system using the proper components after the determination has been made that a sprinkler system is required. The administrative authority for requiring sprinklers within buildings rests with any of the following: the local building code; ﻿﻿﻿﻿﻿﻿﻿NFPA 5000﻿﻿﻿﻿﻿﻿﻿, Building Construction and Safety Code; ﻿﻿﻿﻿﻿﻿NFPA 101﻿﻿﻿﻿﻿﻿, Life Safety Code; International Building Code; or insurance regulations that typically specify the buildings and structures that require sprinkler systems. Where the building code does not require a sprinkler system but one is installed voluntarily, the requirements of this standard still apply to the portion of the building being protected.
+
+4.1.1 
+A building, where protected by an automatic sprinkler system installation, shall be provided with sprinklers in all areas except where specific sections of this standard permit the omission of sprinklers.
+
+Enhanced Content
+Collapse
+FAQ 
+
+Is it true that certain areas, such as electrical equipment rooms, closets, bank vaults, or walk-in coolers and freezers, do not require sprinklers?
+
+This is a common misconception. Unless a specific section in NFPA 13 provides explicit permission to omit sprinklers, sprinklers are required in all spaces within a building. As shown by the recent addition of additional spaces that are not required to be protected, there might be cases where omission is reasonable, but those cases have not yet been specifically addressed by the technical committee. It is impossible for the standard to address every possible construction arrangement, and a comparative evaluation should be considered.
+
+The oldest and most important design concept of NFPA 13 is that sprinklers must be installed in all areas of a building. This requirement dates back to the first edition of NFPA 13, published in 1896, which contained the statement “sprinklers to be placed throughout premises” in the section on location and arrangement of sprinklers. This philosophy is part of the original insurance-based approach toward risk and levels of protection that founded the standard. To truly minimize risk, the entire building must be protected. However, insurance is no longer the primary driver for requiring sprinkler protection in the built environment. That role has shifted over time to the building and fire codes. It is possible to have a mixed occupancy building that is fully compliant with the building code and have only one of the occupancies sprinklered. That situation should not be viewed as a limited area system, and NFPA 13 should be applied in its entirety throughout the portion of the building containing the protected occupancy. A building is considered fully sprinklered throughout, even when portions of the building are not protected based on the allowable omissions permitted by NFPA 13.
+
+The format of the standard is not written to identify specific areas that are required to have sprinklers. NFPA 13 requires sprinklers throughout the portion of the building containing the protected occupancy, although it usually is the entire building that is to be protected. The few exceptions to this rule are associated with specific conditions and are relatively new revisions to the standard.
+
+4.1.2 Limited Area Systems.
+Enhanced Content
+Collapse
+Certain codes or local ordinances permit the installation of a partial or limited area sprinkler system. For example, Exhibit 4.1 shows a large boiler room in a building that is not required by code to have a sprinkler system. In ﻿﻿NFPA 101﻿﻿, this space would require special hazard protection, and a limited area sprinkler system would be one option for achieving that protection. These small systems are often supplied by the domestic water supply within the building, and hydraulic calculations are still required.
+
+EXHIBIT 4.1 Boiler Room in an Otherwise Unsprinklered Building.
+
+
+
+4.1.2.1 
+When partial sprinkler systems are installed, the requirements of this standard shall be used insofar as they are applicable.
+
+4.1.2.2 
+The authority having jurisdiction shall be consulted in each case.
+
+Enhanced Content
+Collapse
+FAQ 
+
+Why is the local authority having jurisdiction required to be consulted for every limited area system?
+
+For each case, the local authority having jurisdiction must be consulted to ensure that the objectives of the limited area system will be accomplished by the proposed arrangement. Additionally, the local authority having jurisdiction will approve the appropriate design and installation parameters, as well as the applicable portions of NFPA 13, for the particular limited area system. For instance, the modifier for unprotected concealed combustible spaces would not apply. This consultation precedes the normal submittal for approval of the shop drawings as required for all systems. In addition, because the local fire department will provide first responders in the event of a fire, that agency must have a say in the system design and installation requirements.
+
+
+4.2* Owner’s Certificate.
+The owner(s) of a building or structure where the fire sprinkler system is going to be installed or their authorized agent shall provide the sprinkler system installer with the following information prior to the layout and detailing of the fire sprinkler system [see Figure A.‍28.1(b)]:
+(1)
+Intended use of the building, including the materials within the building and the maximum height of any storage
+
+(2)
+A preliminary plan of the building or structure along with the design concepts necessary to perform the layout and detail for the fire sprinkler system
+
+(3)
+Water supply information as identified in 5.2.2
+
+(4)*
+Any special knowledge of the water supply, including known environmental conditions that might be responsible for corrosion, including microbiologically influenced corrosion (MIC)
+
+(5)
+Whether seismic protection is required and the applicable design spectral response acceleration at short periods, SDS
+
+
+Enhanced Content
+Collapse
+An example of an owner’s certificate is shown in ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Figure A.28.1(b)﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ and a fillable PDF of the certificate (shown below) can be found in the Related Resources below.
+
+
+
+The owner’s certificate is intended to improve communication between the owner or the owner’s agent and the installing contractor and/or the system designer.
+
+Although closely related to the hydraulic design information sign and the general information sign, the owner’s certificate serves a different purpose. The other two signs show the actual design basis used by the contractor, whereas the owner’s certificate is a pre-construction form used to transmit relevant data from the owner to the system designer.
+
+The owner’s certificate is intended to be the starting point for the design basis of the system as provided by the owner or the owner’s representative. The data confirm that the contractor is providing a system designed and installed based on valid information. It also shows that the owner knows the limits on the use of the facility, based on the sprinkler system’s design criteria. As a practical matter, the sprinkler contractor is usually a subcontractor who has limited access to the owner and whose contractual relationship may originate later in the project timeline.
+
+Where a project includes an engineer of record, gathering the data should a be a part of the engineer’s responsibility. Because the certificate is not required for permitting, it is usually not a concern for the engineer of record. While the certificate is required to be submitted for approval with the system shop drawings (see ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿28.1.1.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿), the lack of enforcement by plan reviewers hampers the sharing of information to ensure three-way communication among the building owner, the system designer, and the local fire department.
+
+The owner’s certificate should also contain information regarding any evidence that would suggest that water supplies should be specially treated against microbiologically influenced corrosion (MIC) or other internal corrosion. MIC is a fairly rare but severe phenomenon occurring in metallic piping systems that appears related to specific characteristics of a water supply. Water treatment systems are available to help prevent MIC from occurring and can be considered where prior adverse experience of this type has occurred.
+
+Item (5) is new to the 2022 edition of the standard and requires the owner’s certificate to state whether seismic protection is required and, where it is required, what the applicable short period response parameter is. This allows for improved future evaluation of systems by providing additional valuable information for analysis.
+
+
+
+When is an Owner's Certificate Required?
+
+A new owner’s certificate must be submitted for all new systems and those buildings (existing systems) that have a change of occupancy or change of use. The intent of NFPA 13 is that the determination of the classification of the occupancy or commodity is the responsibility of the design professional, with the acceptance of the local authority having jurisdiction.
+
+
+
+For storage facilities, how does the authority having jurisdiction police the storage arrangement given in the design documentation?
+
+Typically, the storage arrangement identified in the submittals can be policed through conditions specified on locally issued permits or through sanctions authorized by the local fire code. Some effective techniques include providing physical barriers within racks so that commodities cannot be stored where flue spaces are supposed to be present, marking building columns and walls with maximum storage heights, and educating the owner or tenants about the need to have the fire sprinkler system evaluated for adequacy when commodity types or storage configurations change.
+
+
+
+Is it permitted for the installing contractor who is installing on a design-build basis to fill out the owner’s certificate on the building owner’s behalf?
+
+It was intended that the owner’s certificate be a declaration by the building owner as to what hazards will be present in the building so that the designer can specify a proper sprinkler system design and not have to worry about the building owner changing the hazards during the construction. Although there is nothing specifically prohibiting such, if the individual or entity designing the system is also filling out the owner’s certificate, it defeats the purpose of the certificate. That is not to say there should not be dialogue between the building owner and the designer while the building owner is completing the certificate. Most building owners do not fully understand all the nuances that go into fire sprinkler system design. Making the building owners properly complete the certificate will more likely ensure that the owners comprehend what hazards they are certifying.
+
+Related Resources
+
+Owners Certificate
+
+Document
+4.3* Classification of Hazard.
+Enhanced Content
+Collapse
+The occupancy hazard classifications and commodity classifications covered in this chapter form the basis of the design and installation criteria in NFPA 13. The occupancy hazards provide a convenient means of categorizing the fuel loads and fire severity associated with certain building operations. In a similar way, the commodity classifications provide a convenient means of categorizing a relationship between the chemical heat of combustion of various materials and their heat release rate so that the appropriate sprinkler system design can be identified. The likelihood of ignition is not considered in the occupancy or commodity classifications.
+
+The classification of the occupancy or the commodity is the first major decision that is made in the design of the sprinkler system and can have a huge impact on the effectiveness of the system during a fire. This decision is especially critical to assignment of a commodity classification for stored goods. When the storage commodity has been improperly classified, a sprinkler system’s capability to control a fire in a warehouse environment can be compromised, allowing for unabated horizontal spread.
+
+FAQ
+
+Why is the occupancy and commodity classification the first step in the design process?
+
+Proper classification of the hazard is critical because this is the first step in the design process that will determine the type of sprinkler(s) to use, as well as the spacing and location of the sprinklers and the density/area criteria that will be applied. A design based on an improper classification can negatively affect the system’s ability to control or suppress a fire when called upon to do so.
+
+It is important to note that a building or a system can have multiple areas with differing hazard classifications. Such systems might be designed based on a worst-case scenario or designed for each specific area, hazard, or use, provided that adequate separation is provided and the owner/occupant understands the limitations of the use of each area based on the sprinkler system design.
+
+4.3.1 General.
+4.3.1.1 
+Occupancy classifications for this standard shall relate to sprinkler design, installation, and water supply requirements only.
+
+4.3.1.2 
+Occupancy classifications shall not be intended to be a general classification of occupancy hazards.
+
+Enhanced Content
+Collapse
+FAQ 
+
+Are the occupancy hazards contained in NFPA 13 the same as the hazards presented in other NFPA documents?
+
+No, the occupancy hazard classifications are not intended to coincide with or align with the occupancy classifications in other NFPA codes and standards.
+
+The term occupancy hazards mentioned in 4.3.1.2 should not be interpreted as a generic description or quantification of fire hazards and is not intended to parallel the occupancy hazards identified in other fire safety regulations, such as ﻿﻿﻿﻿﻿﻿﻿﻿NFPA 101﻿﻿﻿﻿﻿﻿﻿﻿, ﻿﻿﻿﻿﻿﻿﻿NFPA 5000﻿﻿﻿﻿﻿﻿﻿, or other building codes. A specific operation might present more or less of a hazard, depending on the combustibility, quantity, and arrangement of the building contents. For instance, paperback books in boxes stacked to a height of 6 ft (1.8 m) in the back room of a bookstore present a lower fire hazard than the same books stacked to a height of 12 ft (3.7 m) throughout a warehouse. Accordingly, NFPA 13 categorizes the 6 ft (1.8 m) high stockpile as an ordinary hazard (Group 1) occupancy. The 12 ft (3.7 m) high warehouse storage is considered a Class III commodity and needs to be protected in accordance with the criteria for ordinary hazard (Group 2) occupancies.
+
+Proper classification of a fire hazard is critical to the overall success of the sprinkler system. The determination of the type of occupancy hazard influences system design and installation considerations, such as sprinkler discharge criteria, sprinkler spacing, and water supply requirements. The operations of a given facility can vary significantly and change the overall fire hazard. These potential fluctuations in daily and long-term building operations must be determined and properly addressed in the design of a new sprinkler system or evaluation of the adequacy of an existing sprinkler system.
+
+The occupancy hazard classifications are presented as qualitative descriptions, rather than quantifiable measurements. Ideally, quantification of key factors, such as the fire safety goals of NFPA 13, the likely hazards contained within a specific space, the effect of building geometry and ventilation, and the interaction of sprinkler discharge with the fire would form the basis for NFPA 13. Under a performance-based approach, designers and enforcers would have more flexibility in complying with NFPA 13. Although much of the technology needed for a generic widespread performance-based approach for sprinkler system design is not yet available, testing and research continue to fill the gaps. Performance-based approaches have been applied in the development of sprinklers, such as the early suppression fast-response (ESFR) sprinkler and residential sprinklers.
+
+ASK THE AHJ
+
+Who makes the determination of the occupancy classification?
+
+According to ﻿﻿28.1.3﻿﻿(6), the system designer is supposed to classify all areas and rooms as part of the plans submitted to the authority having jurisdiction for review. Whatever local procedures exist for plan review and approval would need to be followed.
+
+4.3.1.3 
+Commodity classification and storage arrangements for miscellaneous and low-piled storage specified in 4.3.1.5 through 4.3.1.8 shall be determined in accordance with Sections 20.3 through 20.5.
+
+Enhanced Content
+Collapse
+ASK THE SYSTEM DESIGNER 
+
+Can someone at NFPA or a trade association assist a sprinkler contractor in determining the hazard classification for a building?
+
+Not exactly. Questions regarding hazard classification are difficult to answer because hazard classification is considered to be the most important aspect of fire protection system design and is viewed as an obligation of the responsible design professional. In other words, in instances where the sprinkler contractor is not the responsible design professional for the project, the sprinkler contractor is probably not in a position to work with the building owner to understand exactly how the building is going to be used and what limitations the building owner is willing to put on that use. More to the point of the question, NFPA or a trade association is not in that position either.
+
+The reason for the involvement of a responsible design professional is to ensure that the site-specific attributes of the project are recognized and properly addressed, which cannot be accomplished in a generic manner. A responsible design professional is charged with the responsibility to work with the building owner and to convey information about the building, including the hazard classification, through the use of the owner’s certificate and the design specifications. See ﻿﻿﻿﻿﻿﻿﻿﻿﻿Figure A.28.1(b)﻿﻿﻿﻿﻿﻿﻿﻿﻿ for an example of an owner’s certificate and Section ﻿﻿﻿﻿﻿﻿﻿﻿4.2﻿﻿﻿﻿﻿﻿﻿﻿ for more information.
+
+Both the Society of Fire Protection Engineers (SFPE) and the National Society of Professional Engineers (NSPE) agree that in most cases it is the responsibility of the specifying engineer to define the hazard classification for the fire sprinkler contractor. Unfortunately, because this question continues to come up, additional emphasis on the role of the specifying engineer is necessary.
+
+In a few circumstances, an NFPA occupancy committee has specifically addressed the issue of hazard classification. In this case, NFPA 13 references users to the appropriate standard for that information. For example, ﻿﻿﻿﻿﻿﻿﻿NFPA 45﻿﻿﻿﻿﻿﻿﻿, Standard on Fire Protection for Laboratories Using Chemicals, states that chemistry labs, like those in high school classrooms, should be protected using sprinklers designed to ordinary hazard Group 1. Chapter ﻿﻿﻿﻿﻿﻿27﻿﻿﻿﻿﻿﻿ of NFPA 13 references the user to NFPA 45 to find those specialized design criteria.
+
+In the absence of specific hazard classification information from a responsible design professional (where applicable), the sprinkler contractor will need to go back to the design professional to confirm a hazard classification designation.
+
+In locations where a design professional is not required or in locations where a licensed sprinkler contractor is permitted to perform the system design, examples of typical occupancies are included for informational purposes in the Annex ﻿﻿﻿﻿﻿A﻿﻿﻿﻿﻿ material within Section ﻿﻿﻿﻿4.3﻿﻿﻿﻿, but those examples should be used only where it can be confirmed that the building owner is not doing something unusual in the building. For example, a building might be described as an office building, which would be considered as light hazard in Annex ﻿﻿﻿﻿﻿﻿A﻿﻿﻿﻿﻿﻿. If the owner intends to include a higher hazard operation in the space, such as a printing and publishing area (Ordinary Hazard Group 2), simply calling it light hazard because it is an office building would not be appropriate.
+
+4.3.1.4* Miscellaneous Storage.
+
+4.3.1.4.1 
+Miscellaneous storage shall not exceed 12 ft (3.7 m) in height.
+
+Enhanced Content
+Collapse
+During the reorganization of the 2019 edition of NFPA 13 the criteria for differentiating miscellaneous storage and low-piled storage was inadvertently omitted from the standard. Revisions throughout ﻿﻿4.3.1.4﻿﻿ correct this and align with the 2016 and earlier editions.
+
+4.3.1.4.2 
+Miscellaneous storage shall not constitute more than 10 percent of the building area or 4000 ft2 (370 m2) of the sprinklered area, whichever is greater.
+
+4.3.1.4.3 
+Miscellaneous storage shall not exceed 1000 ft2 (93 m2) in one pile or area.
+
+4.3.1.4.4 
+Miscellaneous storage shall be separated from other storage piles or areas by at least 25 ft (7.6 m).
+
+
+4.3.1.4.5 
+Solid shelf racks in accordance with the requirements of Section 20.19 shall not apply to miscellaneous storage of Class I through Class IV commodities up to 12 ft (3.7 m) and Group A plastics up to 5 ft (1.5 m).
+
+Enhanced Content
+Collapse
+The miscellaneous storage concept applies to a building in which storage constitutes only a part of the building’s use, such as the back room of a mercantile facility. Limitations are imposed on the amount and arrangement of storage that is permitted. The requirements for the protection of miscellaneous storage, as defined in ﻿﻿﻿﻿﻿﻿﻿﻿3.3.130﻿﻿﻿﻿﻿﻿﻿﻿, are contained in Chapter 4.
+
+The concept of miscellaneous storage was developed to address those situations where only a relatively small portion of a building is used for storage and where such storage does not exceed 12 ft (3.7 m) in height. One example is a manufacturing operation that uses a portion of its facility to store small amounts of finished product and raw materials. As with most facilities, the fire hazard associated with the storage is likely to differ from that of the manufacturing operation. Prior editions of NFPA 13 addressed storage only if it was considered miscellaneous.
+
+The 10 percent limit in ﻿﻿﻿﻿﻿﻿﻿3.3.130﻿﻿﻿﻿﻿﻿﻿ is taken from certain accessory use definitions, as found in building codes. The 4000 ft² (370 m²) limit is derived by taking 10 percent of the maximum allowable area of coverage for a sprinkler system riser protecting high-piled storage. See Section ﻿﻿﻿﻿﻿﻿4.4﻿﻿﻿﻿﻿﻿ for system protection area limitations.
+
+4.3.1.5 Low-Piled Storage.
+
+4.3.1.5.1 
+Low-piled storage of Class I through Class IV commodities shall not exceed 12 ft (3.7 m) in height.
+
+
+4.3.1.5.2 
+Low-piled storage of Group A plastics shall not exceed 5 ft (1.5 m) in height.
+
+4.3.1.6 Miscellaneous Tire Storage.
+4.3.1.6.1 
+Miscellaneous tire storage shall not exceed 2000 ft2 (185 m2).
+
+4.3.1.6.2 
+Miscellaneous tire storage piles on-tread, regardless of storage method, shall not exceed 25 ft (7.6 m) in the direction of the wheel holes.
+
+4.3.1.7 Protection Criteria for Miscellaneous and Low-Piled Storage.
+
+4.3.1.7.1 Protection Criteria for Miscellaneous Storage.
+
+4.3.1.7.1.1 
+The protection criteria for miscellaneous storage protected by ceiling sprinklers only shall be selected from Table 4.3.1.7.1.1 and 19.2.3.1.1 in accordance with the density/area method of 19.2.3.
+
+
+
+Table 4.3.1.7.1.1 Discharge Criteria for Miscellaneous Storage Up to 12 ft (3.7 m) in Height
+Commodity	Type of Storage	Storage Height	Maximum Ceiling Height	Design from 19.2.3.1.1	Note	Inside Hose	Total Combined Inside and Outside Hose	Duration (minutes)
+ft	m	ft	m	gpm	L/min	gpm	L/min
+Class I to Class IV
+Class I	Solid-piled, palletized, bin box, shelf, single-, double-, or multiple-row rack, and back-to-back shelf storage	≤12	≤3.7	—	—	OH1	—	0, 50, 100	0, 190, 380	250	950	90
+Class II	≤10	≤3.0	—	—	OH1	—	0, 50, 100	0, 190, 380	250	950	90
+Class II	>10 to ≤12	>3.0 to ≤3.7	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Class III	≤12	≤3.7	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Class IV	≤10	≤3.0	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Class IV	Palletized, bin box, shelf, and solid-piled	>10 to ≤12	>3.0 to ≤3.7	32	9.8	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Single-, double-, or multiple-row rack, and back-to-back shelf storage	>10 to ≤12	>3.0 to ≤3.7	32	9.8	EH1	—	0, 50, 100	0, 190, 380	500	1900	120
+Single-, double-, or multiple-row rack	>10 to ≤12	>3.0 to ≤3.7	32	9.8	See Chapter 25.	+1 level of in-rack	0, 50, 100	0, 190, 380	250	950	90
+Group A Plastic Storage
+Cartoned	Nonexpanded and expanded	Solid-piled, palletized, bin box, shelf, single-, double-, or multiple-row rack, and back-to-back shelf storage	≤5	≤1.5	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+>5 to ≤10	>1.5 to ≤3.0	15	4.6	EH1	—	0, 50, 100	0, 190, 380	500	1900	120
+>5 to ≤10	>1.5 to ≤3.0	20	6.1	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+>10 to ≤12	>3.0 to ≤3.7	17	5.2	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Solid-piled, palletized, bin box, shelf, and back-to-back shelf storage	>10 to ≤12	>3.0 to ≤3.7	32	9.8	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Single-, double-, or multiple-row rack	>10 to ≤12	>3.0 to ≤3.7	32	9.8	See Chapter 25.	+ 1 level of in-rack	0, 50, 100	0, 190, 380	250	950	90
+Exposed	Nonexpanded and expanded	Solid-piled, palletized, bin box, shelf, single-, double-, or multiple-row rack, and back-to-back shelf storage	≤5	≤1.5	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Solid-piled, palletized, bin box, shelf, and back-to-back shelf storage	>5 to ≤8	>1.5 to ≤2.4	28	8.5	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Solid-piled, palletized, bin box, shelf, single-, double-, or multiple-row rack, and back-to-back shelf storage	>5 to ≤10	>1.5 to ≤3.0	15	4.6	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Nonexpanded	Solid-piled, palletized, bin box, shelf, single-, double-, or multiple-row rack, and back-to-back shelf storage	>5 to ≤10	>1.5 to ≤3.0	20	6.1	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Expanded	Single-, double-, or multiple-row rack	>5 to ≤10	>1.5 to ≤3.0	20	6.1	See Chapter 25.	+1 level of in-rack	0, 50, 100	0, 190, 380	250	950	90
+Nonexpanded and expanded	Solid-piled, palletized, bin box, shelf, and back-to-back shelf storage	>10 to ≤12	>3.0 to ≤3.7	17	5.2	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+Single-, double-, or multiple-row rack	>10 to ≤12	>3.0 to ≤3.7	17	5.2	EH2	—	0, 50, 100	0, 190, 380	500	1900	120
+>10 to ≤12	>3.0 to ≤3.7	32	9.8	See Chapter 25.	+1 level of in-rack	0, 50, 100	0, 190, 380	250	950	90
+Tire Storage
+Tires	On flooror on side	>5 to ≤12	>1.5 to ≤3.7	32	9.8	EH1	—	0, 50, 100	0, 190, 380	500	1900	120
+On floor, on tread, or on side	≤5	≤1.5	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Single-, double-, or multiple-row racks, on tread or on side	≤5	≤1.5	—	—	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Single-row rack, portable, on tread or on side	>5 to ≤12	>1.5 to ≤3.7	32	9.8	EH1	—	0, 50, 100	0, 190, 380	500	1900	120
+Single-row rack, fixed, on tread or on side	>5 to ≤12	>1.5 to ≤3.7	32	9.8	EH1	—	0, 50, 100	0, 190, 380	500	950	120
+>5 to ≤12	>1.5 to ≤3.7	32	9.8	See Chapter 25.	+1 level of in-rack	0, 50, 100	0, 190, 380	250	950	90
+Rolled Paper Storage
+Heavyweight and mediumweight	On end	≤10	≤3.0	30	9.1	OH2	—	0, 50, 100	0, 190, 380	250	950	90
+Tissue and lightweight	On end	≤10	≤3.0	30	9.1	EH1	—	0, 50, 100	0, 190, 380	250	950	120
+4.3.1.7.1.2 
+The protection criteria for miscellaneous storage with racks protected by in-rack sprinklers shall be in accordance with 25.2.1.
+
+
+4.3.1.7.1.3 
+The maximum design area for miscellaneous storage shall not exceed 3000 ft2 (280 m2).
+
+
+4.3.1.7.2 Protection Criteria for Low-Piled Storage.
+
+4.3.1.7.2.1 
+The protection criteria for low-piled storage of Class I through Class IV commodities up to a maximum height of 12 ft (3.7 m) protected by ceiling sprinklers only shall be selected from Table 4.3.1.7.1.1 and 19.2.3.1.1 in accordance with the density/area method of 19.2.3.
+
+
+4.3.1.7.2.2 
+The protection criteria for low-piled storage of Class I through Class IV commodities up to a maximum height of 12 ft (3.7 m) on open racks protected by in-rack sprinklers shall be in accordance with 25.2.2.
+
+
+4.3.1.7.2.3 
+Low-piled storage of Class I through Class IV commodities up to a maximum height of 12 ft (3.7 m) on solid shelf racks shall be protected with in-rack sprinklers in accordance with Section 20.19 and 25.2.2.2, with corresponding ceiling sprinkler protection in accordance with 25.2.2.5.1.
+
+
+4.3.1.7.2.4 
+The protection criteria for low-piled storage of Group A plastic commodities up to a maximum height of 5 ft (1.5 m) protected by ceiling sprinklers only shall be selected from Table 4.3.1.7.1.1 and 19.2.3.1.1 in accordance with the density/area method of 19.2.3.
+
+
+4.3.1.7.2.5 
+The protection criteria for low-piled storage of Group A plastic commodities up to a maximum height of 5 ft (1.5 m) on open racks protected by in-rack sprinklers shall be in accordance with 25.2.2.
+
+
+4.3.1.7.2.6 
+Low-piled storage of Group A plastic commodities up to a maximum height of 5 ft (1.5 m) on solid shelf racks shall be protected with in-rack sprinklers in accordance with Section 20.19 and 25.2.2.2, with corresponding ceiling sprinkler protection in accordance with 25.2.2.5.2.
+
+
+4.3.1.7.2.7 
+The maximum design area for low-piled storage shall not exceed 3000 ft2 (280 m2).
+
+Enhanced Content
+Collapse
+The requirements in ﻿﻿﻿﻿﻿﻿﻿﻿﻿4.3.1.7.2.3﻿﻿﻿﻿﻿﻿﻿﻿﻿, ﻿﻿﻿﻿﻿﻿﻿﻿4.3.1.7.2.6﻿﻿﻿﻿﻿﻿﻿﻿, ﻿﻿﻿﻿﻿﻿﻿20.19﻿﻿﻿﻿﻿﻿﻿, and ﻿﻿﻿﻿﻿﻿25.6.1﻿﻿﻿﻿﻿﻿ address situations where the installation of in-rack sprinklers would be required for solid shelf racks that are protected in accordance with Chapter 4. For nonmiscellaneous rack storage of Class I through Class IV commodities up to 12 ft (3.7 m) in height and Group A plastics up to 5 ft (1.5 ft) in height that are allowed to be protected under the provisions of Chapter 4 as required by ﻿﻿﻿﻿﻿4.3.1.7.2.3﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿4.3.1.7.2.5﻿﻿﻿﻿, respectively, the installation of in-rack sprinklers beneath solid shelves is required in accordance with Section ﻿﻿﻿25.2﻿﻿﻿. The ceiling sprinkler design for these storage areas is permitted to be determined from ﻿﻿25.2.2.4﻿﻿.
+
+Conversely, the installation of in-rack sprinklers is not required beneath solid shelving installed within racking arrays that do not exceed the limits of miscellaneous storage. In other words, smaller storage arrays complying with the definition of miscellaneous storage are permitted to use solid shelving without the installation of in-rack sprinklers.
+
+4.3.1.7.3 Hose Connections.
+Hose connections shall not be required for the protection of miscellaneous storage.
+
+4.3.1.8 In-Rack Sprinklers.
+Miscellaneous and low-piled storage in accordance with 4.3.1.4 through 4.3.1.7 that require in-rack sprinklers shall follow Chapter 25 for their installation and design requirements.
+
+Enhanced Content
+Collapse
+The use of in-rack sprinklers is rare with low-piled and miscellaneous storage. ﻿﻿﻿﻿﻿﻿Table 4.3.1.7.1.1﻿﻿﻿﻿﻿﻿ lists the arrangements that require in-rack sprinklers. If in-rack sprinklers are required, the user of this standard will need to proceed to Chapter ﻿﻿﻿﻿﻿25﻿﻿﻿﻿﻿ for design requirements. Chapter ﻿﻿﻿﻿25﻿﻿﻿﻿ outlines the hydraulic requirements for both the ceiling protection and the in-rack sprinklers. Paragraph ﻿﻿﻿25.7.1.2﻿﻿﻿ provides the number of in-rack sprinklers in the design for miscellaneous storage, and ﻿﻿25.7.2.2﻿﻿ provides the number of in-rack sprinklers in the design for low-piled storage scenarios.
+
+4.3.2* Light Hazard.
+
+The following shall be protected with light hazard occupancy criteria in this standard:
+(1)
+Spaces with low quantity and combustibility of contents
+
+Enhanced Content
+Collapse
+FAQ 
+
+Who makes the final determination on the acceptability of the occupancy classification?
+
+The final determination on the acceptability of the occupancy classification is the responsibility of the authority having jurisdiction.
+
+
+4.3.3* Ordinary Hazard Occupancies.
+4.3.3.1* Ordinary Hazard (Group 1).
+The following shall be protected with OH1 occupancy criteria in this standard:
+(1)
+Spaces with moderate quantity and low combustibility of contents
+
+(2)
+Stockpiles of contents with low combustibility that do not exceed 8 ft (2.4 m)
+
+
+Enhanced Content
+Collapse
+Within the ordinary hazard classification, Group 1 occupancies present the least severe fire threat. Group 1 occupancies are most light manufacturing and service industries where the use of flammable and combustible liquids or gases is either nonexistent or very limited. Stockpiles of combustible commodities typically found within an ordinary hazard (Group 1) occupancy cannot exceed a height of 8 ft (2.4 m). Additionally, where the quantity and arrangement of the stockpiles do not exceed the limitations of miscellaneous storage, as defined ﻿﻿﻿3.3.130﻿﻿﻿, the requirements of Chapter 4 apply. If the miscellaneous storage limitations are exceeded, then the provisions of Chapter ﻿﻿20﻿﻿ apply.
+
+4.3.3.2* Ordinary Hazard (Group 2).
+
+The following shall be protected with OH2 occupancy criteria in this standard:
+(1)
+Spaces with moderate to high quantity and combustibility of contents
+
+(2)
+Stockpiles of contents with moderate rates of heat release rate that do not exceed 12 ft (3.7 m) and stockpiles of contents with high rates of heat release that do not exceed 8 ft (2.4 m)
+
+
+Enhanced Content
+Collapse
+The ordinary hazard (Group 2) classification addresses those ordinary hazard occupancies that do not meet the criteria of the ordinary hazard (Group 1) classification. Group 2 occupancies present a more severe fire hazard and demand more from the sprinkler system to achieve fire control than do Group 1 and light hazard occupancies. Ordinary hazard (Group 2) occupancies include those types of manufacturing and processing operations in which the amount and combustibility of contents is greater than those for Group 1. The Group 2 classification also addresses the miscellaneous storage, as defined in ﻿﻿﻿3.3.130﻿﻿﻿, of contents stored up to and including 12 ft (3.7 m) in height, as required by Chapter 4. Where the miscellaneous storage limitations are exceeded, the provisions of Chapter ﻿﻿20﻿﻿ apply.
+
+4.3.4* Extra Hazard (Group 1) (EH1).
+
+The following shall be protected with EH1 occupancy criteria in this standard:
+(1)
+Spaces with very high quantity and combustibility of contents
+
+(2)
+Spaces where dust, lint, or other materials are present, introducing the probability of rapidly developing fires
+
+
+Enhanced Content
+Collapse
+Extra hazard occupancies represent the most severe fire conditions addressed under the occupancy hazard classifications in NFPA 13 and present the most severe challenge to sprinkler protection. The extra hazard occupancy examples are classified on the basis of actual field experience with sprinkler system operations in occupancies having conditions similar to those identified.
+
+Extra hazard (Group 1) occupancies include those with hydraulic machinery or systems with flammable or combustible hydraulic fluids under pressure. Ruptures and leaks in piping or fittings have resulted in fine spray discharge of such liquids, causing intense fires. Those occupancies with process machinery that use flammable or combustible fluids in closed systems are extra hazard (Group 1) occupancies. Also in this group are occupancies that have dust and lint in suspension or that contain moderate amounts of combustible cellular foam materials. Buildings used for textile manufacturing are examples of an extra hazard (Group 1) occupancy.
+
+4.3.5* Extra Hazard (Group 2) (EH2).
+The following shall be protected with EH2 occupancy criteria in this standard:
+(1)
+Spaces with very high quantity and combustibility of contents
+
+(2)
+Spaces with substantial amounts of combustible or flammable liquids
+
+(3)
+Spaces where shielding of combustibles is extensive
+
+
+Enhanced Content
+Collapse
+Extra hazard (Group 2) occupancies contain more than small amounts of flammable or combustible liquids, usually in open systems where rapid evaporation can occur when these liquids are subjected to high temperatures.
+
+The extra hazard (Group 2) occupancy classification also applies where ceiling sprinklers are severely obstructed by nonstructural elements, such as process piping and machinery, and where water discharged by sprinklers might not reach the burning material because of the shielding.
+
+4.3.6 High-Piled Storage.
+Storage arrangements that do not meet the requirements of 4.3.1.4 through 4.3.1.8 shall be protected in accordance with Chapters 20 through 25.
+
+
+4.3.7* Special Occupancy Hazards.
+Special occupancies shall be in accordance with Chapter 27.
+
+Enhanced Content
+Collapse
+Many buildings contain several different types of occupancies. A simple example of this is a restaurant where, for purposes of sprinkler protection, food preparation areas are treated as ordinary hazard (Group 1), while the public seating areas are handled as light hazard. On a larger scale, a grocery store includes a public shopping area, which is usually treated as an ordinary hazard (Group 2) occupancy. In many cases, back room areas not within the mercantile operation will likely contain some quantity of bulk storage. Although it is reasonable to expect that a higher degree of fire protection would be needed in the back room, older editions of NFPA 13 did not provide such guidance.
+
+The storage of bulk items in a back room is similar to a warehouse operation, although on a smaller scale, and requires special consideration. Depending on the size of the back room area and the type, quantity, and arrangement of items stored, the space needs to be protected in accordance with the provisions for miscellaneous storage in Chapter 4 or protected in accordance with the storage requirements of Chapter ﻿﻿20﻿﻿. The concept of miscellaneous storage is included to allow for correlation between occupancy and commodity classifications.
+
+4.4 System Protection Area Limitations.
+4.4.1 
+The maximum floor area on any one floor to be protected by sprinklers supplied by any one sprinkler system riser or combined system riser shall be as follows:
+(1)
+Light hazard — 52,000 ft2 (4830 m2)
+
+(2)
+Ordinary hazard — 52,000 ft2 (4830 m2)
+
+(3)*
+Extra hazard — Hydraulically calculated — 40,000 ft2 (3720 m2)
+
+(4)
+High-piled Storage — High-piled storage (as defined in 3.3.100) and storage covered by other NFPA standards — 40,000 ft2 (3720 m2)
+
+(5)
+In-rack Storage — 40,000 ft2 (3720 m2)
+
+
+Enhanced Content
+Collapse
+FAQ
+
+How was the 52,000 ft2 (4830 m2) limit established?
+
+NFPA 13 formerly limited system size by the number of sprinklers on a system using the pipe schedule method, for example, 400 sprinklers for ordinary hazard areas. The 52,000 ft2 (4830 m2) limitation is determined by multiplying the 400 sprinklers by the 130 ft2 (12 m2) maximum spacing. These area limitations are not related to the hydraulics or the operating characteristics of the system. Rather, the area limitations are based on judgment factors concerning the maximum area within a single, vertical fire division that should be protected by a single system or that could be out of service at any given time.
+
+It is the intent of this subsection to require new systems designed for extra hazard occupancies to be hydraulically calculated. The maximum coverage area specified in 4.4.1 is the maximum floor area per system on any one floor in a given building. The maximum areas of coverage can be extended to other detached buildings, as permitted by ﻿﻿4.4.6.2﻿﻿.
+
+Where multiple risers are necessary to meet the system area limitations, a manifold riser arrangement can be considered, as shown in Exhibit 4.6. For a building containing only light hazard or ordinary hazard occupancies, each of the three risers in Exhibit 4.6 could protect up to 52,000 ft2 (4830 m2) in a single-story, 156,000 ft2 (14,490 m2) building. If the building contained only extra hazard occupancies that were hydraulically designed or high-piled storage, each riser could protect up to 40,000 ft2 (3720 m2) in a single-story, 120,000 ft2 (11,150 m2) building. The total number of manifolded risers on a single header should be limited so that, in the event of an impairment to the supply piping, the total area impaired is limited.
+
+EXHIBIT 4.6 Manifold Riser Arrangement Consisting of Two Wet Pipe Systems and One Dry Pipe System.
+
+
+
+4.4.2 
+The floor area occupied by mezzanines shall comply with 4.4.2.1, 4.4.2.2, or 4.4.2.3.
+
+Enhanced Content
+Collapse
+Subsection 4.4.2 clarifies where a mezzanine area needs to be tabulated as part of the floor area limitations specified in ﻿﻿4.4.1﻿﻿ and where it does not. Prior to these clarifications being added in the 2019 edition, it could have been interpreted that a system riser protecting a 52,000 ft² (4380 m²) area could also protect a mezzanine of unlimited size.
+
+4.4.2.1 
+In a building with only one sprinkler system, the floor area occupied by mezzanines shall not be included in the area limits of 4.4.1.
+
+Enhanced Content
+Collapse
+FAQ 
+
+When determining the area limitations for a single floor, is the additional area occupied by mezzanines required to be added to the floor area?
+
+Paragraph 4.4.2.1 does not require the additional area occupied by the mezzanine to be counted against the area limitation. Exhibit 4.7 shows an example of the intent of this requirement. For high-piled storage, the area protected by one system riser cannot exceed 40,000 ft2 (3720 m2). When the area is being determined, the mezzanine area does not need to be added to the actual floor area.
+
+EXHIBIT 4.7 Mezzanine Storage Area in Warehouse. (Courtesy of EZR Shelving)
+
+
+
+4.4.2.2 
+In a building with more than one sprinkler system, if a mezzanine is located entirely within the same sprinkler system boundary as the sprinklers protecting the ceiling above, the floor area occupied by mezzanine(s) shall not be included in the area limits of 4.4.1.
+
+
+4.4.2.3 
+In a building with more than one sprinkler system, if any portion of the mezzanine floor area is located outside the system boundary of the riser supplying the sprinklers under the mezzanine, the area of the mezzanine outside the boundary of the overhead system shall be added to the system area from which it is supplied, and the total system area shall meet the limits of 4.4.1.
+
+Enhanced Content
+Collapse
+For the 2019 edition of NFPA 13, new system protection area limitation requirements were added where mezzanines are present. Prior to the 2019 edition, there was nothing to prevent an overhead sprinkler system from being installed to the area limitations of ﻿﻿﻿4.4.1﻿﻿﻿ and then supplying the underside of a mezzanine whose area far exceeded the overhead system’s boundary. For example, there was nothing to prevent a sprinkler system in a 1,000,000 ft2 (92,903 m2) building supplying a 52,000 ft2 (4830 m2) area at the roof from also supplying a 300,000 ft2 (27,870 m2) mezzanine. Now, with the new requirements, any mezzanine area that is outside the overhead system boundary must be added to the system protection area limitations and not exceed the limitations of ﻿﻿4.4.1﻿﻿. See Exhibit 4.8 for clarification of the requirements of ﻿﻿4.4.2﻿﻿.
+
+EXHIBIT 4.8 System Protection Area Limitations with a Mezzanine
+
+
+
+
+4.4.3 
+Where single systems protect extra hazard, high-piled storage, or storage covered by other NFPA standards, and ordinary or light hazard areas, the extra hazard or storage area coverage shall not exceed the floor area specified for that hazard and the total area coverage shall not exceed the area specified for the lesser hazard.
+
+Enhanced Content
+Collapse
+FAQ 
+
+Where high-piled storage or extra hazard occupancies are mixed with light hazard or ordinary hazard occupancies, is it acceptable to exceed 40,000 ft2 (3720 m2) per floor?
+
+A single system that protects both ordinary or light hazard areas and solid-piled, palletized, or rack storage greater than 12 ft (3.7 m) high or that protects extra hazard areas can have a coverage area of up to 52,000 ft2 (4830 m2), as indicated by 4.4.3. However, not more than 40,000 ft2 (3720 m2) of that coverage area can be high-piled storage or hydraulically designed for extra hazard occupancies.
+
+The 40,000 ft2 (3720 m2) maximum extra hazard coverage area for hydraulically designed systems is consistent with the requirements for storage areas that have similar fire loading. If the potential exists to use the ordinary or light hazard areas for storage in the future, use of the lower system area of 40,000 ft2 (3720 m2) as the allowable system protection area would be appropriate.
+
+4.4.4 
+The area protected by a single in-rack system includes all of the floor area occupied by the racks, including aisles, regardless of the number of levels of in-rack sprinklers.
+
+4.4.5 
+Multiple buildings attached by canopies, covered breezeways, common roofs, or a common wall(s) shall be permitted to be supplied by a single fire sprinkler riser.
+
+4.4.6* Detached Buildings.
+Enhanced Content
+Collapse
+Where acceptable to the local authority having jurisdiction, multiple detached buildings can be protected with a single sprinkler system. In instances where no water supply is located close by, it would be feasible to supply the sprinklers in a detached building by extending the sprinkler system from an adjacent building. In such cases, the best alternative is to extend the water supply and provide the building with its own sprinkler system. Examples might include portable classrooms, small auxiliary buildings associated with car dealerships, and similar small adjacent buildings. In such cases, the local authority having jurisdiction can allow the sprinklers to be supplied by a sprinkler system in an adjacent building. Care should be taken when the two buildings involved do not have the same ownership or the fire protection is not under the control of a single party. Such situations can result in impairments that go unknown or delays in accessing control valves in an emergency situation. Another consideration should be the ability of alarm devices to identify which areas or buildings are experiencing waterflow. This can be accomplished with visible alarm annunciation devices such as strobes rather than multiple local alarm bells.
+
+4.4.6.1 
+Unless the requirements of 4.4.6.2 apply, detached buildings, regardless of separation distance, that do not meet the criteria of 4.4.4 shall be provided with separate fire sprinkler systems.
+
+4.4.6.2 
+When acceptable to the authority having jurisdiction, detached structures shall be permitted to be supplied by the fire sprinkler system of an adjacent building.
+
+Enhanced Content
+Collapse
+ASK THE AHJ
+
+Why would an authority having jurisdiction have concerns about multiple buildings using the same fire sprinkler system?
+
+From the standpoint of an authority having jurisdiction, the primary problem with multiple buildings using the same sprinkler system occurs if each building is or becomes owned by different owners. If the source building owner stops maintaining the water supply and the buildings are under separate ownership, it is difficult to enforce fire code maintenance requirements for the dependent building. If the authority having jurisdiction allows the use of the exception in 4.4.6.2, it should be in situations where it is unlikely or impossible for the ownership of the individual buildings to split or where legal easements are recorded.
+
+4.5 Water Supply Information.
+
+4.5.1 Water Supply Capacity Information.
+The following information shall be included:
+(1)
+Location and elevation of static and residual test gauge with relation to the riser reference point
+
+(2)
+Flow location
+
+(3)
+Static pressure, psi (bar)
+
+(4)
+Residual pressure, psi (bar)
+
+(5)
+Flow, gpm (L/min)
+
+(6)
+Date
+
+(7)
+Time
+
+(8)
+Name of person who conducted the test or supplied the information
+
+(9)
+Other sources of water supply, with pressure or elevation
+
+
+Enhanced Content
+Collapse
+In addition to the information listed in 4.5.1, the effective point of the water test should be identified. Hydraulic calculations should include the friction loss in the piping from the effective point to the building riser, as well as adjustments for elevation differences.
+
+4.5.1.1* 
+
+Where a waterflow test is used for the purposes of system design, the test shall be conducted no more than 12 months prior to working plan submittal unless otherwise approved by the authority having jurisdiction.
+
+Enhanced Content
+Collapse
+Conducting a waterflow test to establish water supply capacity, flow, and pressure can be problematic. Cold temperatures, environmental laws that prohibit discharge of water into sewers or storm drains, and potential damage to property in the flowing water’s path are some of the concerns that have led many jurisdictions to restrict or even prohibit the practice of flow testing.
+
+Because many factors can affect a water supply, both environmentally and physically, from year to year, NFPA 13 was modified to require that waterflow tests used for sprinkler system design purposes be conducted within 12 months of the submittal of working plans to the approval agency.
+
+ASK THE AHJ
+
+Under what circumstances would the authority having jurisdiction permit older water supply test results to be used?
+
+Older water supply test results might be permitted if the authority having jurisdiction has general knowledge that the water supply in the area of the project is strong and that there has been no significant demand added to the system from other projects. Older test results also might be permitted in situations where the water authority will not allow proper waterflow testing because of the time of year or droughts.
+
+4.5.2 Water Supply Treatment Information.
+The following information shall be included when water supply treatment is provided in accordance with 5.1.4:
+(1)
+Type of condition that requires treatment
+
+(2)
+Type of treatment needed to address the problem
+
+(3)
+Details of treatment plan
+
+
+Enhanced Content
+Collapse
+As part of the overall water supply information, it is important to document any required water supply treatments, including the condition requiring treatment, the type of treatment, and the details of the treatment plan. Microbiologically influenced corrosion (MIC) is a relatively rare but growing problem. Microbes in the water attach themselves to pipes and create an environment corrosive to the pipe, causing pinhole leaks. Microbe by-products can also build up and restrict the effective diameter of the pipe. Neither situation is beneficial for a sprinkler system.
+
+Subsection ﻿﻿﻿﻿5.1.4﻿﻿﻿﻿ requires that corrosion, including MIC, be dealt with once it is known to be a problem and specifies some acceptable techniques. If MIC has built up within a system or eaten through the pipes, the affected pipes must be cleaned or replaced, and the water entering the system must be treated with a biocide to destroy the microbes.
+
+Proper treatment depends on the type of microbes causing the corrosion or buildup. Different microbes respond differently to each kind of biocide. Each site where MIC is known to be a problem needs its own plan for dealing with the particular microbes in question. The National Fire Sprinkler Association (NFSA) report “Detection, Treatment, and Prevention of Microbiologically Influenced Corrosion in Water-Based Fire Protection Systems” provides information on the subject.
+
+For more information on identification and treatment of systems with MIC, see ﻿﻿﻿﻿﻿Chapter 14 of NFPA 25﻿﻿﻿﻿﻿, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems.
+
+4.6* Additives.
+Additives or chemicals intended to stop leaks, such as sodium silicate or derivatives of sodium silicate, brine, or similar acting chemicals, shall not be used in sprinkler systems.
+
+Enhanced Content
+Collapse
+While NFPA 13 strictly prohibits the use of additives to provide leak stoppage, the standard does not prohibit chemicals or additives to address the prevention or mitigation of MIC, provided those additives do not adversely affect the fire-fighting properties of water or the performance of the system components.
+
+4.7 Air, Nitrogen, or Other Approved Gas.
+Where air is used to charge, maintain, or supervise sprinkler systems, nitrogen or other approved gas shall also be permitted to be used.
+
+Enhanced Content
+Collapse
+Prior to the 2013 edition of NFPA 13, the standard specifically addressed the fact that nitrogen is a viable alternative to air; however, it was not addressed globally in the standard. Section 4.7 is intended to provide direction to the user that nitrogen and other approved gases are acceptable alternatives to air for charging, maintaining, and supervising a system.
+
+ASK THE SYSTEM DESIGNER 
+
+Is nitrogen better than air for dry pipe and preaction systems?
+
+Both gases are acceptable and have their places in dry pipe and preaction systems. However, before answering the question further, we should examine the recipe for rust, which includes oxygen, water, iron, and an environment where the three can combine to form iron oxide (rust). Iron is a significant component in steel, so the three ingredients of rust exist in all sprinkler systems using steel pipe, but dry pipe or preaction systems are most vulnerable when air is compressed, pushing additional oxygen into a moist environment. Wet pipe systems are less of a concern because the oxygen submerged in the water forms a thin layer of oxide on the pipe, but as long as the water is not replaced, there is no more oxygen to continue the process of oxidation (rusting).
+
+Not all dry pipe and preaction systems contain an environment that is conducive to the development of iron oxide. Many dry pipe and preaction systems using steel pipe have lasted for 50 or 60 years and have not experienced significant corrosion, even though they used air as the charging gas. Such systems are pitched well to drains and are emptied frequently so that a moist environment does not exist in the piping. It is also possible to equip the compressor with an air dryer so that the humidity is removed from the air before it goes into the system.
+
+The use of nitrogen can significantly reduce the probability of corrosion in the piping system. Without oxygen, building owners do not have to be as concerned with the combination of water and steel in the sprinkler piping. But the use of nitrogen is more expensive than air, so building owners have to weigh their concern for corrosion against what they are willing to pay for the sprinkler system.
+
+There are two ways that nitrogen can be placed into a sprinkler system:
+
+Use of nitrogen bottles, which can be used to fill the system initially. Keeping nitrogen bottles connected to the system will probably be necessary because the gas tends to find its way out of the system, which could cause the system to trip due to low gas pressure.
+Use of a generator that removes the nitrogen from the surrounding air and pushes it into the system, replacing the oxygen. In these systems, the gas in the system starts out as air, and over time the nitrogen takes over. The generators are connected to the system to help replace lost pressure over time.
+4.8* Support of Nonsprinkler System Components.
+Sprinkler system components shall not be used to support nonsprinkler system components unless expressly permitted by this standard.
+
+4.9 Noncombustible Materials and Limited-Combustible Materials.
+4.9.1* Noncombustible Material.
+4.9.1.1 
+A material that complies with any of the following shall be considered a noncombustible material:
+(1)*
+The material, in the form in which it is used, and under the conditions anticipated, will not ignite, burn, support combustion, or release flammable vapors when subjected to fire or heat.
+
+(2)
+The material is reported as passing ASTM E136, Standard Test Method for Assessing Combustibility of Materials Using a Vertical Tube Furnace at 750°C.
+
+(3)
+The material is reported as complying with the pass/fail criteria of ASTM E136 when tested in accordance with the test method and procedure in ASTM E2652, Standard Test Method for Assessing Combustibility of Materials Using a Tube Furnace with a Cone-shaped Airflow Stabilizer, at 750°C.
+
+[5000:7.1.4.1.1]
+
+Enhanced Content
+Collapse
+The use of noncombustible or limited-combustible materials is necessary to meet many of the requirements that allow for the omission of sprinklers in certain areas, for example, ﻿﻿﻿9.2.1﻿﻿﻿. Construction materials that fall under this category include certain types of acoustical ceiling tiles and insulation materials.
+
+Intumescent coatings can be applied to construction materials such as plywood or trusses to create a noncombustible or limited combustible surface. While these products might not meet the testing requirements of other NFPA or ASTM standards, the local authority having jurisdiction should be consulted for approval of such applications for their acceptability as noncombustible or limited combustible materials, based on Section ﻿﻿1.5﻿﻿.
+
+4.9.1.2 
+Where the term limited-combustible is used in this standard, it shall also include the term noncombustible. [5000:7.1.4.1.2]
+
+
+4.9.2* Limited-Combustible Material.
+A material shall be considered a limited-combustible material where both of the following conditions of 4.9.2(1) and 4.9.2(2), and the conditions of either 4.9.2.1 or 4.9.2.2, are met:
+(1)
+The material does not comply with the requirements for a noncombustible material in accordance with 4.9.1.
+
+(2)
+The material, in the form in which it is used, exhibits a potential heat value not exceeding 3500 Btu/lb (8150 kJ/kg), when tested in accordance with NFPA 259.
+
+[5000:7.1.4.2]
+
+Enhanced Content
+Collapse
+The term﻿ limited-combustible material is used in portions of Chapter 9, specifically Section ﻿﻿﻿﻿﻿﻿﻿﻿﻿9.2﻿﻿﻿﻿﻿﻿﻿﻿﻿, that describe those areas in which sprinklers are not required. The presence of noncombustible or limited-combustible wall materials is necessary to meet many of the exceptions that allow for the omission of sprinklers in certain areas.
+
+4.9.2.1 
+The material shall have a structural base of noncombustible material with a surfacing not exceeding a thickness of 1⁄8 in. (3.2 mm) where the surfacing exhibits a flame spread index not greater than 50 when tested in accordance with ASTM E84, Standard Test Method for Surface Burning Characteristics of Building Materials, or UL 723, Standard for Test for Surface Burning Characteristics of Building Materials. [5000:7.1.4.2.1]
+
+4.9.2.2 
+The material shall be composed of materials that in the form and thickness used, neither exhibit a flame spread index greater than 25 nor evidence of continued progressive combustion when tested in accordance with ASTM E84 or UL 723 and are of such composition that all surfaces that would be exposed by cutting through the material on any plane would neither exhibit a flame spread index greater than 25 nor exhibit evidence of continued progressive combustion when tested in accordance with ASTM E84 or UL 723. [5000:7.1.4.2.2]
+
+4.9.2.3 
+Materials shall be considered limited-combustible materials where tested in accordance with ASTM E2965, Standard Test Method for Determination of Low Levels of Heat Release Rate for Materials and Products Using an Oxygen Consumption Calorimeter, at an incident flux of 75 kW/m2 for a 20-minute exposure, and both the following conditions are met:
+(1)
+The peak heat release rate shall not exceed 150 kW/m2 for longer than 10 seconds.
+
+(2)
+The total heat released shall not exceed 8 MJ/m2.
+
+[5000:7.1.4.2.3]
+
+4.9.2.4 
+Where the term limited-combustible is used in this standard, it shall also include the term noncombustible. [5000:7.1.4.2.4]

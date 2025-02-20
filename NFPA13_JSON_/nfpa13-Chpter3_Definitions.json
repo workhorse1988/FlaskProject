@@ -1,0 +1,1009 @@
+{
+    "3.1": {
+        "title": "General.",
+        "content": {},
+        "text": "The definitions contained in this chapter shall apply to the terms used in this standard. Where terms are not defined in this chapter or within another chapter, they shall be defined using their ordinarily accepted meanings within the context in which they are used. Merriam-Webster’s Collegiate Dictionary, 11th edition, shall be the source for the ordinarily accepted meaning."
+    },
+    "3.2": {
+        "title": "NFPA Official Definitions.",
+        "content": {
+            "3.2.1": {
+                "title": "Approved.",
+                "text": "Acceptable to the authority having jurisdiction.  Enhanced Content Collapse In the context of NFPA 13, the term approved has a different meaning from the term listed, which is defined in ﻿﻿3.2.3﻿﻿. A component that is approved is not necessarily listed. Components critical to the proper operation of a sprinkler system, such as alarm valves, dry pipe valves, sprinklers, and hangers, must be both listed and approved. Noncritical components that should not have an effect on system performance, such as drain valves, are not required to be listed but are required to be approved. See the commentary following ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿3.2.3﻿ for more information on the term listed."
+            },
+            "3.2.2": {
+                "title": "Authority Having Jurisdiction (AHJ).",
+                "text": "An organization, office, or individual responsible for enforcing the requirements of a code or standard, or for approving equipment, materials, an installation, or a procedure.  Enhanced Content Collapse The term authority having jurisdiction is that person or office enforcing the standard. In cases where the standard is to be legally enforced, the authority having jurisdiction is usually a fire marshal or building official. It is common for multiple authorities having jurisdiction to review the same project and have responsibility for enforcing this standard and other standards. In many cases where NFPA 13 is utilized, the insuring agency for the facility might have requirements that differ from or exceed the requirements contained in NFPA 13. For all designs and applications, communication with all of the appropriate authorities having jurisdiction is important to determine the proper criteria."
+            },
+            "3.2.3": {
+                "title": "Listed.",
+                "text": "Equipment, materials, or services included in a list published by an organization that is acceptable to the authority having jurisdiction and concerned with evaluation of products or services, that maintains periodic inspection of production of listed equipment or materials or periodic evaluation of services, and whose listing states that either the equipment, material, or service meets appropriate designated standards or has been tested and found suitable for a specified purpose.  Enhanced Content Collapse Most components that are critical to system performance must be listed. Such components include, but are not limited to, nonmetallic pipe, alarm valves, hangers, and sprinklers. However, this criterion has some exceptions. For example, steel and copper pipe as specified in ﻿﻿﻿Table 7.3.1.1﻿﻿﻿ is not required to be listed, because it has a long-established record of acceptable performance. However, manufacturers of Schedule 40 steel pipe commonly have the pipe listed to certify compliance with the industry standards for the specific pipe referenced in ﻿﻿﻿﻿Table 7.3.1.1﻿﻿﻿﻿."
+            },
+            "3.2.4": {
+                "title": "Shall.",
+                "text": "Indicates a mandatory requirement.  Enhanced Content Collapse The term shall indicates a requirement of this standard and mandates that a specific provision of NFPA 13 be followed. Where the term shall is attached to a specific provision of the standard, compliance with that provision is not optional. However, any allowance to modify a base requirement is specifically stated in paragraphs subsequent to that requirement."
+            },
+            "3.2.5": {
+                "title": "Should.",
+                "text": "Indicates a recommendation or that which is advised but not required.  Enhanced Content Collapse The term should indicates a recommendation, not a requirement, of this standard. If the recommendation is not followed, the sprinkler system is still expected to perform satisfactorily. Terms such as should and recommend are used in the annexes of the document to identify a recommended practice or a best practice."
+            },
+            "3.2.6": {
+                "title": "Standard.",
+                "text": "An NFPA Standard, the main text of which contains only mandatory provisions using the word “shall” to indicate requirements and that is in a form generally suitable for mandatory reference by another standard or code or for adoption into law. Nonmandatory provisions are not to be considered a part of the requirements of a standard and shall be located in an appendix, annex, footnote, informational note, or other means as permitted in the NFPA Manuals of Style. When used in a generic sense, such as in the phrase “standards development process” or “standards development activities,” the term “standards” includes all NFPA Standards, including Codes, Standards, Recommended Practices, and Guides."
+            }
+        }
+    },
+    "3.3": {
+        "title": "General Definitions.",
+        "content": {
+            "3.3.1": {
+                "title": "A-Class Boundary.",
+                "text": "See 3.3.125.1."
+            },
+            "3.3.2": {
+                "title": "Air Receiver.",
+                "text": "A chamber, compatible with an air compressor, that can store air under pressure that is higher in pressure than that in the dry pipe or preaction system piping. (AUT-SSI)  Enhanced Content Collapse Air receivers are air storage tanks used with dry pipe or preaction system air supplies using air compressors with capacities of 5.5 ft3/min (160 L/min) or more. (See also ﻿﻿8.2.6.6.2﻿﻿.)"
+            },
+            "3.3.3": {
+                "title": "Air Reservoir.",
+                "text": "A chamber that can store air at the same pressure that is in the wet pipe system piping. (AUT-SSI)"
+            },
+            "3.3.4": {
+                "title": "Aisle Width.",
+                "text": "The horizontal dimension between the face of the loads in racks under consideration. (AUT-SSD)  Enhanced Content Collapse The width of an aisle plays an important role in the required protection for a storage arrangement. For any given sprinkler system to be effective in controlling a fire, it must be able to limit horizontal fire spread beyond the point of fire origin. As the width of an aisle increases, the impact due to radiant heat transfer decreases, thus making it easier for the sprinkler system to prevent fire jump across the aisle. As a result, the sprinkler system requirements are sometimes reduced as the aisle width increases.  It should be noted that NFPA 13 provides two different measured horizontal widths—3½ ft (1.1 m) and 24 in. (600 mm)—that are important for the purpose of defining a given protection arrangement involving rack storage. In the case of the 3½ ft (1.1 m) measurement, this is the minimum aisle width between storage racks that defines the type of storage rack (e.g., single-row, double-row, or multiple-row) to be protected. In other words, the depth of the rack in the direction perpendicular to the loading aisle is defined by an aisle width of at least 3½ ft (1.1 m). In the case of the 24 in. (600 mm) measurement, this is the maximum depth of a flue space. Therefore, any horizontal space between storage racks that is greater than 24 in. (600 mm) is considered an aisle, as opposed to a flue space. As a result, if in-rack sprinklers are needed for the protection of the storage rack, they must be located within the footprint of the storage rack, as opposed to being located within the space that exceeds 24 in. (600 mm) in width."
+            },
+            "3.3.5": {
+                "title": "Antifreeze Sprinkler System.",
+                "text": "See 3.3.216.1."
+            },
+            "3.3.6": {
+                "title": "Appurtenance.",
+                "text": "An accessory or attachment that enables the private fire service main to perform its intended function. [24, 2022] (AUT-PRI)  Enhanced Content Collapse The term appurtenance, while extracted from ﻿﻿NFPA 24﻿﻿, Standard for the Installation of Private Fire Service Mains and Their Appurtenances, in this context, can also apply to apparatus or instruments associated with other system components, such as valve trim, and is not limited to private fire service mains."
+            },
+            "3.3.7": {
+                "title": "Arm-Over.",
+                "text": "A horizontal pipe that extends from the branch line to a single sprinkler or a sprinkler above and below a ceiling. (AUT-SSI)"
+            },
+            "3.3.8": {
+                "title": "Array.",
+                "text": "3.3.8.1 Closed Array (Palletized, Solid-Piled, Bin Box, and Shelf Storage). A storage arrangement where air movement through the pile is restricted because of 6 in. (150 mm) or less vertical flues. (AUT-SSD)  3.3.8.2 Closed Array (Rolled Paper). A vertical storage arrangement in which the distances between columns in both directions are short [not more than 2 in. (50 mm) in one direction and 1 in. (25 mm) in the other]. (AUT-SSD)  3.3.8.3* Open Array (Palletized, Solid-Piled, Bin Box, and Shelf Storage). A storage arrangement where air movement through the pile is enhanced because of vertical flues larger than 6 in. (150 mm). (AUT-SSD)  3.3.8.4 Open Array (Rolled Paper). A vertical storage arrangement in which the distance between columns in both directions is lengthy (all vertical arrays other than closed or standard). (AUT-SSD)  3.3.8.5* Standard Array (Rolled Paper). A vertical storage arrangement in which the distance between columns in one direction is short [1 in. (25 mm) or less] and is in excess of 2 in. (50 mm) in the other direction. (AUT-SSD)"
+            },
+            "3.3.9": {
+                "title": "Automated Inspection and Testing.",
+                "text": "The performance of inspections and tests at a distant location from the system or component being inspected or tested through the use of electronic devices or equipment installed for the purpose. (AUT-SSI)"
+            },
+            "3.3.10": {
+                "title": "Automatic Sprinkler.",
+                "text": "See 3.3.215.1."
+            },
+            "3.3.11": {
+                "title": "Automotive Components on Portable Racks.",
+                "text": "All automotive components with or without expanded Group A plastic dunnage; excludes the storage of air bags, tires, and seats on portable racks. (AUT-SSD)  Enhanced Content Collapse The term automotive components applies only to the protection criteria outlined in Section ﻿﻿26.2﻿﻿ for the protection of these components and storage arrangements."
+            },
+            "3.3.12": {
+                "title": "Average Roof Height.",
+                "text": "See 3.3.21, Building Height. (AUT-HBS)"
+            },
+            "3.3.13": {
+                "title": "Back-to-Back Shelf Storage.",
+                "text": "Two solid or perforated shelves up to 30 in. (750 mm) in depth each, not exceeding a total depth of 60 in. (1.5 m), separated by a longitudinal vertical barrier such as plywood, particleboard, sheet metal, or equivalent, with a maximum 0.25 in. (6 mm) diameter penetrations and no longitudinal flue space and a maximum storage height of 15 ft (4.6 m). (AUT-SSD)  Enhanced Content Collapse The term back-to-back shelf storage is related to requirements for protection of shelf storage in those sections describing storage, including Section ﻿﻿4.3﻿﻿ and the storage chapters. The basis for these requirements is the Fire Protection Research Foundation (FPRF) report of full-scale fire tests, “Evaluation of Sprinkler Performance in Protecting Gondola Type Shelf Storage.”"
+            },
+            "3.3.14": {
+                "title": "Baled Cotton.",
+                "text": "A natural seed fiber wrapped and secured in industry-accepted materials, usually consisting of burlap, woven polypropylene, or sheet polyethylene, and secured with steel, synthetic or wire bands, or wire; also includes linters and motes. (AUT-SSD)"
+            },
+            "3.3.15": {
+                "title": "Banded Roll Paper Storage.",
+                "text": "See 3.3.188.1."
+            },
+            "3.3.16": {
+                "title": "Banded Tires.",
+                "text": "A storage method in which a number of tires are strapped together. (AUT-SSD)"
+            },
+            "3.3.17": {
+                "title": "Bathroom.",
+                "text": "Within a dwelling unit, any room or compartment dedicated to personal hygiene, containing a toilet, sink, or bathing capability such as a shower or tub. (AUT-SSI)  Enhanced Content Collapse The term bathroom identifies and clarifies the physical boundaries and characteristics of a bathroom. This definition provides clarification when applied to ﻿﻿9.2.4.1.1﻿﻿ for the omission of sprinklers in some bathrooms. Many modern dwelling units contain several small adjacent rooms that together provide the basic requirements for the term bathroom. These individual rooms or compartments should be treated as bathrooms."
+            },
+            "3.3.18": {
+                "title": "B-Class Boundary.",
+                "text": "See 3.3.125.2."
+            },
+            "3.3.19": {
+                "title": "Bin Box Storage.",
+                "text": "Storage in five-sided wood, metal, or cardboard boxes with open face on the aisles in which boxes are self-supporting or supported by a structure so designed that little or no horizontal or vertical space exists around boxes. (AUT-SSD)"
+            },
+            "3.3.20": {
+                "title": "Branch Lines.",
+                "text": "The pipes supplying sprinklers, either directly or through sprigs, drops, return bends, or arm-overs. (AUT-SSI)  Enhanced Content Collapse Branch lines are usually the smallest diameter pipes installed on a system and normally have sprinklers attached to them."
+            },
+            "3.3.21": {
+                "title": "Building Height.",
+                "text": "For the purposes of seismic protection, the vertical distance from the grade plane to the average elevation of the highest roof surface. (AUT-HBS)  Enhanced Content Collapse The definition of building height has been added to the 2022 edition of NFPA 13 to apply the appropriate building height for seismic design of buildings with sloped roofs. This is applicable only to seismic protection; in other design scenarios, heights can be considered differently."
+            },
+            "3.3.22": {
+                "title": "Bulkhead.",
+                "text": "A vertical barrier across the rack. (AUT-SSI)"
+            },
+            "3.3.23": {
+                "title": "Carton Records Storage.",
+                "text": "A Class III commodity consisting predominantly of paper records in cardboard cartons. (AUT-SSD)  Enhanced Content Collapse Although carton records storage falls within the Class III commodity classification, the testing that was used to support the design criteria located in Section ﻿﻿26.6﻿﻿, which relates to this definition, was limited to this specific type of Class III storage, not the broad range of combustibles contained in the Class III commodity classification."
+            },
+            "3.3.24": {
+                "title": "Cartoned.",
+                "text": "A method of storage consisting of corrugated cardboard or paperboard containers fully enclosing the commodity. (AUT-SSD)"
+            },
+            "3.3.25": {
+                "title": "Catwalk.",
+                "text": "For the purposes of carton records storage, a storage aid consisting of either open metal grating or solid horizontal barriers supported from a rack storage system that is utilized as a walkway for access to storage at elevated levels. Catwalks are accessed using stairs and are not separate floors of a building. (AUT-SSD)  Enhanced Content Collapse See ﻿﻿Figure A.26.6.6.3.5(a)﻿﻿ for an example of a catwalk used in records storage."
+            },
+            "3.3.26": {
+                "title": "Ceiling Height.",
+                "text": "The distance between the floor and the underside of the ceiling above (or roof deck) within the area. (AUT-SSD)"
+            },
+            "3.3.27": {
+                "title": "Ceiling Pocket.",
+                "text": "An architectural ceiling feature that consists of a bounded area of ceiling located at a higher elevation than the attached lower ceiling. (AUT-SSI)  Enhanced Content Collapse Some minor depressions in ceilings can be protected from ceiling sprinklers in adjacent ceiling areas and should not be considered ceiling pockets in accordance with ﻿﻿﻿﻿﻿﻿10.2.9﻿﻿﻿﻿﻿﻿, ﻿﻿﻿﻿﻿11.2.7﻿﻿﻿﻿﻿, or ﻿﻿﻿﻿19.2.3.2.3.1﻿﻿﻿﻿(4). An example of this would be a ceiling depression that is 10 in. (250 mm) deep that does not have any sprinklers in it but is protected by sprinklers at the surrounding elevation that are 2 in. (50 mm) below the ceiling at their location. Such sprinklers are within 12 in. (300 mm) of the ceiling of the depression and as a result are in compliance with ﻿﻿﻿10.2.6.1.1.1﻿﻿﻿ and ﻿﻿11.2.4.1.1.1﻿﻿, which require sprinklers to be within 1 in. to 12 in. (25 mm to 300 mm) from the ceiling."
+            },
+            "3.3.28": {
+                "title": "Ceiling Types.",
+                "text": "Enhanced Content Collapse Definitions of ceiling types help to clarify that, where used throughout NFPA 13, these terms have specific meanings that affect the use of specific sprinklers. In many cases, these terms provide limits on the applications of specific types of sprinklers and must be understood when choosing a specific sprinkler. Additionally, some sprinklers are permitted to be used only with specific ceiling types. Each type of sprinkler should be reviewed based on the requirements of Chapters ﻿﻿﻿10﻿﻿﻿ through ﻿﻿15﻿﻿.  3.3.28.1 Flat Ceiling. A continuous ceiling in a single plane. (AUT-SSI)  Enhanced Content Collapse The term flat ceiling does not mean that the ceiling is horizontal. In many instances and applications, flat ceilings have some type of slope.  3.3.28.2 Horizontal Ceiling. A ceiling with a slope not exceeding 2 in 12 (16.7 percent). (AUT-SSI)  Enhanced Content Collapse A horizontal ceiling is limited to a ceiling plane where the slope of the ceiling plane does not exceed 2 units of rise for every 12 units of run. Exhibit 3.1 illustrates how to determine ceiling slope.  EXHIBIT 3.1 Ceiling Slope.    3.3.28.3 Sloped Ceiling. A ceiling with a slope exceeding 2 in 12 (16.7 percent). (AUT-SSI)  Enhanced Content Collapse A sloped ceiling is limited to a ceiling plane where the slope of the ceiling plane exceeds 2 units of rise for every 12 units of run. (See Exhibit 3.1.)   3.3.28.4 Smooth Ceiling. A continuous ceiling free from irregularities, lumps, or indentations greater than 4 in. (100 mm) in depth. (AUT-SSI)  Enhanced Content Collapse The term smooth ceiling applies to the actual surface of the ceiling and is applicable to each type of ceiling defined in ﻿﻿﻿﻿3.3.28.1﻿﻿﻿﻿, ﻿﻿﻿3.3.28.2﻿﻿﻿, and ﻿﻿3.3.28.3﻿﻿. Previous editions stated only “significant irregularities, lumps, or indentations”; this edition of the standard removes that ambiguity by specifying the size to be greater than 4 in (100 mm) in depth. This dimension aligns with obstructed construction criteria."
+            },
+            "3.3.29": {
+                "title": "Central Safety Station.",
+                "text": "See 3.3.125.3."
+            },
+            "3.3.30": {
+                "title": "Check Valve.",
+                "text": "See 3.3.235.1."
+            },
+            "3.3.31": {
+                "title": "Clearance to Ceiling.",
+                "text": "The distance from the top of storage to the ceiling above. (AUT-SSD)"
+            },
+            "3.3.32": {
+                "title": "Closed Array (Palletized, Solid-Piled, Bin Box, and Shelf Storage).",
+                "text": "See 3.3.8.1."
+            },
+            "3.3.33": {
+                "title": "Closed Array (Rolled Paper).",
+                "text": "See 3.3.8.2."
+            },
+            "3.3.34": {
+                "title": "Cloud Ceiling.",
+                "text": "Any ceiling system, not including sloped ceilings, installed in the same plane with horizontal openings to the structure above on two or more sides. (AUT-SSI)  Enhanced Content Collapse Cloud ceilings are becoming more common in office buildings and public spaces, such as shops and restaurants, as a way to hide system equipment including ductwork and piping, without installing a complete, wall-to-wall suspended or drop ceiling. These ceiling systems have historically required sprinkler protection both above and below the cloud ceiling. Testing conducted by the Fire Protection Research Foundation (FPRF) led to the development of the criteria in ﻿﻿9.2.7﻿﻿. Exhibit 3.2 shows a cloud ceiling with sprinklers installed “below” the cloud.  EXHIBIT 3.2 Typical Cloud Ceiling Installation. (Courtesy of Armstrong Ceiling & Wall Systems)"
+            },
+            "3.3.35": {
+                "title": "Column (Rolled Paper).",
+                "text": "A single vertical stack of rolls. (AUT-SSD)"
+            },
+            "3.3.36": {
+                "title": "Combined Dry Pipe Preaction Sprinkler System.",
+                "text": "See 3.3.216.2."
+            },
+            "3.3.37": {
+                "title": "Commodity.",
+                "text": "The combination of products, packing material, and container that determines commodity classification. (AUT-SSD)"
+            },
+            "3.3.38": {
+                "title": "Compact Storage.",
+                "text": "Storage on solid shelves not exceeding 36 in. (900 mm) in total depth, arranged as part of a compact storage module, with no more than 30 in. (750 mm) between shelves vertically and with no internal vertical flue spaces other than those between individual shelving sections. (AUT-SSD)"
+            },
+            "3.3.39": {
+                "title": "Compact Storage Module.",
+                "text": "A type of shelving unit consisting of compact storage whereby the units move to allow for storage to be pushed together creating a storage unit with no flues or minimal spaces between units. Aisles are created by moving the shelving unit. Compact storage modules can be manual or electric in operation. (AUT-SSD)"
+            },
+            "3.3.40": {
+                "title": "Compartment.",
+                "text": "A space completely enclosed by walls and a ceiling. Each wall in the compartment is permitted to have openings to an adjoining space if the openings have a minimum lintel depth of 8 in. (200 mm) from the ceiling and the total width of the openings in each wall does not exceed 8 ft (2.4 m). A single opening of 36 in. (900 mm) or less in width without a lintel is permitted where there are no other openings to adjoining spaces. (AUT-SSI)  Enhanced Content Collapse FAQ  Why are openings without lintels in compartments limited to a single opening having a maximum width of 36 in. (900 mm)?  The single opening of 36 in. (900 mm) or less without a lintel addresses typical office-type applications with a full-height door opening that does not incorporate a lintel. The single 36 in. (900 mm) opening was substantiated by the report “The Impact of 8 in. Lintels on Sprinkler Activation Within Small Rooms,” submitted by the American Fire Sprinkler Association.The term compartment is primarily associated with the use of fast-response sprinklers, which include residential and quick-response-type sprinklers. For a system using residential sprinklers in a compartment, ﻿﻿9.4.3.2﻿﻿ requires that all the sprinklers within the compartment be of the quick-response type. Additionally, the term compartment applies to areas where light hazard systems are converted to use quick-response or residential sprinklers (see ﻿﻿﻿﻿﻿﻿﻿﻿9.4.3.6﻿﻿﻿﻿﻿﻿﻿﻿) or to areas where the area of operation reduction is taken in accordance with the requirements of ﻿﻿﻿﻿﻿﻿﻿19.2.3.2.3.1﻿﻿﻿﻿﻿﻿﻿.  Openings in a compartment can extend to the ceiling only for a single opening up to 36 in. (900 mm) in width. For wider openings, a minimum 8 in. (200 mm) lintel ensures that heat from a fire collects at the ceiling in the room, which results in faster operation of the sprinklers nearest to the fire."
+            },
+            "3.3.41": {
+                "title": "Compartmented.",
+                "text": "The rigid separation of the products in a container by dividers that form a stable unit under fire conditions. (AUT-SSD)"
+            },
+            "3.3.42": {
+                "title": "Concealed Sprinkler.",
+                "text": "See 3.3.215.3.1."
+            },
+            "3.3.43": {
+                "title": "Construction Definitions.",
+                "text": "Enhanced Content Collapse Section 3.3.43 contains construction definitions. Ceiling construction affects sprinkler installation, in that it is a factor in determining the position of the sprinkler deflector in relation to the ceiling and in determining the allowable area of coverage for a given sprinkler.  Sprinklers must be positioned so that they are located in the hot gas layer that develops near the ceiling during a fire. Such sprinkler placement allows for timely operation. Depending on the ceiling construction type, sprinklers are permitted to be located at various distances from the ceiling so that they activate shortly after the fire begins.  Sprinklers also must be positioned so that their discharge pattern is not adversely affected by construction elements at the ceiling. If water cannot reach the combustible surfaces, the effectiveness of the sprinkler system will be compromised. To a large degree, potential obstructions to sprinkler discharge are addressed by the obstruction requirements of ﻿﻿﻿﻿9.5.5﻿﻿﻿﻿.  Ceiling construction also affects sprinkler discharge. Therefore, the maximum area of coverage for a specific type of sprinkler depends on the type of ceiling construction under which the sprinkler is installed.  The numerous construction terms in NFPA 13 fall into two basic categories: obstructed construction and unobstructed construction. The construction types identified in ﻿﻿﻿A.3.3.43.1﻿﻿﻿ and ﻿﻿A.3.3.43.2﻿﻿ aid in determining whether a given ceiling construction should be classified as obstructed or unobstructed. The annex material also describes particular ceiling features that influence the placement of sprinklers.  3.3.43.1* Obstructed Construction. Panel construction and other construction where beams, trusses, or other members impede heat flow or water distribution in a manner that materially affects the ability of sprinklers to control or suppress a fire. (AUT-SSI)  3.3.43.2* Unobstructed Construction. Construction where beams, trusses, or other members do not impede heat flow or water distribution in a manner that materially affects the ability of sprinklers to control or suppress a fire. Unobstructed construction has horizontal structural members that are not solid, where the openings are at least 70 percent of the cross-section area and the depth of the member does not exceed the least dimension of the openings, or all construction types, with the exception of panel construction, where the spacing of structural members exceeds 71⁄2 ft (2.3 m) on center. (AUT-SSI)"
+            },
+            "3.3.44": {
+                "title": "Container (Shipping, Master, or Outer Container).",
+                "text": "A receptacle strong enough, by reason of material, design, and construction, to be shipped safely without further packaging. (AUT-SSD)"
+            },
+            "3.3.45": {
+                "title": "Continuous Obstruction.",
+                "text": "See 3.3.140.1."
+            },
+            "3.3.46": {
+                "title": "Control Mode Density/Area (CMDA) Sprinkler.",
+                "text": "See 3.3.215.4.1."
+            },
+            "3.3.47": {
+                "title": "Control Mode Specific Application (CMSA) Sprinkler.",
+                "text": "See 3.3.215.4.2."
+            },
+            "3.3.48": {
+                "title": "Control Valve.",
+                "text": "See 3.3.235.2."
+            },
+            "3.3.49": {
+                "title": "Conventional Pallet.",
+                "text": "See 3.3.154.1."
+            },
+            "3.3.50": {
+                "title": "Core (Rolled Paper).",
+                "text": "The central tube around which paper is wound to form a roll. (AUT-SSD)"
+            },
+            "3.3.51": {
+                "title": "Corrosion-Resistant Piping.",
+                "text": "Piping that has the property of being able to withstand deterioration of its surface or its properties when exposed to its environment. [24, 2022] (AUT-PRI)  Enhanced Content Collapse The term corrosion-resistant piping, while extracted from NFPA 24 in this context, can also apply to piping associated with aboveground systems and should not be limited to private fire service mains."
+            },
+            "3.3.52": {
+                "title": "Corrosion-Resistant Sprinkler.",
+                "text": "See 3.3.215.4.3."
+            },
+            "3.3.53": {
+                "title": "Corrosion-Retarding Material.",
+                "text": "A lining or coating material that when applied to piping or appurtenances has the property of reducing or slowing the deterioration of the object's surface or properties when exposed to its environment. [24, 2022] (AUT-PRI)  Enhanced Content Collapse The term corrosion-retarding material, while extracted from ﻿﻿NFPA 24﻿﻿ in this context, can also apply to piping or appurtenances associated with aboveground systems and should not be limited to private fire service mains."
+            },
+            "3.3.54": {
+                "title": "Cross Mains.",
+                "text": "The pipes supplying the branch lines, either directly or through riser nipples. (AUT-SSI)"
+            },
+            "3.3.55": {
+                "title": "Deluge Sprinkler System.",
+                "text": "See 3.3.216.3."
+            },
+            "3.3.56": {
+                "title": "Differential Dry Pipe Valve.",
+                "text": "See 3.3.235.4.1."
+            },
+            "3.3.57": {
+                "title": "Distance Monitoring.",
+                "text": "The monitoring of various conditions of a system or component from a distant location from the system or component through the use of electronic devices, meters, or equipment installed for the purpose. (AUT-SSI)"
+            },
+            "3.3.58": {
+                "title": "Double-Row Racks.",
+                "text": "Racks less than or equal to 12 ft (3.7 m) in depth or single-row racks placed back to back having an aggregate depth up to 12 ft (3.7 m), with aisles having an aisle width of at least 3.5 ft (1.1 m) between loads on racks. (AUT-SSD)  Enhanced Content Collapse If the racks are less than or equal to 6 ft (1.8 m) in depth and separated on both sides by minimum 3½ ft (1.1 m) aisle widths, see the definition for single-row racks (﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿3.3.200﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿). For racks that do not meet the definition of single-row racks or double-row racks, see the definition of multiple-row racks (﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿3.3.134﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿). The 3D animation in Related Resources below shows an example of a double-row rack.  Related Resources  Double Rack Storage Double Rack Storage  Video"
+            },
+            "3.3.59": {
+                "title": "Draft Curtain.",
+                "text": "A fixed or deployable barrier that protrudes downward from the ceiling to channel, contain, or prevent the migration of smoke and/or heat. (AUT-SSD)  Enhanced Content Collapse The definition of draft curtain clarifies that, for sprinkler system purposes, the intent or function is to bank heat or smoke. The definition correlates with ﻿﻿NFPA 204﻿﻿, Standard for Smoke and Heat Venting. Although not explicitly addressed within NFPA 13, NFPA 204 requires the curtain to be constructed of rigid materials. The definition has been revised for the 2022 edition to better align with NFPA 204 and now explicitly states that a draft curtain can be a fixed or deployable barrier."
+            },
+            "3.3.60": {
+                "title": "Drop.",
+                "text": "A vertical pipe supplying one sprinkler from above. (AUT-SSI)"
+            },
+            "3.3.61": {
+                "title": "Drop-Out Ceiling.",
+                "text": "A suspended ceiling system, which is installed below the sprinklers, with listed translucent or opaque panels that are heat sensitive and fall from their setting when exposed to heat. (AUT-SSI)  Enhanced Content Collapse A drop-out ceiling allows the installation of a false ceiling beneath an existing sprinkler system. Dropout ceilings provide an alternative to relocating sprinklers beneath a new ceiling.  Drop-out ceilings are evaluated to verify that they do not contribute to fire growth and that they do not significantly delay the operation of the sprinkler system. Once a drop-out ceiling is installed, the building owner must ensure that any ceiling panels replaced during the life of the system are of the same type originally installed. Currently, the listings for these ceilings limit the installation to standard-response sprinklers."
+            },
+            "3.3.62": {
+                "title": "Dry Barrel Hydrant (Frostproof Hydrant).",
+                "text": "See 3.3.107.1."
+            },
+            "3.3.63": {
+                "title": "Dry Pipe Sprinkler System.",
+                "text": "See 3.3.216.4."
+            },
+            "3.3.64": {
+                "title": "Dry Sprinkler.",
+                "text": "See 3.3.215.4.4."
+            },
+            "3.3.65": {
+                "title": "Dwelling Unit (for sprinkler system installations).",
+                "text": "One or more rooms arranged for the use of one or more individuals living together, as in a single housekeeping unit normally having cooking, living, sanitary, and sleeping facilities that include, but are not limited to, hotel rooms, dormitory rooms, apartments, condominiums, sleeping rooms in nursing homes, and similar living units. (AUT-SSI)  Enhanced Content Collapse A dwelling unit (see ﻿﻿﻿9.2.4﻿﻿﻿) is one of a series of connected rooms within a residential occupancy. Residential occupancies are identified in ﻿﻿A.4.3.2﻿﻿ as light hazard. The residential classification encompasses all dwelling units included in the definition. The residential classification allows for the use of residential sprinklers. In addition, certain spaces within a dwelling unit are identified as being exempt from sprinkler coverage. NFPA 13 precisely defines those spaces in those specific types of residential occupancies, such as hotels, in which sprinkler coverage can be omitted."
+            },
+            "3.3.66": {
+                "title": "Early Suppression Fast-Response (ESFR) Sprinkler.",
+                "text": "See 3.3.215.4.5."
+            },
+            "3.3.67": {
+                "title": "Electrically Operated Sprinkler.",
+                "text": "See 3.3.215.4.6."
+            },
+            "3.3.68": {
+                "title": "Encapsulation.",
+                "text": "A method of packaging that either consists of a plastic sheet completely enclosing the sides and top of a pallet load containing a combustible commodity, a combustible package, or a group of combustible commodities or combustible packages, or consists of combustible commodities individually wrapped in plastic sheeting and stored exposed in a pallet load. (AUT-SSD)  Enhanced Content Collapse FAQ  What is the difference between commodities that are encapsulated and commodities that are wrapped in plastic?  The chairs shown in Exhibit 3.7 are considered encapsulated, because the chairs are completely enclosed by the plastic sheet. The wrapped commodities in Exhibit 3.8 are not considered encapsulated, because the plastic does not cover the top of the pallet loads.  EXHIBIT 3.7 Encapsulated Chairs. (Courtesy of Telgian Corporation)    EXHIBIT 3.8 Commodities Wrapped in Plastic Sheet. (Courtesy of Telgian Corporation)"
+            },
+            "3.3.69": {
+                "title": "Expanded (Foamed or Cellular) Plastics.",
+                "text": "Those plastics, the density of which is reduced by the presence of numerous small cavities (cells), interconnecting or not, dispersed throughout their mass. (AUT-SSD)"
+            },
+            "3.3.70": {
+                "title": "Exposed Group A Plastic Commodities.",
+                "text": "Those plastics not in packaging or coverings that absorb water or otherwise appreciably retard the burning hazard of the commodity. (Paper wrapped or encapsulated, or both, should be considered exposed.) (AUT-SSD)"
+            },
+            "3.3.71": {
+                "title": "Extended Coverage Sprinkler.",
+                "text": "See 3.3.215.4.7."
+            },
+            "3.3.72": {
+                "title": "Extension Fitting.",
+                "text": "A male by female adapter intended to be used with a sprinkler to adjust the final fit where the sprinkler is installed in a finished ceiling or wall. (AUT-SSI)  Enhanced Content Collapse Extension fittings, like the one shown in Exhibit 3.9, are common in system modifications and tenant improvement projects. There are specific requirements and limitations on their use and when friction loss through these fittings must be included. See ﻿﻿16.8.6﻿﻿ for extension fitting requirements.  EXHIBIT 3.9 Extension Fitting. (Courtesy of Viking Group, Inc.)"
+            },
+            "3.3.73": {
+                "title": "Exterior Projection.",
+                "text": "An extension beyond an exterior wall capable of collecting heat below. (AUT-SSI)  Enhanced Content Collapse The definition for exterior projection has been added to the standard for the 2022 edition. The definition is meant to provide clarity for determining the applicability of the exterior projection rules in ﻿﻿9.2.3﻿﻿."
+            },
+            "3.3.74": {
+                "title": "Extra Hazard (Group 1) (EH1).",
+                "text": "See 3.3.141.1."
+            },
+            "3.3.75": {
+                "title": "Extra Hazard (Group 2) (EH2).",
+                "text": "See 3.3.141.2."
+            },
+            "3.3.76": {
+                "title": "Face Sprinklers.",
+                "text": "Standard sprinklers that are located in transverse flue spaces along the aisle or in the rack, are within 18 in. (450 mm) of the aisle face of storage, and are used to oppose vertical development of fire on the external face of storage. (AUT-SSD)  Enhanced Content Collapse Face sprinklers must be located at transverse flues within racks. Face sprinklers are not effective if located outside the flue space, even if they are within 18 in. (450 mm) of the rack face. Exhibit 3.10 illustrates a face sprinkler that is not located directly in the transverse flue. Note the wood slat and pallet load just above the sprinkler.  EXHIBIT 3.10 Face Sprinkler Not Properly Located Within Transverse Flue.    NFPA 13 offers several in-rack sprinkler protection arrangements that do not include the installation of face sprinklers. For a fire that originates on the face of a storage rack, these in-rack sprinkler arrangements assume that the pallet loads in the storage racks will allow an acceptable amount of in-rack sprinkler discharge to run across the top of the pallet loads and down their vertical surfaces that are facing the aisle. In-rack sprinkler arrangements that incorporate the installation of face sprinklers should be considered where the pallet loads being maintained within storage racks can potentially obstruct or redirect in-rack sprinkler discharge from reaching the face of a storage rack."
+            },
+            "3.3.77": {
+                "title": "Feed Mains.",
+                "text": "The pipes supplying cross mains, either directly or through risers. (AUT-SSI)"
+            },
+            "3.3.78": {
+                "title": "Fire Control.",
+                "text": "Limiting the size of a fire by distribution of water so as to decrease the heat release rate and pre-wet adjacent combustibles, while controlling ceiling gas temperatures to avoid structural damage. (AUT-SSD)"
+            },
+            "3.3.79": {
+                "title": "Fire Department Connection.",
+                "text": "A connection through which the fire department can pump supplemental water into the sprinkler system, standpipe, or other water-based fire protection systems, furnishing water for fire extinguishment to supplement existing water supplies. [24, 2022] (AUT-PRI)  Enhanced Content Collapse Fire department connections were traditionally equipped with inlet sizes of 2½ in. (65 mm) for the connection of 2½ in. (65 mm) hose from the fire department pumper. Some fire department connections are now equipped with non-threaded connections in inlet sizes of 4 in. (100 mm) or 5 in. (125 mm). These non-threaded connections are intended to couple hoses of the appropriate size where the hose connections comply with ﻿﻿NFPA 1963﻿﻿, Standard for Fire Hose Connections."
+            },
+            "3.3.80": {
+                "title": "Fire Pump.",
+                "text": "A pump that is a provider of liquid flow and pressure dedicated to fire protection. [20, 2022] (AUT-SSI)"
+            },
+            "3.3.81": {
+                "title": "Fire Suppression.",
+                "text": "Sharply reducing the heat release rate of a fire and preventing its regrowth by means of direct and sufficient application of water through the fire plume to the burning fuel surface. (AUT-SSD)  Enhanced Content Collapse The term fire suppression is qualitative in nature because it does not specify to what extent—for example, 10 percent or 50 percent—the rate of heat release must be reduced in order to achieve suppression. The concept of fire suppression was fully realized in sprinkler system technology in the spring of 1988 when the first ESFR sprinkler was introduced.  A sprinkler can achieve a 100 percent reduction of the heat release rate, that is, complete extinguishment, of a free-burning cellulose material, such as wood, located in the center of a room if the fire, especially the area near the ignition, is not shielded from sprinkler discharge. In contrast, if a plasticized product stored 10 ft (3.0 m) high is burning with the ignition source near the floor, and the fire is partially shielded from the sprinkler because the material is stored on wood pallets, then a reduction in the heat release rate of less than 100 percent is more likely. The degree to which a fire is shielded from the sprinkler and its discharge is a key factor affecting a sprinkler system’s ability to suppress a fire.  Exhibit 3.11 shows a simplified heat release rate curve and how it would be affected by a sprinkler system designed for fire control versus one designed for fire suppression. ESFR sprinklers are specifically designed to provide fire suppression.  EXHIBIT 3.11 Simplified Fire Control/Fire Suppression Analogy."
+            },
+            "3.3.82": {
+                "title": "Flat Ceiling.",
+                "text": "See 3.3.28.1."
+            },
+            "3.3.83": {
+                "title": "Flexible Coupling.",
+                "text": "A listed coupling or fitting that allows axial displacement, rotation, and at least 1 degree of angular movement of the pipe without inducing harm on the pipe. For pipe diameters of 8 in. (200 mm) and larger, the angular movement is permitted to be less than 1 degree but not less than 0.5 degree. (AUT-SSI)  Enhanced Content Collapse As specified, flexible listed pipe coupling permits some angular movement of the pipe joint. The requirements in Section ﻿﻿18.2﻿﻿ describe piping configurations that use this angular movement to reduce the potential for pipe breakage and maintain system integrity during seismic events. These listed couplings are tested to determine compliance with the angular deflection specified in 3.3.83 and are specifically noted in the listings and installation instructions as flexible type."
+            },
+            "3.3.84": {
+                "title": "Flow Hydrant.",
+                "text": "See 3.3.107.2."
+            },
+            "3.3.85": {
+                "title": "Flow Test.",
+                "text": "A test performed by the flow and measurement of water from one hydrant and the static and residual pressures from an adjacent hydrant for the purpose of determining the available water supply at that location. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.86": {
+                "title": "Flush Sprinkler.",
+                "text": "See 3.3.215.3.2."
+            },
+            "3.3.87": {
+                "title": "Flushing Test.",
+                "text": "A test of a piping system using flowrates intended to remove debris from the piping system prior to it being placed in service. [24, 2022] (AUT--SSI)"
+            },
+            "3.3.88": {
+                "title": "Four-Way Bracing.",
+                "text": "Adjacent sway braces or a sway brace assembly intended to resist differential movement of the system piping in all horizontal directions. (AUT-HBS)"
+            },
+            "3.3.89": {
+                "title": "Free-Flowing Plastic Materials.",
+                "text": "Those plastics that fall out of their containers during a fire, fill flue spaces, and create a smothering effect on the fire. (AUT-SSD)"
+            },
+            "3.3.90": {
+                "title": "Fuel-Fired Heating Unit.",
+                "text": "An appliance that produces heat by burning fuel. (AUT-SSI)"
+            },
+            "3.3.91": {
+                "title": "General Sprinkler Characteristics.",
+                "text": "See 3.3.215.2."
+            },
+            "3.3.92": {
+                "title": "Grade Plane.",
+                "text": "A reference plane upon which vertical measurements of a building are based representing the average of the finished ground level adjoining the building at all exterior walls. [See also 3.3.222, Finished Ground Level (Grade), of NFPA 5000.] [5000, 2021] (AUT-HBS)  Enhanced Content Collapse The definition of grade plane has been added to the 2022 edition of NFPA 13 because it is needed to apply the appropriate grade plane for seismic design of buildings with sloped roofs."
+            },
+            "3.3.93": {
+                "title": "Gridded Sprinkler System.",
+                "text": "See 3.3.216.5."
+            },
+            "3.3.94": {
+                "title": "Hanger.",
+                "text": "A device or assembly used to support the gravity load of the system piping. (AUT-HBS)"
+            },
+            "3.3.95": {
+                "title": "Heat-Sensitive Material.",
+                "text": "See 3.3.125.4."
+            },
+            "3.3.96": {
+                "title": "Heel.",
+                "text": "See 3.3.125.5."
+            },
+            "3.3.97": {
+                "title": "Heel Angle.",
+                "text": "See 3.3.125.6."
+            },
+            "3.3.98": {
+                "title": "High Volume Low Speed Fan.",
+                "text": "A ceiling fan that is approximately 6 ft (1.8 m) to 24 ft (7.3 m) in diameter with a rotational speed of approximately 30 to 70 revolutions per minute. (AUT-SSD)"
+            },
+            "3.3.99": {
+                "title": "High-Challenge Fire Hazard.",
+                "text": "A fire hazard typical of that produced by fires in combustible high-piled storage. (AUT-SSD)"
+            },
+            "3.3.100": {
+                "title": "High-Piled Storage.",
+                "text": "Solid-piled, palletized, rack storage, bin box, and shelf storage of Class I through Class IV commodities more than 12 ft (3.7 m) in height and solid-piled, palletized, rack storage, bin box, and shelf storage of Group A plastic commodities more than 5 ft (1.5 m) in height. (AUT-SSD)  Enhanced Content Collapse The definition for high-piled storage has been revised to specify that storage heights exceeding 12 ft (3.7 m) of Class I through Class IV commodities are considered high-piled storage by NFPA 13, while the height criteria is 5 ft (1.5 m) for Class A plastic commodities. This clarifies how requirements have been applied in the storage chapters for some time with the definition."
+            },
+            "3.3.101": {
+                "title": "Horizontal Barrier.",
+                "text": "A solid barrier in the horizontal position covering the rack at certain height increments to prevent vertical fire spread. (AUT-SSD)  Enhanced Content Collapse In the same manner that a building’s ceiling captures heat from a fire and directs it to the nearest ceiling-level sprinklers, a horizontal barrier within a storage rack acts as a ceiling for in-rack sprinklers. The purpose of the horizontal barrier is to trap the heat from a fire underneath it and funnel it to the nearest in-rack sprinklers so they can operate in a timely fashion and provide fire control. To achieve this goal, it is important that the horizontal barrier cover most of the horizontal surfaces of the storage rack at the tier level where the barrier is being installed.  NFPA 13 offers several different in-rack sprinkler protection options that incorporate the use of horizontal barriers. Some of these protection options are designed to prevent the fire from traveling vertically past the barriers and some are not. It is important to review each in-rack sprinkler design that uses horizontal barriers carefully to make sure it is clear where gaps in the barriers are allowed and how wide they can be.  Note that when compared to the number of in-rack sprinklers required in storage racks void of horizontal barriers, the installation of horizontal barriers typically will reduce the number of in-rack sprinklers required at the tier levels where sprinklers are needed. However, they generally will not affect the vertical location at which in-rack sprinklers are required."
+            },
+            "3.3.102": {
+                "title": "Horizontal Ceiling.",
+                "text": "See 3.3.28.2."
+            },
+            "3.3.103": {
+                "title": "Horizontal Channel.",
+                "text": "Any uninterrupted space in excess of 5 ft (1.5 m) in length between horizontal layers of stored tires. Such channels can be formed by pallets, shelving, racks, or other storage arrangements. (AUT-SSD)"
+            },
+            "3.3.104": {
+                "title": "Horizontal Force, Fpw.",
+                "text": "The horizontal force due to seismic load acting on a sprinkler system at working stress levels. (AUT-HBS)  Enhanced Content Collapse For additional information on Fpw, see ﻿﻿18.5.9﻿﻿."
+            },
+            "3.3.105": {
+                "title": "Horizontal Roll Paper Storage.",
+                "text": "See 3.3.188.2."
+            },
+            "3.3.106": {
+                "title": "Hose House.",
+                "text": "An enclosure located over or adjacent to a hydrant or other water supply designed to contain the necessary hose nozzles, hose wrenches, gaskets, and spanners to be used in fire fighting in conjunction with and to provide aid to the local fire department. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.107": {
+                "title": "Hydrant.",
+                "text": "An exterior valved connection to a water supply system that provides hose connections. [24, 2022] (AUT-PRI)  3.3.107.1 Dry Barrel Hydrant (Frostproof Hydrant). A type of hydrant with the main control valve below the frost line between the footpiece and the barrel. [24, 2022] (AUT-PRI)  3.3.107.2 Flow Hydrant. The hydrant that is used for the flow and flow measurement of water during a flow test. [24, 2022] (AUT-PRI)  3.3.107.3 Private Fire Hydrant. A valved connection on a water supply system having one or more outlets and that is used to supply hose and fire department pumpers with water on private property. [24, 2022] (AUT-PRI)  3.3.107.4 Public Hydrant. A valved connection on a water supply system having one or more outlets and that is used to supply hose and fire department pumpers with water. [24, 2022] (AUT-PRI)  3.3.107.5 Residual Hydrant. The hydrant that is used for measuring static and residual pressures during a flow test. [24, 2022] (AUT-PRI)  3.3.107.6 Wet Barrel Hydrant. A type of hydrant that is intended for use where there is no danger of freezing weather, where each outlet is provided with a valve and an outlet. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.108": {
+                "title": "Hydrant Butt.",
+                "text": "The hose connection outlet of a hydrant. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.109": {
+                "title": "Hydraulically Calculated Water Demand Flow Rate.",
+                "text": "The waterflow rate for a system or hose stream that has been calculated using accepted engineering practices. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.110": {
+                "title": "Hydraulically Designed System.",
+                "text": "A calculated sprinkler system in which pipe sizes are selected on a pressure loss basis to provide a prescribed water density, in gallons per minute per square foot (mm/min), or a prescribed minimum discharge pressure or flow per sprinkler, distributed with a reasonable degree of uniformity over a specified area. (AUT-SSD)  Enhanced Content Collapse FAQ  Does NFPA 13 require a safety factor for the water supply?  NFPA 13 does not require a safety factor to be applied to either the water supply or the system demand. A safety factor ensures that more water than required is available. The use of a safety factor is considered good practice but is not required. Although NFPA 13 does not specifically require the application of safety factors in any part of a sprinkler system design or installation, safety factors are implicitly imbedded in many of the document’s requirements. However, when comparing the system demand to the available water supply, the designer should determine the reasonable worst-case available supply. Hydraulic designs provide for a more accurate analysis of the piping system than systems designed using a pipe schedule approach, because they allow for the selection of the most suitable pipe sizes. A hydraulic analysis also provides data to demonstrate that the water supply is adequate for the sprinkler system demand. The availability of an increasing number of product-specific sprinkler system components all but necessitates the hydraulic design of sprinkler systems.  A hydraulic analysis determines the sprinkler system’s demand and the necessary water supply. An acceptable system is one in which the system’s demand is less than the available water supply. The results of hydraulic analysis are often presented in graphical form. Graphical representation of the hydraulic analysis provides easier review and evaluation. The graph usually contains two curves, one that represents the system demand and another that represents the available water supply. ﻿﻿Figure A.28.4.2(d)﻿﻿ illustrates this graphical representation. Where fire pumps or other equipment supplement the available water supply, their effect on the water supply also must be presented graphically, resulting in additional curves on the graph."
+            },
+            "3.3.111": {
+                "title": "Hydrostatic Test.",
+                "text": "A test of a closed piping system and its attached appurtenances consisting of subjecting the piping to an increased internal pressure for a specified period of duration to verify system integrity and leak rates. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.112": {
+                "title": "Indicating Valve.",
+                "text": "See 3.3.235.3."
+            },
+            "3.3.113": {
+                "title": "Installation Orientation.",
+                "text": "See 3.3.215.3."
+            },
+            "3.3.114": {
+                "title": "Institutional Sprinkler.",
+                "text": "See 3.3.215.4.8."
+            },
+            "3.3.115": {
+                "title": "Intermediate-Level Sprinkler/Rack Storage Sprinkler.",
+                "text": "See 3.3.215.4.9."
+            },
+            "3.3.116": {
+                "title": "International Shore Connection.",
+                "text": "See 3.3.125.7."
+            },
+            "3.3.117": {
+                "title": "Laced Tire Storage.",
+                "text": "Tires stored where the sides of the tires overlap, creating a woven or laced appearance. [See Figure A.‍3.3.191(g).] (AUT-SSD)  Enhanced Content Collapse Exhibit 3.12 shows an example of laced tire storage on portable racks.  EXHIBIT 3.12 Laced Tire Storage on Portable Racks. (Courtesy of Ford Motor Company)"
+            },
+            "3.3.118": {
+                "title": "Lateral Brace.",
+                "text": "A sway brace intended to resist differential movement perpendicular to the axis of the system piping. (AUT-HBS)"
+            },
+            "3.3.119": {
+                "title": "Light Hazard.",
+                "text": "See 3.3.141.3."
+            },
+            "3.3.120": {
+                "title": "Limited-Combustible Material.",
+                "text": "See Section 4.9."
+            },
+            "3.3.121": {
+                "title": "Longitudinal Brace.",
+                "text": "A sway brace intended to resist differential movement parallel to the axis of the system piping. (AUT-HBS)"
+            },
+            "3.3.122": {
+                "title": "Longitudinal Flue Space.",
+                "text": "The space between rows of storage perpendicular to the direction of loading with a width not exceeding 24 in. (600 mm) between storage. (AUT-SSD)  Enhanced Content Collapse NFPA 13 defines the minimum width of a longitudinal flue space as 6 in. (150 mm) and the maximum width as 24 in. (600 mm). The minimum width of 6 in. (150 mm) is intended to promote the heat from a fire to vent vertically, as opposed to travelling horizontally. This in turn allows sprinklers to operate as quickly as possible, as well as reduces the potential of horizontal fire spread. The maximum width of 24 in. (600 mm) comes into play only when in-rack sprinkler protection is needed within the longitudinal flue space. The intent of this maximum width is to help ensure that the in-rack sprinklers are installed in a space that will (1) allow for a prompt response during a fire event and (2) help ensure the in-rack sprinkler discharge can reach the top of storage at the tier level the sprinklers are installed.  If in-rack sprinklers are required within the longitudinal flue space of a double-row rack and the distance between the storage racks is greater than 24 in. (600 mm), this space cannot be used for the placement of in-rack sprinklers. Instead, the in-rack sprinklers must be located within the footprint of the storage rack, similar to the requirements of a single-row rack.  It should be noted that most full-scale fire tests at testing labs are conducted with 6 in. (150 mm) wide longitudinal flue spaces. As a result, testing conducted with in-rack sprinklers installed in the longitudinal flue space have the in-rack sprinklers located only 3 in. (75 mm) horizontally away from the nearest pallet load. As a result, a minimum vertical clearance of 6 in. (150 mm) between the top of storage and the in-rack sprinkler deflector allows for direct sprinkler discharge to the top of the pallet load, thus allowing for water discharge, in theory, to all vertical surfaces of the pallet load. As the longitudinal flue space becomes wider, less sprinkler discharge will reach the top of the pallet loads if the vertical clearance is not changed. Therefore, if in-rack sprinklers are required within the longitudinal flue space of a double-row rack, consideration should be given to providing as much vertical clearance between the top of storage and the in-rack sprinkler deflector as possible when the width of the longitudinal flue space exceeds 6 in. (150 mm)."
+            },
+            "3.3.123": {
+                "title": "Looped Sprinkler System.",
+                "text": "See 3.3.216.6."
+            },
+            "3.3.124": {
+                "title": "Low-Piled Storage.",
+                "text": "Solid-piled, palletized, rack storage, bin box, and shelf storage of Class I through Class IV commodities up to 12 ft (3.7 m) in height and solid-piled, palletized, rack storage, bin box, and shelf storage of Group A plastic commodities up to 5 ft (1.5 m) in height. (AUT-SSD)"
+            },
+            "3.3.125": {
+                "title": "Marine Definitions.",
+                "text": "These definitions apply to Chapter 31 only. (AUT-SSI)  3.3.125.1 A-Class Boundary. A boundary designed to resist the passage of smoke and flame for 1 hour when tested in accordance with ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, or UL 263, Standard for Fire Tests of Building Construction and Materials. (AUT-SSI)  3.3.125.2 B-Class Boundary. A boundary designed to resist the passage of flame for 1⁄2 hour when tested in accordance with ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, or UL 263, Standard for Fire Tests of Building Construction and Materials. (AUT-SSI)  3.3.125.3 Central Safety Station. A continuously manned control station from which all of the fire control equipment is monitored. If this station is not the bridge, direct communication with the bridge must be provided by means other than the ship's service telephone. (AUT-SSI)  3.3.125.4* Heat-Sensitive Material. A material whose melting point is below 1700°F (927°C). (AUT-SSI)  Enhanced Content Collapse Ships are highly compartmentalized by passive fire barrier systems, such as bulkheads (walls) and decks (floors). Overall, shipboard fire protection places a greater emphasis on passive fire safety systems than on active fire suppression systems, such as automatic sprinklers. An assembly that is not expected to withstand fire exposure for 1 hour in accordance with the time–temperature profile of ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, or ANSI/UL 263, Fire Tests of Building Construction and Materials, is considered heat sensitive. The fire endurance of materials, such as piping, that penetrate fire barriers on ships must be tested dry so that a failure of the sprinkler system would not cause a failure of the passive system.  3.3.125.5 Heel. The inclination of a ship to one side. (AUT-SSI)  3.3.125.6 Heel Angle. The angle defined by the intersection of a vertical line through the center of a vessel and a line perpendicular to the surface of the water. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.13 illustrates measurement of the heel angle.  EXHIBIT 3.13 Measurement of Heel Angle. (Courtesy of Morgan Hurley)    3.3.125.7* International Shore Connection. A universal connection to the vessel's fire main to which a shoreside fire-fighting water supply can be connected. (AUT-SSI)  Enhanced Content Collapse FAQ  Do the requirements of Chapter ﻿﻿31﻿﻿ apply to floating structures, such as restaurants and casinos, that are either mobile or permanently moored?  Although originally intended only for application to ships, other types of waterborne structures were recognized to more closely resemble ships than buildings. Examples include restaurants and casinos that are built on permanently moored barges. Where a sprinkler system on a floating structure takes its water supply from the water on which the structure floats, as opposed to from a permanent water main, the sprinkler system must comply with Chapter ﻿﻿﻿﻿31﻿﻿﻿﻿.  3.3.125.8* Marine System. A sprinkler system installed on a ship, boat, or other floating structure that takes its supply from the water on which the vessel floats. (AUT-SSI)  3.3.125.9* Marine Thermal Barrier. An assembly that is constructed of noncombustible materials and made intact with the main structure of the vessel, such as shell, structural bulkheads, and decks; meets the requirements of a B-Class boundary; and is insulated such that, if tested in accordance with ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, or UL 263, Standard for Fire Tests of Building Construction and Materials, for 15 minutes, the average temperature of the unexposed side does not rise more than 250°F (139°C) above the original temperature, nor does the temperature at any one point, including any joint, rise more than 405°F (225°C) above the original temperature. (AUT-SSI)  3.3.125.10 Marine Water Supply. The supply portion of the sprinkler system from the water pressure tank or the sea suction of the designated sprinkler system pump up to and including the valve that isolates the sprinkler system from these two water sources. (AUT-SSI)  3.3.125.11 Supervision. A visual and audible alarm signal given at the central safety station to indicate when the system is in operation or when a condition that would impair the satisfactory operation of the system exists. Supervisory alarms must give a distinct indication for each individual system component that is monitored. (AUT-SSI)  3.3.125.12 Survival Angle. The maximum angle to which a vessel is permitted to heel after the assumed damage required by stability regulations is imposed. (AUT-SSI)  Enhanced Content Collapse The survival angle for a ship is typically calculated when the ship is designed. A sprinkler system designer would likely need to consult with a vessel’s representative, such as the captain or a naval architect, to determine the survival angle. The sprinkler system equipment is selected to remain functional at this angle of inclination.  3.3.125.13 Type 1 Stair. A fully enclosed stair that serves all levels of a vessel in which persons can be employed. (AUT-SSI)"
+            },
+            "3.3.126": {
+                "title": "Marine System.",
+                "text": "See 3.3.125.8."
+            },
+            "3.3.127": {
+                "title": "Marine Thermal Barrier.",
+                "text": "See 3.3.125.9."
+            },
+            "3.3.128": {
+                "title": "Marine Water Supply.",
+                "text": "See 3.3.125.10."
+            },
+            "3.3.129": {
+                "title": "Mechanical Dry Pipe Valve.",
+                "text": "See 3.3.235.4.2."
+            },
+            "3.3.130": {
+                "title": "Miscellaneous Storage.",
+                "text": "Storage that does not exceed 12 ft (3.7 m) in height, is incidental to another occupancy use group, does not constitute more than 10 percent of the building area or 4000 ft2 (370 m2) of the sprinklered area, whichever is greater, does not exceed 1000 ft2 (93 m2) in one pile or area, and is separated from other storage areas by at least 25 ft (7.6 m). (AUT-SSD)  Enhanced Content Collapse The miscellaneous storage concept applies to a building in which storage constitutes only a part of the building’s use, such as the back room of a mercantile facility. Limitations are imposed on the amount and the arrangement of storage that are permitted. The requirements for the protection of miscellaneous storage, as defined in 3.3.130, are contained in Section ﻿﻿﻿﻿4.3﻿﻿﻿﻿.  The concept of miscellaneous storage was developed to address those situations where only a relatively small portion of a building is used for storage and where such storage does not exceed 12 ft (3.7 m) in height. One example is a manufacturing operation that uses a portion of its facility to store small amounts of finished product and raw materials. As with most facilities, the fire hazard associated with the storage is likely to differ from that of the manufacturing operation. Prior editions of NFPA 13 addressed storage only if it was considered miscellaneous.  The 10 percent limit in 3.3.130 is taken from certain accessory use definitions, as found in building codes. The 4000 ft² (370 m²) limit is derived by taking 10 percent of the maximum allowable area of coverage for a sprinkler system riser protecting high-piled storage. See Section ﻿﻿﻿﻿﻿4.4﻿﻿﻿﻿﻿ for system protection area limitations."
+            },
+            "3.3.131": {
+                "title": "Miscellaneous Tire Storage.",
+                "text": "The storage of rubber tires that is incidental to the main use of the building; storage areas do not exceed 2000 ft2 (185 m2), and on-tread storage piles, regardless of storage method, do not exceed 25 ft (7.6 m) in the direction of the wheel holes. Acceptable storage arrangements include (a) on-floor, on-side storage up to 12 ft (3.7 m) high; (b) on-floor, on-tread storage up to 5 ft (1.5 m) high; (c) double-row or multirow fixed or portable rack storage on-side or on-tread up to 5 ft (1.5 m) high; (d) single-row fixed or portable rack storage on-side or on-tread up to 12 ft (3.7 m) high; and (e) laced tires in racks up to 5 ft (1.5 m) in height. (AUT-SSD)"
+            },
+            "3.3.132": {
+                "title": "Movable Racks.",
+                "text": "Racks on fixed rails or guides that can be moved back and forth only in a horizontal, two-dimensional plane. A moving aisle is created as abutting racks are either loaded or unloaded, then moved across the aisle to abut other racks. (AUT-SSD)"
+            },
+            "3.3.133": {
+                "title": "Multicycle System.",
+                "text": "See 3.3.216.7."
+            },
+            "3.3.134": {
+                "title": "Multiple-Row Racks.",
+                "text": "Racks greater than 12 ft (3.7 m) in depth or single- or double-row racks separated by aisles less than 3.5 ft (1.1 m) wide having an overall width greater than 12 ft (3.7 m). (AUT-SSD)"
+            },
+            "3.3.135": {
+                "title": "Net Vertical Force.",
+                "text": "The vertical reaction due to the angle of installation of sway braces on system piping resulting from earthquake motion. (AUT-HBS)  Enhanced Content Collapse For additional information on Ss and seismic loads, see ﻿﻿18.5.9﻿﻿."
+            },
+            "3.3.136": {
+                "title": "Noncombustible Material.",
+                "text": "See Section 4.9."
+            },
+            "3.3.137": {
+                "title": "Noncontinuous Obstruction.",
+                "text": "See 3.3.140.2."
+            },
+            "3.3.138": {
+                "title": "Nozzle.",
+                "text": "See 3.3.215.4.10."
+            },
+            "3.3.139": {
+                "title": "Obstructed Construction.",
+                "text": "See 3.3.43.1."
+            },
+            "3.3.140": {
+                "title": "Obstruction.",
+                "text": "Enhanced Content Collapse The terms continuous obstruction and noncontinuous obstruction are used throughout ﻿﻿﻿﻿9.5.5﻿﻿﻿﻿. Guidance is provided in Chapters ﻿﻿﻿10﻿﻿﻿ through ﻿﻿15﻿﻿ on how to locate various types of sprinklers in regard to such obstructions.  In assigning whether a configuration is a continuous obstruction, the determining factor is not the individual obstructing component but rather the impact on adjacent sprinklers. For instance, a run of hanging lights that has a 24 in. (600 mm) gap between light fixtures would affect the discharge of adjacent sprinklers, presenting a continuous obstruction similar to that of a solid duct.  3.3.140.1 Continuous Obstruction. An obstruction located at or below the level of sprinkler deflectors that affect the discharge pattern of two or more adjacent sprinklers. (AUT-SSI)  3.3.140.2 Noncontinuous Obstruction. An obstruction at or below the level of the sprinkler deflector that affects the discharge pattern of a single sprinkler. (AUT-SSI)"
+            },
+            "3.3.141": {
+                "title": "Occupancies.",
+                "text": "3.3.141.1 Extra Hazard (Group 1) (EH1). Occupancies or portions of other occupancies where the quantity and combustibility of contents are very high or dust, lint, or other materials are present, introducing the probability of rapidly developing fires with high rates of heat release but with little or no combustible or flammable liquids. (AUT-SSD)  3.3.141.2 Extra Hazard (Group 2) (EH2). Occupancies or portions of other occupancies with moderate to substantial amounts of flammable or combustible liquids or occupancies where shielding of combustibles is extensive. (AUT-SSD)   3.3.141.3 Light Hazard. Occupancies or portions of other occupancies where the quantity and/or combustibility of contents is low and fires with relatively low rates of heat release are expected. (AUT-SSD)  3.3.141.4 Ordinary Hazard (Group 1) (OH1). Occupancies or portions of other occupancies where combustibility is low, quantity of combustibles is moderate, stockpiles of contents do not exceed 8 ft (2.4 m), and fires with moderate rates of heat release are expected. (AUT-SSD)  3.3.141.5 Ordinary Hazard (Group 2) (OH2). Occupancies or portions of other occupancies where the quantity and combustibility of contents are moderate to high, stockpiles of contents with moderate rates of heat release do not exceed 12 ft (3.7 m), and stockpiles of contents with high rates of heat release do not exceed 8 ft (2.4 m). (AUT-SSD)"
+            },
+            "3.3.142": {
+                "title": "Old-Style/Conventional Sprinkler.",
+                "text": "See 3.3.215.4.11."
+            },
+            "3.3.143": {
+                "title": "On-Side Tire Storage.",
+                "text": "Tires stored horizontally or flat. (AUT-SSD)  Enhanced Content Collapse An example of on-side tire storage on portable racks is shown in Exhibit 3.14.  EXHIBIT 3.14 On-Side Tire Storage on Portable Racks. (Courtesy of Ford Motor Company)"
+            },
+            "3.3.144": {
+                "title": "On-Tread Tire Storage.",
+                "text": "Tires stored vertically or on their treads. (AUT-SSD)  Enhanced Content Collapse Exhibit 3.15 shows an example of on-tread tire storage on racks.  EXHIBIT 3.15 On-Tread Tire Storage on Racks."
+            },
+            "3.3.145": {
+                "title": "Open Array (Palletized, Solid-Piled, Bin Box, and Shelf Storage).",
+                "text": "See 3.3.8.3."
+            },
+            "3.3.146": {
+                "title": "Open Array (Rolled Paper).",
+                "text": "See 3.3.8.4."
+            },
+            "3.3.147": {
+                "title": "Open Rack.",
+                "text": "Racks without shelving or with shelving in racks that are fixed in place with shelves having a solid surface and a shelf area equal to or less than 20 ft2 (1.9 m2) or with shelves having a wire mesh, slatted surface, or other material with openings representing at least 50 percent of the shelf area including the horizontal area of rack members and where the flue spaces are maintained. (AUT-SSD)  Enhanced Content Collapse It is important to understand that a storage rack can be void of solid shelving and still not meet the requirements of an open rack. This is due to the wording in the definition that states, “where the flue spaces are maintained.” This means that, unless indicated otherwise in NFPA 13, a minimum 6 in. (150 mm) wide flue space is needed between pallet loads, depending on the commodity hazard and the height of storage. Therefore, it is important to determine if the material handling procedures set in place will provide the flue space requirements needed to qualify the storage rack as an open rack. If sprinkler protection is installed based on an open rack and adequate flue spaces are not provided due to material handling, it is quite possible that fire control might not be achieved due to excessive horizontal fire spread."
+            },
+            "3.3.148": {
+                "title": "Open Sprinkler.",
+                "text": "See 3.3.215.4.12."
+            },
+            "3.3.149": {
+                "title": "Open-Top Container.",
+                "text": "A container of any shape that is entirely or partially open on the top and arranged so as to allow for the collection of discharging sprinkler water cascading through the storage array. (AUT-SSD)"
+            },
+            "3.3.150": {
+                "title": "Ordinary Hazard (Group 1) (OH1).",
+                "text": "See 3.3.141.4."
+            },
+            "3.3.151": {
+                "title": "Ordinary Hazard (Group 2) (OH2).",
+                "text": "See 3.3.141.5."
+            },
+            "3.3.152": {
+                "title": "Ornamental/Decorative Sprinkler.",
+                "text": "See 3.3.215.4.13."
+            },
+            "3.3.153": {
+                "title": "Packaging.",
+                "text": "A commodity wrapping, cushioning, or container. (AUT-SSD)"
+            },
+            "3.3.154": {
+                "title": "Pallet.",
+                "text": "3.3.154.1* Conventional Pallet. A material-handling aid designed to support a unit load with openings to provide access for material-handling devices. (See Figure A.‍3.3.154.1.) (AUT-SSD)  3.3.154.2 Plastic Pallet. A pallet having any portion of its construction consisting of a plastic material. (AUT-SSD)  3.3.154.3* Reinforced Plastic Pallet. A plastic pallet incorporating a secondary reinforcing material (such as steel or fiberglass) within the pallet. (AUT-SSD)  Enhanced Content Collapse Exhibit 3.16 and Exhibit 3.17 show examples of reinforced and nonreinforced plastic pallets. The pallets shown in the exhibits are four-way pallets.  EXHIBIT 3.16 Reinforced 40 in. × 48 in. (1015 mm × 1220 mm) Solid Deck Plastic Pallet. (Courtesy of ORBIS Corporation)    EXHIBIT 3.17 Repairable Nonreinforced 40 in. × 48 in. (1015 mm × 1220 mm) Plastic Pallet. (Courtesy of ORBIS Corporation)    3.3.154.4 Slave Pallet. A special pallet captive to a material-handling system. (See Figure A.‍3.3.154.1.) (AUT-SSD)  3.3.154.5 Wood Pallet. A pallet constructed entirely of wood with metal fasteners. (AUT-SSD)"
+            },
+            "3.3.155": {
+                "title": "Palletized Storage.",
+                "text": "Storage of commodities on pallets or other storage aids that form horizontal spaces between tiers of storage. (AUT-SSD)"
+            },
+            "3.3.156": {
+                "title": "Palletized Tire Storage.",
+                "text": "Storage on portable racks of various types utilizing a conventional pallet as a base. (AUT-SSD)"
+            },
+            "3.3.157": {
+                "title": "Paper (General Term).",
+                "text": "The term for all kinds of felted sheets made from natural fibrous materials, usually vegetable but sometimes mineral or animal, and formed on a fine wire screen from water suspension. (AUT-SSD)"
+            },
+            "3.3.158": {
+                "title": "Pendent Sprinkler.",
+                "text": "See 3.3.215.3.3."
+            },
+            "3.3.159": {
+                "title": "Pile Stability, Stable Piles.",
+                "text": "Those arrays where collapse, spillage of content, or leaning of stacks across flue spaces is not likely to occur soon after initial fire development. (AUT-SSD)  Enhanced Content Collapse Defining the term pile stability affects the requirements for the protection of plastic and rubber commodities. Pile collapse needs to occur before or within 1 to 2 minutes after the first sprinkler operates to be a positive factor in fire control."
+            },
+            "3.3.160": {
+                "title": "Pile Stability, Unstable Piles.",
+                "text": "Those arrays where collapse, spillage of contents, or leaning of stacks across flue spaces occurs soon after initial fire development. (AUT-SSD)"
+            },
+            "3.3.161": {
+                "title": "Pilot Line Detector.",
+                "text": "See 3.3.215.4.14."
+            },
+            "3.3.162": {
+                "title": "Pipe Schedule System.",
+                "text": "See 3.3.216.8."
+            },
+            "3.3.163": {
+                "title": "Plastic Pallet.",
+                "text": "See 3.3.154.2."
+            },
+            "3.3.164": {
+                "title": "Portable Racks.",
+                "text": "Racks that are not fixed in place and can be arranged in any number of configurations. (AUT-SSD)  Enhanced Content Collapse Portable racks should be treated the same as fixed-in-place racks for the purpose of categorizing them as either open rack or solid shelf rack. While portable racks often come with open-mesh bottoms or shelves, proper flue spaces are still required between them in order to meet the definition of open rack (﻿﻿3.3.147﻿﻿) for sprinkler design purposes. Since it is not practical to provide portable racks with in-rack sprinklers, portable racks need to be arranged so they qualify as open rack in order to allow for effective ceiling-only sprinkler protection options."
+            },
+            "3.3.165": {
+                "title": "Post-Installed Anchors.",
+                "text": "A device used for fastening pipe to the building structure, installed in hardened concrete. (AUT-HBS)"
+            },
+            "3.3.166": {
+                "title": "Preaction Sprinkler System.",
+                "text": "See 3.3.216.9."
+            },
+            "3.3.167": {
+                "title": "Premixed Antifreeze Solution.",
+                "text": "A mixture of an antifreeze material with water that is prepared and factory-mixed by the manufacturer with a quality control procedure in place that ensures that the antifreeze solution remains homogeneous and that the concentration is as specified. (AUT-SSI)  Enhanced Content Collapse Traditional antifreeze solutions, propylene glycol and glycerine, are no longer permitted for use in new NFPA 13 sprinkler systems. All solutions used in new antifreeze systems must be listed, and modification of a listed solution in the field would violate the listing. Therefore, all solutions must now be premixed as a matter of course.  Factory-mixed solutions have been proven to remain homogeneous after installation, addressing concerns that solutions might settle and result in high concentrations of antifreeze in low pipe elevations and in sprinkler drops and low concentrations in the high pipe elevations, where the piping is prone to freezing.  The definition for premixed antifreeze solution was originally added for the interim period between the 2010 and 2013 editions of NFPA 13, when glycerine and propylene glycol were permitted in limited concentrations for new systems. Some systems are being modified or maintained under ﻿﻿﻿﻿﻿﻿NFPA 25﻿﻿﻿﻿﻿﻿, Standard for Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems, in which these solution types are still permitted. Where such solutions are introduced into existing systems, the solutions must be factory premixed.  For more information, see the Fire Protection Research Foundation (FPRF) reports entitled “Antifreeze Solutions in Home Fire Sprinklers—Literature Review and Research Plan” and “Antifreeze Solutions in Home Fire Sprinklers—Phase II Research Final Report,” which can be found at ﻿﻿﻿﻿nfpa.org/Foundation﻿﻿﻿﻿."
+            },
+            "3.3.168": {
+                "title": "Pressure Regulating Device.",
+                "text": "A device designed for the purpose of reducing, regulating, controlling, or restricting water pressure. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.169": {
+                "title": "Private Fire Hydrant.",
+                "text": "See 3.3.107.3."
+            },
+            "3.3.170": {
+                "title": "Private Fire Service Main.",
+                "text": "Private fire service main, as used in this standard, is that pipe and its appurtenances on private property (1) between a source of water and the base of the system riser for water-based fire protection systems, (2) between a source of water and inlets to foam-making systems, (3) between a source of water and the base elbow of private hydrants or monitor nozzles, and (4) used as fire pump suction and discharge piping, (5) beginning at the inlet side of the check valve on a gravity or pressure tank. [24, 2022] (AUT-PRI)  Enhanced Content Collapse FAQ  What portion of the piping is considered the private fire service main?  In the context of sprinkler systems, a private fire service main is the piping that is either buried or above ground, connecting the water supply to the sprinkler system. A private fire service main is also the piping that supplies water to private hydrants and other devices used for manual fire fighting. Note that the requirements for private fire service mains were intended to apply to the portion of the piping system on private property that is dedicated to fire protection or combined use. However, where piping or equipment is installed in an area dedicated as an easement, such piping and equipment might also be a part of the public utility system."
+            },
+            "3.3.171": {
+                "title": "Prying Factor.",
+                "text": "A factor based on fitting geometry and brace angle from vertical that results in an increase in tension load due to the effects of prying between the upper seismic brace attachment fitting and the structure. (AUT-HBS)"
+            },
+            "3.3.172": {
+                "title": "Public Hydrant.",
+                "text": "See 3.3.107.4."
+            },
+            "3.3.173": {
+                "title": "Pumper Outlet.",
+                "text": "The hydrant outlet intended to be connected to a fire department pumper for use in taking supply from the hydrant for pumpers. [24, 2022] (AUT-PRI)  Enhanced Content Collapse Similar to fire department connections, some hydrant pumper outlets are now equipped with nonthreaded connections in 4 in. (100 mm) or 5 in. (125 mm) sizes for fast connection of hose leading to the fire department pumper inlet. These non-threaded connections are intended to couple hoses of the appropriate size where the hose connections comply with ﻿﻿NFPA 1963﻿﻿, Standard for Fire Hose Connections."
+            },
+            "3.3.174": {
+                "title": "Pyramid Tire Storage.",
+                "text": "On-floor storage in which tires are formed into a pyramid to provide pile stability. (AUT-SSD)  Enhanced Content Collapse An example of pyramid tire storage is shown in Exhibit 3.18.  EXHIBIT 3.18 Pyramid Tire Storage. (Courtesy of Ford Motor Company)"
+            },
+            "3.3.175": {
+                "title": "Quick-Response Extended Coverage Sprinkler.",
+                "text": "See 3.3.215.4.15."
+            },
+            "3.3.176": {
+                "title": "Quick-Response (QR) Sprinkler.",
+                "text": "See 3.3.215.4.16."
+            },
+            "3.3.177": {
+                "title": "Rack.",
+                "text": "Any combination of vertical, horizontal, and diagonal members that supports stored materials. [1, 2021] (AUT-SSD)"
+            },
+            "3.3.178": {
+                "title": "Rack Shelf Area.",
+                "text": "The area of the horizontal surface of a shelf in a rack defined by perimeter aisle(s) or nominal 6 in. (150 mm) flue spaces on all four sides, or by the placement of loads that block openings that would otherwise serve as the required flue spaces. (AUT-SSD)"
+            },
+            "3.3.179": {
+                "title": "Rated Capacity.",
+                "text": "The flow available from a hydrant at the designated residual pressure (rated pressure) either measured or calculated. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.180": {
+                "title": "Raw Water Source.",
+                "text": "A water supply that has not been treated and could contain foreign material that could enter the sprinkler system. (AUT-SSD)  Enhanced Content Collapse The definition for raw water source clarifies that it does not relate to potability, but rather that the water supply might contain foreign materials that can enter the system piping and accumulate in a sprinkler system. Paragraph ﻿﻿16.3.11.1﻿﻿ requires return bends on sprinkler branch lines to minimize accumulation of material at the sprinkler inlet."
+            },
+            "3.3.181": {
+                "title": "Recessed Sprinkler.",
+                "text": "See 3.3.215.3.4."
+            },
+            "3.3.182": {
+                "title": "Reinforced Plastic Pallet.",
+                "text": "See 3.3.154.3."
+            },
+            "3.3.183": {
+                "title": "Residential Sprinkler.",
+                "text": "See 3.3.215.4.17."
+            },
+            "3.3.184": {
+                "title": "Residual Hydrant.",
+                "text": "See 3.3.107.5."
+            },
+            "3.3.185": {
+                "title": "Residual Pressure.",
+                "text": "The pressure that exists in the distribution system, measured at the residual hydrant at the time the flow readings are taken at the flow hydrants. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.186": {
+                "title": "Riser Nipple.",
+                "text": "A vertical pipe between the cross main and branch line. (AUT-SSI)"
+            },
+            "3.3.187": {
+                "title": "Risers.",
+                "text": "The vertical supply pipes in a sprinkler system. (AUT-SSI)"
+            },
+            "3.3.188": {
+                "title": "Roll Paper Storage.",
+                "text": "3.3.188.1 Banded Roll Paper Storage. Rolls provided with a circumferential steel strap [3⁄8 in. (10 mm) or wider] at each end of the roll. (AUT-SSD)  3.3.188.2 Horizontal Roll Paper Storage. Rolls stored with the cores in the horizontal plane (on-side storage). (AUT-SSD)  3.3.188.3* Roll Paper Storage Height. The maximum vertical distance above the floor at which roll paper is normally stored. (AUT-SSD)  3.3.188.4 Vertical Roll Paper Storage. Rolls stored with the cores in the vertical plane (on-end storage). (AUT-SSD)  3.3.188.5* Wrapped Roll Paper Storage. Rolls provided with a complete heavy kraft covering around both sides and ends. (AUT-SSD)"
+            },
+            "3.3.189": {
+                "title": "Roll Paper Storage Height.",
+                "text": "See 3.3.188.3."
+            },
+            "3.3.190": {
+                "title": "Roof Height.",
+                "text": "The distance between the floor and the underside of the roof deck within the storage area. (AUT-SSD)"
+            },
+            "3.3.191": {
+                "title": "Rubber Tire Rack Illustrations.",
+                "text": "See Figure A.‍3.3.191(a) through Figure A.‍3.3.191(g)."
+            },
+            "3.3.192": {
+                "title": "Rubber Tires.",
+                "text": "Pneumatic tires for passenger automobiles, aircraft, light and heavy trucks, trailers, farm equipment, construction equipment (off-the-road), and buses. (AUT-SSD)"
+            },
+            "3.3.193": {
+                "title": "Seismic Coefficient, Cp.",
+                "text": "The seismic coefficient that combines ground motion and seismic response factors from ASCE/SEI 7, Minimum Design Loads and Associated Criteria for Buildings and Other Structures. (AUT-HBS)  Enhanced Content Collapse For additional information on Cp see ﻿﻿18.5.9.3﻿﻿."
+            },
+            "3.3.194": {
+                "title": "Seismic Separation Assembly.",
+                "text": "An assembly of fittings, pipe, flexible pipe, and/or couplings that permits movement in all directions to accommodate seismic differential movement across building seismic separation joints. (AUT-HBS)"
+            },
+            "3.3.195": {
+                "title": "Shadow Area.",
+                "text": "The floor area within the protection area of a sprinkler created by the portion of sprinkler discharge that is blocked by a wall, partition, or other obstruction. (AUT-SSI)"
+            },
+            "3.3.196": {
+                "title": "Shelf Storage.",
+                "text": "Storage on structures up to and including 30 in. (750 mm) deep and separated by aisles at least 30 in. (750 mm) wide. (AUT-SSD)  Enhanced Content Collapse The 30 in. (750 mm) maximum width specified in the definition of shelf storage is measured from aisle to aisle, as indicated in Exhibit 3.19.  EXHIBIT 3.19 Shelf Storage.  FAQ  How should multiple shelf units be addressed?  As an example, two back-to-back shelves with an overall width greater than 30 in. (750 mm) should reference ﻿﻿3.3.13﻿﻿ and follow the design guidelines for back-to-back shelves. This approach assumes that the width and the arrangement of the back-to-back shelves meet the definition limitations; otherwise, they may have to be treated as solid shelves."
+            },
+            "3.3.197": {
+                "title": "Shop-Welded.",
+                "text": "Materials welded in a sprinkler contractor’s or fabricator’s premise or in an area specifically designed or authorized for welding, such as a detached outside location, maintenance shop, or other area. (AUT-SSI)"
+            },
+            "3.3.198": {
+                "title": "Design Spectral Response Acceleration at Short Periods, SDS.",
+                "text": "The spectral response acceleration at short periods for the site of the building or structure being designed to satisfy the seismic requirements of ASCE/SEI 7, Minimum Design Loads and Associated Criteria for Buildings and Other Structures, based on ASCE/SEI 7 Chapter 22 seismic ground motion maps and Chapter 11 seismic design criteria, or directly from the ASCE/SEI 7 Hazard Tool, or by using the site-specific ground motion procedures of ASCE/SEI 7 Chapter 21. (AUT-HBS)"
+            },
+            "3.3.199": {
+                "title": "Sidewall Sprinkler.",
+                "text": "See 3.3.215.3.5."
+            },
+            "3.3.200": {
+                "title": "Single-Row Racks.",
+                "text": "Racks that have no longitudinal flue space and that have a depth up to 6 ft (1.8 m) with aisles having a width of at least 3.5 ft (1.1 m) between loads on racks. (AUT-SSD)  Enhanced Content Collapse Where a storage rack has a longitudinal flue or the aisle width between storage racks is less than 3.5 ft (1.1 m), refer to the definitions for the terms double-row racks (﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿3.3.58﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿) and multiple-row racks (﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿3.3.134﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿) for further guidance. The 3D animation in Related Resources below shows an example of a single-row rack.  Related Resources  Single Rack Storage Single Rack Storage  Video"
+            },
+            "3.3.201": {
+                "title": "Site Class.",
+                "text": "A classification assigned to a site based on the types of soils present and their engineering properties as defined in Chapter 20 of ASCE/SEI 7, Minimum Design Loads and Associated Criteria for Buildings and Other Structures. [ASCE/SEI 7:11.2] (AUT-HBS)"
+            },
+            "3.3.202": {
+                "title": "Slatted Shelf Rack.",
+                "text": "A rack where shelves are fixed in place with a series of narrow individual solid supports used as the shelf material and spaced apart with regular openings. (AUT-SSD)  Enhanced Content Collapse It should be noted that a slatted shelf rack does not always default to the category of solid shelf rack; it could qualify as open rack, depending on the size of the slats as well as the width and location of the flue spaces. Refer to the definition of the term open rack (﻿﻿3.3.147﻿﻿) for further guidance."
+            },
+            "3.3.203": {
+                "title": "Slave Pallet.",
+                "text": "See 3.3.154.4."
+            },
+            "3.3.204": {
+                "title": "Sloped Ceiling.",
+                "text": "See 3.3.28.3."
+            },
+            "3.3.205": {
+                "title": "Small Openings.",
+                "text": "Openings in the ceiling or construction features of a concealed space that allow limited amounts of heat to enter the concealed space. (AUT-SSI)"
+            },
+            "3.3.206": {
+                "title": "Small Room.",
+                "text": "A compartment of light hazard occupancy classification having unobstructed construction and a floor area not exceeding 800 ft2 (74 m2). (AUT-SSI)  Enhanced Content Collapse Small room allowances are permitted to be utilized only for rooms in light hazard occupancies meeting the construction type and maximum size specified in the definition.  FAQ  In what occupancies can the design allowances for small rooms be utilized?  The design allowances in ﻿﻿﻿﻿﻿﻿10.2.4.1.2﻿﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿﻿10.2.5.2.3﻿﻿﻿﻿﻿ are permitted to be utilized in light hazard occupancies only as indicated in the definition of the term small room.  Fires in small rooms of a light hazard occupancy present a lesser challenge to the sprinkler system. As a result, sprinklers installed in rooms that meet the criteria for small rooms are given an exception to the spacing rules of ﻿﻿﻿﻿﻿10.2.5.2.1﻿﻿﻿﻿﻿. For applications of small room provisions, see ﻿﻿﻿Figure A.10.2.5.2.3(a)﻿﻿﻿ through ﻿﻿Figure A.10.2.5.2.3(d)﻿﻿.  FAQ  Do openings from small rooms require doors in order for the room to be classified as a small room?  Small room openings do not need to be protected with doors if the openings are equipped with lintels that have a minimum depth of 8 in. (200 mm) and have a maximum wall opening of 8 ft (2.4 m). A single small opening of 36 in. (900 mm) or less in width is permitted within a compartment without a lintel.  Where required, a lintel with a depth of at least 8 in. (200 mm) ensures adequate collection of the heat from a fire at the ceiling of the room of fire origin and promotes faster operation of the sprinklers nearest to the fire."
+            },
+            "3.3.207": {
+                "title": "Smooth Ceiling.",
+                "text": "See 3.3.28.4."
+            },
+            "3.3.208": {
+                "title": "Solid Shelf Rack.",
+                "text": "A rack that is not defined as an open rack where shelves are fixed in place with a solid, slatted, or wire mesh barrier used as the shelf material and having limited openings in the shelf area. (AUT-SSD)  Enhanced Content Collapse FAQ  If the shelf material is considered open but the loads on the shelf, without the required 6 in. (150 mm) flue space between loads, are greater than 20 ft2 (1.9 m2) in area, do the shelves have to be protected as solid shelf?  The placement of loads on the shelf does affect the calculated area of the shelf. With this definition, shelving material that is more than 50 percent open could be calculated as solid shelf if the loads on the shelf cover the required flue spaces to separate shelf area calculations.  The intent is to have flues surrounding the load or shelf material that will not block more than 20 ft2 (1.9 m2) in area. Even though the shelf material (if any) is considered open, the distribution is blocked if the area of load or shelf is greater than 20 ft2 (1.9 m2) in area, and solid shelf rack rules would apply."
+            },
+            "3.3.209": {
+                "title": "Solid Shelving.",
+                "text": "Shelving that is fixed in place, slatted, wire mesh, or other type of shelves located within racks. The area of a solid shelf is defined by perimeter aisle or flue space on all four sides or by the placement of loads that block openings that would otherwise serve as the required flue spaces. Solid shelves having an area equal to or less than 20 ft2 (1.9 m2) are defined as open racks. Shelves of wire mesh, slats, or other materials more than 50 percent open and where the flue spaces are maintained are defined as open racks. (AUT-SSD)  Enhanced Content Collapse Exhibit 3.20 illustrates a storage rack with solid shelving.  EXHIBIT 3.20 Storage Rack with Solid Shelving."
+            },
+            "3.3.210": {
+                "title": "Solid Unit Load of Nonexpanded Plastic (Either Cartoned or Exposed).",
+                "text": "A load that does not have voids (air) within the load and that burns only on the exterior of the load; water from sprinklers might reach most surfaces available to burn. (AUT-SSD)"
+            },
+            "3.3.211": {
+                "title": "Solid-Piled Storage.",
+                "text": "Storage of commodities stacked on each other. (AUT-SSD)"
+            },
+            "3.3.212": {
+                "title": "Special Sprinkler.",
+                "text": "See 3.3.215.4.18."
+            },
+            "3.3.213": {
+                "title": "Spray Sprinkler.",
+                "text": "See 3.3.215.4.19."
+            },
+            "3.3.214": {
+                "title": "Sprig.",
+                "text": "A pipe that rises vertically and supplies a single sprinkler. (AUT-SSI)"
+            },
+            "3.3.215": {
+                "title": "Sprinkler Definitions.",
+                "text": "Enhanced Content Collapse General characteristics that define a sprinkler’s ability to control or suppress a fire include the following:  Thermal response, whether quick or standard response Spray distribution, including density and pattern Coverage area Occupancy use or limitations, including special applications Installation orientation Historically, sprinklers were of the upright, pendent, or sidewall type and were classified as having either frangible bulb or solder link operating mechanisms. Since 1980, many advances have been made with regard to the scientific understanding of fire, sprinklers, and their interaction.  These technological advances are responsible for the production of an increasingly large variety of sprinkler types and styles. Sprinklers are now manufactured and designed to allow systems to perform specific functions. Subsection 3.3.215 describes the features that differentiate sprinklers from one another.  The video below in Related Resources provides an overview of a sprinkler system.  Related Resources  Back to Basics: Types of Sprinkler Systems Back to Basics: Types of Sprinkler Systems  Video 3.3.215.1 Automatic Sprinkler. A fire suppression or control device that operates automatically when its heat-activated element is heated to its thermal rating or above, allowing water to discharge over a specified area. (AUT-SSI)  Enhanced Content Collapse The definition of the term automatic sprinkler helps to clarify the difference between an automatic sprinkler and an open sprinkler (﻿﻿3.3.215.4.12﻿﻿).  3.3.215.2* General Sprinkler Characteristics. The following are characteristics of a sprinkler that define its ability to control or extinguish a fire. (1) Thermal sensitivity. A measure of the rapidity with which the thermal element operates as installed in a specific sprinkler or sprinkler assembly. One measure of thermal sensitivity is the response time index (RTI) as measured under standardized test conditions. (a) Sprinklers defined as fast response have a thermal element with an RTI of 50 (meters-seconds)1⁄2 or less. (b) Sprinklers defined as standard response have a thermal element with an RTI of 80 (meters-seconds)1⁄2 or more. (2) Temperature rating. (3) K-factor (see Chapter 7). (4) Installation orientation (see 3.3.215.3). (5) Water distribution characteristics (i.e., application rate, wall wetting). (6) Special service conditions. (AUT-SSI)  Enhanced Content Collapse NFPA 13 addresses the concept of thermal sensitivity by classifying sprinklers as either fast response or standard response. Fast-response sprinklers, such as the one shown in Exhibit 3.21, include those sprinklers that have a thermal element with a response time index (RTI) of 90 (ft-sec)½ [50 (m-sec)½] or less. Standard-response sprinklers include those sprinklers that have a thermal element with an RTI of 145 (ft-sec)½ [80 (m-sec)½] or more.  EXHIBIT 3.21 Victaulic Quick-Response Standard Spray Sprinkler. (Courtesy of Victaulic®)    The definitions of several sprinkler types, such as residential sprinkler, quick-response sprinkler, and early suppression fast-response sprinkler, clearly reflect the emphasis on a sprinkler’s thermal sensitivity.  With regard to the third sprinkler characteristic given in 3.3.215.2 (K-factor), the size of a sprinkler’s orifice influences certain performance features, such as the amount of water discharging from the sprinkler and the size of the water droplets. The size and shape of the orifice are indicated through the sprinkler’s K-factor. A provision in ﻿﻿﻿﻿﻿﻿﻿﻿﻿7.2.2﻿﻿﻿﻿﻿﻿﻿﻿﻿ provides a means of control with respect to the manufacture and listing of sprinklers with K-factors that differ from those currently identified in the standard. See ﻿﻿﻿﻿﻿﻿﻿﻿7.2.2.1﻿﻿﻿﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿﻿﻿Table 7.2.2.1﻿﻿﻿﻿﻿﻿ for sprinkler discharge characteristics.  In addition, NFPA 13 requires that CMSA and ESFR sprinklers have a K-factor of at least 11.2. This limitation establishes a level of consistency with regard to the operational features and functional objectives of these sprinklers.  CLOSER LOOK  Sprinkler Characteristics  The key characteristics that affect a sprinkler’s ability to control or suppress a fire are specifically addressed by NFPA 13. These characteristics include temperature rating, orifice size, installation orientation, water distribution patterns, hydraulic criteria, wall-wetting characteristics, and thermal sensitivity.  Because sprinkler manufacturers and researchers have investigated the effects of modifying certain sprinkler characteristics, sprinklers with faster operating times, broader spray patterns, and deeper water penetration capabilities are widely available.  With regard to ﻿﻿﻿﻿﻿A.3.3.215.2﻿﻿﻿﻿﻿(1), operating time, or thermal sensitivity, is considered a measure of the rapidity with which the sprinkler’s thermal element operates when mounted within the sprinkler frame. A common measure of thermal sensitivity is the RTI. The RTI is usually determined by plunging a sprinkler into a heated laminar (nonturbulent) airflow within a test oven. However, this test is not readily applicable to certain sprinklers, such as recessed or concealed sprinklers.  As indicated in ﻿﻿A.3.3.215.2﻿﻿, RTI is not necessarily a measure of the responsiveness of a given sprinkler when installed in the field. The RTI of a sprinkler is a function of the convective heat transfer coefficient, the specific heat of the operating element, the mass of the operating element, and the surface area of the operating element. Other factors that can affect a sprinkler’s thermal sensitivity in the field include temperature rating, position from the ceiling, attachment to piping, and anticipated fire exposure. However, a fast-response sprinkler can be expected to operate faster than a standard-response sprinkler given the same conditions. RTI is used to comparatively describe the sensitivity of the sprinkler link for any given sprinkler.  3.3.215.3 Installation Orientation. The following sprinklers are defined according to orientation. (AUT-SSI)  Enhanced Content Collapse The sprinklers described in 3.3.215.3.1 through 3.3.215.3.6 below are based on the geometry of the sprinkler installation. Representative discharge patterns for these devices allow them to be categorized as concealed, flush, pendent, and recessed sprinklers, all of which have similar discharge patterns and are mounted to the bottom of a branch line or pipe drop. Sidewall sprinklers typically are installed along a wall or lintel and discharge water away from the wall into the room or space. Sidewall sprinklers can be mounted on the side, bottom, or top of a branch line, as specified in their listings. Upright sprinklers have a spray pattern that appears similar to that of a pendent sprinkler. The difference is that upright sprinklers are mounted to the top of branch lines or sprigs.  3.3.215.3.1 Concealed Sprinkler. A recessed sprinkler with cover plate. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.22 is a photo of an assembled concealed sprinkler as well as a diagram showing the various components of the device. As shown in the diagram, the cover plate drops away when exposed to a certain amount of heat. The fusible elements holding the cover plate are designed to operate prior to the activation of the sprinkler’s thermal element. The cover plate is included as part of the listed sprinkler assembly.  EXHIBIT 3.22 Standard Model G Concealed Ceiling Sprinkler: (left) Diagram of Unit Components; (right) Photo of Typical Unit. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.3.2 Flush Sprinkler. A sprinkler in which all or part of the body, including the shank thread, is mounted above the lower plane of the ceiling. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.23 illustrates a flush sprinkler, which is defined in 3.3.215.3.2.  EXHIBIT 3.23 Viking Model H Standard Spray Pendent Flush-Mount Sprinkler. (Courtesy of Viking Group, Inc.)    3.3.215.3.3 Pendent Sprinkler. A sprinkler designed to be installed in such a way that the water stream is directed downward against the deflector. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.24 illustrates a standard spray pendent sprinkler.  EXHIBIT 3.24 Standard Spray Pendent Sprinkler. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.3.4 Recessed Sprinkler. A sprinkler in which all or part of the body, other than the shank thread, is mounted within a recessed housing. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.25 shows a recessed sprinkler.  EXHIBIT 3.25 Recessed Sprinkler. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.3.5 Sidewall Sprinkler. A sprinkler having special deflectors that are designed to discharge most of the water away from the nearby wall in a pattern resembling one-quarter of a sphere, with a small portion of the discharge directed at the wall behind the sprinkler. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.26 illustrates a horizontal sidewall sprinkler.  EXHIBIT 3.26 Horizontal Sidewall Sprinkler. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.3.6 Upright Sprinkler. A sprinkler designed to be installed in such a way that the water spray is directed upwards against the deflector. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.27 illustrates two examples of upright sprinklers.  EXHIBIT 3.27 Upright Sprinklers. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.4 Sprinkler Types. The following sprinklers are defined according to design and/or performance characteristics. (AUT-SSI)  3.3.215.4.1* Control Mode Density/Area (CMDA) Sprinkler. A type of spray sprinkler intended to provide fire control in storage applications using the design density/area criteria described in this standard. (AUT-SSI)  3.3.215.4.2* Control Mode Specific Application (CMSA) Sprinkler. A type of spray sprinkler that is capable of producing characteristic large water droplets and that is listed for its capability to provide fire control of specific high-challenge fire hazards. (AUT-SSI)  Enhanced Content Collapse In the 2010 edition, the term control mode specific application (CMSA) sprinkler was added to incorporate a wide variety of sprinklers capable of fire control in high-challenge fire scenarios. The large-drop sprinkler, which was defined in previous editions of this standard, is now included within this category. Installation and design requirements for these sprinklers can be found in Chapter ﻿﻿﻿13﻿﻿﻿ and Chapter ﻿﻿22﻿﻿.  3.3.215.4.3 Corrosion-Resistant Sprinkler. A sprinkler fabricated with corrosion-resistant material, or with special coatings or platings, to be used in an atmosphere that would normally corrode sprinklers. (AUT-SSI)  Enhanced Content Collapse The sprinkler described in 3.3.215.4.3 is intended for use in specific environments. Corrosion-resistant sprinklers are either covered with a decorative or corrosion-resistant coating or are designed for a specific function. Additional consideration of corrosion resistance should be given to any attached escutcheon. Stainless steel and aluminum escutcheons are often preferred over mild steel in harsh environments.  FAQ  Who can apply corrosion-resistant coatings to sprinklers?  A corrosion-resistant sprinkler can be designed with corrosion-resistant materials or, as is common, have a corrosion-resistant coating, such as wax or lead, applied to it. A corrosion-resistant coating can be applied only by the manufacturer except as permitted for the repair of a damaged coating if the damage occurred during installation. The sprinkler manufacturer should be consulted on proper repair procedures.  3.3.215.4.4* Dry Sprinkler. A sprinkler secured in an extension nipple that has a seal at the inlet end to prevent water from entering the nipple until the sprinkler operates. (AUT-SSI)  Enhanced Content Collapse As with any type of glass bulb sprinkler, when the glass bulb in a dry sprinkler is heated in excess of the marked operating temperature, it fractures. Typically, an inner tube, which also serves as an orifice, drops to a predetermined position, allowing the sealing elements to pass through the tube and away from the sprinkler. Water flows through the tube and strikes the deflector, which distributes the water in a standard spray pattern. Other mechanical operating mechanisms exist, such as those found in flexible dry sprinklers, but the basic principal remains the same. The dry upright sprinkler is similar to the dry pendent sprinkler, except that the dry upright uses an upright deflector.  3.3.215.4.5* Early Suppression Fast-Response (ESFR) Sprinkler. A type of fast-response sprinkler that has a thermal element with an RTI of 50 (meters-seconds)1⁄2 or less and is listed for its capability to provide fire suppression of specific high-challenge fire hazards. (AUT-SSI)  Enhanced Content Collapse ESFR sprinklers are predominantly used to protect storage occupancies. Caution must be exercised to avoid confusing ESFR sprinklers with other types of sprinklers that are equipped with fast-response operating elements. A non-ESFR sprinkler with a fast-response element is not specifically designed to achieve fire suppression. The relationship among thermal sensitivity, actual delivered density (ADD), and required delivered density (RDD) needs to be considered.  Several types of ESFR sprinklers available are illustrated in Exhibit 3.29 and Exhibit 3.30. Exhibit 3.29 shows five pendent-type ESFR sprinklers. The sprinklers have nominal K-factors of K-14, K-16.8, K-22.4, K-25.2, and K-28.0. Exhibit 3.30 illustrates an upright ESFR sprinkler with a nominal K-factor of K-14. It is important to note that the installation and discharge criteria for these different ESFR sprinklers are not uniform. See Chapters ﻿﻿﻿14﻿﻿﻿ and ﻿﻿23﻿﻿ for additional information on ESFR sprinklers.  EXHIBIT 3.29 Examples of Various ESFR Pendent Sprinklers. (Viking Group, Inc., and Reliable Automatic Sprinkler Co., Inc.)    EXHIBIT 3.30 Upright-Type ESFR Sprinkler. (Courtesy of Viking Group, Inc.)     3.3.215.4.6 Electrically Operated Sprinkler. A sprinkler equipped with an integral means of activation using electricity. (AUT-SSI)  Enhanced Content Collapse Electrically operated sprinklers are a new technology in which the primary means of operation is through an electrical signal provided by an electronic control system using specialized detection and control algorithms. Requirements on their allowable use can be found in Section ﻿﻿15.6﻿﻿.  3.3.215.4.7 Extended Coverage Sprinkler. A type of spray sprinkler with maximum coverage areas as specified in Sections 11.2 and 11.3. (AUT-SSI)  Enhanced Content Collapse The extended coverage (EC) sprinkler is available in pendent, upright, and sidewall configurations. The advantage of EC sprinklers is that their areas of coverage are greater than those established for standard spray upright, pendent, and sidewall sprinklers. Exhibit 3.31 and Exhibit 3.32 illustrate various types of EC sprinklers. EC sprinklers can look similar to standard coverage sprinklers, so the listing information should be consulted to confirm that the sprinklers used are, in fact, EC sprinklers.  EXHIBIT 3.31 EC Sprinklers. (Courtesy of Viking Group, Inc.)    EXHIBIT 3.32 Sidewall-Type EC Sprinkler. (Courtesy of Viking Group, Inc.)    3.3.215.4.8 Institutional Sprinkler. A sprinkler specially designed for resistance to load-bearing purposes and with components not readily converted for use as weapons. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.33 illustrates an example of a sprinkler that can be used in institutional occupancies, such as prisons.  EXHIBIT 3.33 Example of an Institutional Sprinkler. (Courtesy of Tyco Fire Protection Products)    3.3.215.4.9 Intermediate-Level Sprinkler/Rack Storage Sprinkler. A sprinkler equipped with integral shields to protect its operating elements from the discharge of sprinklers installed at higher elevations. (AUT-SSI)  3.3.215.4.10 Nozzle. A device for use in applications requiring special water discharge patterns, directional spray, or other unusual discharge characteristics. (AUT-SSI)  Enhanced Content Collapse Nozzles, such as the one shown in ﻿Exhibit 3.34﻿, are special application devices that have unique characteristics designed to meet specific needs. These devices are equipped with heat-responsive elements or are open to the atmosphere. Nozzles are designed to spray water in a specific direction. ﻿NFPA 15﻿, Standard for Water Spray Fixed Systems for Fire Protection, provides more information on systems using these devices. An installation where part of a building sprinkler system is protecting a duct is an example of where nozzles could be used as part of an ﻿NFPA 13﻿ system.  EXHIBIT 3.34 Grinnell Automatic Protectospray™ Nozzle. (Courtesy of Tyco Fire Protection Products)    3.3.215.4.11 Old-Style/Conventional Sprinkler. A sprinkler that directs from 40 percent to 60 percent of the total water initially in a downward direction and that is designed to be installed with the deflector either upright or pendent. (AUT-SSI)  Enhanced Content Collapse Old-style/conventional sprinklers, whether installed upright or pendent, direct approximately 40 percent of their water discharge up against the ceiling, with the remaining discharge directed downward. Spray sprinklers direct 100 percent of their water discharge downward. A comparison of the two spray patterns is shown in Exhibit 3.35.  EXHIBIT 3.35 Principal Distribution Patterns of Old-Style Sprinklers Used Before 1953 and Spray Sprinklers Introduced in 1953.    Old-style/conventional sprinklers were predominantly used in North America prior to the development of spray sprinklers. The major difference between old-style/conventional and standard spray sprinklers is the design of their deflectors. Old-style/conventional sprinklers are still available and used in Europe. These sprinklers are also used in North America for special applications in which an upward sprinkler discharge is desired, such as for protection in fur storage vaults and for pier and wharf protection.  3.3.215.4.12 Open Sprinkler. A sprinkler that does not have actuators or heat-responsive elements. (AUT-SSI)  Enhanced Content Collapse An open sprinkler, such as the one shown in Exhibit 3.36, is used predominantly on deluge or water spray systems.  EXHIBIT 3.36 Grinnell Open Sprinkler. (Courtesy of Tyco Fire Protection Products)    3.3.215.4.13 Ornamental/Decorative Sprinkler. A sprinkler that has been painted or plated by the manufacturer. (AUT-SSI)  Enhanced Content Collapse FAQ  Who can apply coatings to sprinklers?  As noted in ﻿﻿7.2.5﻿﻿, any coating for decorative or protective purposes must be applied only by the sprinkler manufacturer.  An ornamental sprinkler is commonly a sprinkler with a factory-applied paint coating that blends with the color of the interior of the building. Similarly, covers of concealed sprinklers have ornamental factory-applied paint coatings to blend with the color of the wall or ceiling where the sprinkler is installed.  3.3.215.4.14 Pilot Line Detector. A standard spray sprinkler or thermostatic fixed-temperature release device used as a detector to pneumatically or hydraulically release the main valve, controlling the flow of water into a fire protection system. (AUT-SSI)  3.3.215.4.15 Quick-Response Extended Coverage Sprinkler. A type of quick-response sprinkler that has a thermal element with an RTI of 50 (meter-seconds)1⁄2 or less and complies with the extended protection areas defined in Chapter 11. (AUT-SSI)  Enhanced Content Collapse A quick-response extended coverage (EC) sprinkler is specifically listed as having a fast-response operating element. Some standard-response EC sprinklers use fast-response operating elements to comply with the required response time necessary for the extended area. However, those sprinklers with the quick-response elements must be considered standard-response sprinklers, unless they are specifically listed as quick-response EC sprinklers. Exhibit 3.37 illustrates a type of listed quick-response EC sprinkler.  EXHIBIT 3.37 Quick-Response EC Sidewall Sprinkler. (Courtesy of Reliable Automatic Sprinkler Co., Inc.)    3.3.215.4.16* Quick-Response (QR) Sprinkler. A type of spray sprinkler that has a thermal element with an RTI of 50 (meter-seconds)1⁄2 or less and is listed as a quick-response sprinkler for its intended use. (AUT-SSI)  Enhanced Content Collapse A quick-response (QR) sprinkler is similar to a standard spray sprinkler, except that it possesses a fast-response operating element. QR sprinkler technology was developed from residential sprinkler technology. QR sprinklers are tested against the same criteria as standard-response sprinklers. The difference in the size of the operating elements of QR sprinklers and standard-response sprinklers should be noted. Where glass bulbs are used for standard spray sprinklers, the diameter of the bulb of a QR sprinkler is typically less than that of a standard-response sprinkler. Where a metallic alloy is used, the operating heat responsive element of a standard-response sprinkler has more mass than the element used in a QR sprinkler.  3.3.215.4.17 Residential Sprinkler. A type of fast-response sprinkler having a thermal element with an RTI of 50 (meters-seconds)1⁄2 or less that has been specifically investigated for its ability to enhance survivability in the room of fire origin and that is listed for use in the protection of dwelling units. (AUT-SSI)  Enhanced Content Collapse Residential sprinklers are tested for their ability to meet a specified life safety criterion. This criterion includes temperature, oxygen, and carbon monoxide levels measured at a height 5 ft (1.5 m) above the floor. Residential sprinklers are installed to provide a tenable space for a period of time necessary for an occupant to evacuate. Additionally, these sprinklers are intended to protect persons in the room of fire origin who are not intimate with ignition. This sprinkler possesses a fast-response operating element and produces a spray pattern that discharges water higher than the standard spray sprinkler. Exhibit 3.38 shows a listed residential sprinkler.  EXHIBIT 3.38 Viking Listed Residential Sprinkler. (Courtesy of Viking Group, Inc.)    3.3.215.4.18 Special Sprinkler. A sprinkler that has been tested and listed as prescribed in Section 15.2. (AUT-SSI)  Enhanced Content Collapse NFPA 13 provides detailed information for special sprinklers. Because they usually are intended to protect specific hazards or construction features, these types of sprinkler do not fall into the other categories. Special sprinklers must be evaluated and listed for their intended purpose. Fire test performance, spray pattern distribution with respect to the wetting of both walls and floors, operation with obstructions, thermal sensitivity, and performance under horizontal or sloped ceilings all need to be considered. While a good deal of latitude is provided for the development of special sprinklers, their K-factors and temperature ratings must comply with the provisions identified by NFPA 13. Also, their maximum area of coverage cannot exceed 400 ft² (37.2 m²) for light and ordinary hazard occupancies and 196 ft² (18.2 m²) for extra hazard occupancies and high-piled storage applications.  3.3.215.4.19 Spray Sprinkler. A type of sprinkler listed for its capability to provide fire control for a wide range of fire hazards. (AUT-SSI)  Enhanced Content Collapse The spray sprinkler was introduced in the early 1950s and was the successor to the old-style/conventional sprinkler. Standard spray pendent, upright, and sidewall sprinklers, as well as extended coverage pendent, upright, and sidewall sprinklers, are categories of spray sprinklers.  3.3.215.4.20 Standard Spray Sprinkler. A spray sprinkler with maximum coverage areas as specified in Sections 10.2 and 10.3. (AUT-SSI)  Enhanced Content Collapse The standard spray sprinkler is installed in accordance with the coverage area limitations in Chapter 10 and is available in pendent, upright, and sidewall configurations. Because the standard spray sprinkler is proven to be effective for a broad range of hazards and applications by adjusting the water discharge density, it is popular and, to a certain degree, serves as the benchmark for sprinkler measurement and performance. Exhibit 3.39 illustrates a standard spray pendent sprinkler and a standard spray upright sprinkler.  EXHIBIT 3.39 Examples of Standard Spray Pendent Sprinkler (top) and Upright Sprinkler (bottom). (Courtesy of Reliable Automatic Sprinkler Co., Inc.)"
+            },
+            "3.3.216": {
+                "title": "Sprinkler System.",
+                "text": "A system, commonly activated by heat from a fire and discharges water over the fire area, that consists of an integrated network of piping designed in accordance with fire protection engineering standards that includes a water supply source, a control valve, a waterflow alarm, and a drain. The portion of the sprinkler system above ground is a network of specifically sized or hydraulically designed piping installed in a building, structure, or area, generally overhead, and to which sprinklers are attached in a systematic pattern. (AUT-SSI)  Enhanced Content Collapse It is important to note that the sprinkler system is a piping network that includes water supplies and underground piping. Exhibit 3.40 diagrams many of the components of a typical sprinkler system. Although design and installation requirements for tanks and pumps are covered by other standards, these components are used in connection with sprinkler piping and are considered an integral part of the sprinkler system. Tanks and pumps are critical to successful sprinkler system performance and must be given serious consideration.  EXHIBIT 3.40 Diagram of Typical Complete Sprinkler System.    The definition for sprinkler system was revised for the 2013 edition to help clarify the system boundaries with respect to NFPA 13 and for maintenance purposes with respect to ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿NFPA 25﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿. Based on this revision, each system riser serving a portion of a single floor of a facility or the portion(s) of the piping network in multistory buildings where floor control valve assemblies are used to isolate individual floors is considered a sprinkler system. Multiple sprinkler systems can be supplied by a common supply main or header in a single-story building or by a riser or standpipe in a multistory building.  The video below in the Related Resources explains the different kinds of sprinkler systems.  Related Resources  Back to Basics: Types of Sprinkler Systems Back to Basics: Types of Sprinkler Systems  Video 3.3.216.1 Antifreeze Sprinkler System. A wet pipe system using automatic sprinklers that contains a liquid solution to prevent freezing of the system, intended to discharge the solution upon sprinkler operation, followed immediately by water from a water supply. (AUT-SSI)  Enhanced Content Collapse Extensive testing has determined that the propylene glycol and glycerine solutions used in past years could contribute to the heat release rate of a fire, and these solutions are no longer allowed in new sprinkler systems. NFPA 13 now requires the use of listed antifreeze solutions, which have begun to be introduced into the market.  The definition for the term antifreeze sprinkler system clearly indicates that water immediately follows discharge of the antifreeze solution, thus making systems where the entire water supply consists of antifreeze solution outside the scope of systems described in this standard. An antifreeze loop or piping can consist of an auxiliary antifreeze system that is equipped with a separate control valve, drains, and other components. The combined antifreeze portion and water portion of the system must satisfy all appropriate requirements, such as those pertaining to protection area limitations and hydraulic calculations, for the wet pipe system. In addition, all requirements for the antifreeze system must also be satisfied. Alarms on the wet pipe system might not be adequate for the auxiliary system, necessitating additional alarms.  The use of antifreeze systems can also be regulated by the municipal water department due to the potential health effects of the solutions. Recent revisions to NFPA 13 require the use of a listed antifreeze solution and have eliminated all types of antifreeze except for antifreeze consisting of propylene glycol and glycerin in special, approved applications. Because both materials are commonly used in food applications, their use should limit concerns about potential health effect issues. See Section ﻿﻿﻿8.6﻿﻿﻿ for specific requirements pertaining to antifreeze systems and ﻿﻿28.2.2.1.3﻿﻿ for requirements for calculating antifreeze systems greater than 40 gal (150 L) utilizing the Darcy-Weisbach formula.  3.3.216.2 Combined Dry Pipe Preaction Sprinkler System. A sprinkler system employing automatic sprinklers attached to a piping system containing air under pressure with a supplemental detection system installed in the same areas as the sprinklers. Operation of the detection system actuates tripping devices that open dry pipe valves simultaneously and without loss of air pressure in the system. The detection system also serves as an automatic fire alarm system. (AUT-SSI)  Enhanced Content Collapse A combined dry pipe–preaction sprinkler system (also see Section ﻿﻿8.4﻿﻿) is employed primarily where more than one dry pipe system is required due to the size of the space and where the installation of supply piping to each dry pipe valve through a heated or protected space is not possible. Primary examples of where combined dry pipe–preaction systems are used include piers, wharves, and very large cold storage warehouses. These systems are special application systems and should be used as such. Many cold storage rooms can be adequately protected with a conventional dry pipe system or a double interlock preaction system.  3.3.216.3 Deluge Sprinkler System. A sprinkler system employing open sprinklers or nozzles that are attached to a piping system that is connected to a water supply through a valve that is opened by the operation of a detection system installed in the same areas as the sprinklers or the nozzles. When this valve opens, water flows into the piping system and discharges from all sprinklers or nozzles attached thereto. (AUT-SSI)  Enhanced Content Collapse A deluge system’s mode of activation is similar to that for a preaction system. With the exception of the non-interlock preaction system, the activation of these two types of systems depends on the operation of a supplemental detection system. The difference between the two types of systems is that preaction systems employ automatic sprinklers that respond to heat, and deluge systems use open (nonautomatic) sprinklers or open nozzles. Operation of the detection system in a preaction system fills the system piping with water once certain interlocks are triggered. Water is not discharged from the system until a sprinkler operates. For a deluge system, operation of the detection system results in flow from all system sprinklers or nozzles. Deluge systems are normally used for high hazard areas requiring an immediate application of water over the entire hazard. An aircraft hangar is an example of a facility that is likely to use deluge systems. Exhibit 3.41 illustrates an example of a deluge system using a supplemental electronic heat or smoke detection system. The video found in Related Resources below shows the operation of deluge sprinkler system and a deluge valve.  EXHIBIT 3.41 Deluge System. (Courtesy of Stephan Laforest)    Related Resources  Deluge Sprinkler System Operation Deluge Sprinkler System Operation  Video 3.3.216.4 Dry Pipe Sprinkler System. A sprinkler system employing automatic sprinklers that are attached to a piping system containing air or nitrogen under pressure, the release of which (as from the opening of a sprinkler) permits the water pressure to open a valve known as a dry pipe valve, and the water then flows into the piping system and out the opened sprinklers. (AUT-SSI)  Enhanced Content Collapse Exhibit 3.42 illustrates an example of a dry pipe system. The video found in Related Resources below shows the operation of a dry sprinkler system and a dry pipe valve.  EXHIBIT 3.42 Dry Pipe System. (Courtesy of Viking Group, Inc.)    FAQ  Where are dry pipe sprinkler systems required?  A dry pipe sprinkler system should be installed only where pipe is subject to freezing. Paragraph ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿16.4.1.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ indicates that a dry pipe system is one option permitted to protect against the system freezing where the building environment cannot be maintained at or above 40°F (4°C).  Dry pipe systems should not be used to reduce water damage from pipe breakage or leakage, since they operate too quickly to be of value. For that purpose, a single or double interlock preaction system should be used.  A dry pipe system’s piping is typically filled with pressurized air or nitrogen and is activated when a drop in the system piping pressure occurs. A drop in pressure can be caused by the activation of a single sprinkler or by damage to the sprinkler system piping. A drop in pressure causes the dry pipe valve to open and allows water to flow through the system piping.  Related Resources  Dry Sprinkler System Operation Dry Sprinkler System Operation  Video 3.3.216.5* Gridded Sprinkler System. A sprinkler system in which parallel cross mains are connected by multiple branch lines, causing an operating sprinkler to receive water from both ends of its branch line while other branch lines help transfer water between cross mains. (AUT-SSD)  Enhanced Content Collapse Gridded sprinkler systems are designed to provide a number of flow paths to the sprinklers on branch lines. This multiple-path design reduces the potential for pressure loss through the system piping compared with other system configurations. Due to the complex nature of the hydraulic calculations involved, the use of computer hydraulic programs is almost always necessary in evaluating the piping grid and determining the pressure requirements of the system.  Although the gridded system possesses highly advantageous hydraulic characteristics, certain limitations and design conditions are associated with its use. For example, gridded systems are not permitted for dry pipe systems and certain preaction systems, because excessive amounts of air can remain trapped in the system piping, which significantly delays water from reaching the operating sprinklers (see ﻿﻿﻿﻿8.2.3.10﻿﻿﻿﻿ and ﻿﻿﻿8.3.2.7﻿﻿﻿). Gridded system designs must also include additional verification that the hydraulically most demanding combination of sprinklers was selected (see ﻿﻿28.2.4.5﻿﻿).  3.3.216.6* Looped Sprinkler System. A sprinkler system in which multiple cross mains are tied together so as to provide more than one path for water to flow to an operating sprinkler and branch lines are not tied together. (AUT-SSD)  Enhanced Content Collapse A looped sprinkler system possesses better hydraulic characteristics than does a tree system. Tree systems are the most basic system of sprinkler pipe layout: the cross mains and the branch lines are not tied together, providing only one path for the water to flow to an operating sprinkler. While looped systems hydraulically perform better than tree systems, their hydraulic characteristics are not as good as those of a gridded system. The hydraulic calculations associated with a looped system are not as complicated as those for a gridded system. Additionally, looped systems do not have the same limitations and design considerations as do gridded systems.  3.3.216.7 Multicycle System. A type of sprinkler system capable of repeated on–off flow cycles in response to heat. (AUT-SSI)  3.3.216.8 Pipe Schedule System. A sprinkler system in which the pipe sizing is selected from a schedule that is determined by the occupancy classification and in which a given number of sprinklers are allowed to be supplied from specific sizes of pipe. (AUT-SSD)  Enhanced Content Collapse Dating back to the first edition of NFPA 13 in 1896, the pipe schedule method is the oldest means of determining the pipe sizes of the sprinkler system and of defining a very broad single water demand for each occupancy hazard classification regardless of the size of the sprinkler system.  3.3.216.9* Preaction Sprinkler System. A sprinkler system employing automatic sprinklers that are attached to a piping system that contains air that might or might not be under pressure, with a supplemental detection system installed in the same areas as the sprinklers. (AUT-SSI)  Enhanced Content Collapse The three types of preaction systems are specified in ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿8.3.2.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿. The user should be aware that the double interlock version is subject to the same time-delay problems as a dry pipe system and, likewise, is subject to comparable dry pipe system limitations.  FAQ  Where are double interlock preaction systems normally used?  Double interlock preaction systems normally are used to protect properties where accidental water discharge is a significant concern. Even though accidental or premature discharge of sprinkler systems is extremely rare, some property owners prefer these systems in areas such as electronic equipment rooms.  Exhibit 3.43 shows an example of a preaction system with electric activation. Preaction systems can also be activated through pneumatic means using a pneumatic pilot line detector and piping. The video found in Related Resources below shows the operation of a single interlock preaction sprinkler system and an electrically actuated preaction valve. Section ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿8.3﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ addresses the requirements for preaction systems.  EXHIBIT 3.43 Example of Preaction System. (Courtesy of Viking Group, Inc.)    Related Resources  Preaction Sprinkler System Operation Preaction Sprinkler System Operation  Video 3.3.216.10 Wet Pipe Sprinkler System. A sprinkler system employing automatic sprinklers attached to a piping system containing water and connected to a water supply so that water discharges immediately from sprinklers opened by heat from a fire. (AUT-SSI)  Enhanced Content Collapse A wet pipe sprinkler system is the simplest and most reliable of all sprinkler system types. Operation of one sprinkler activates a wet pipe system. Only those sprinklers activated by the heat from fire will discharge water. Exhibit 3.44 illustrates an example of a wet pipe system using an alarm check valve. The video found in Related Resources below shows the operation of wet sprinkler system and an alarm check valve. Section ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿8.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ addresses requirements for wet pipe systems.  EXHIBIT 3.44 Wet Pipe Sprinkler Riser with Alarm Check Valve. (Courtesy of Stephan Laforest)    All other types of systems addressed by NFPA 13 require the use of additional equipment, such as dry pipe valves, preaction valves, or supplemental detectors, for successful operation. As the number of events needed for system activation increases—that is, the activation of both sprinklers and heat detectors or the use of more elaborate devices such as dry pipe valves—the greater the need for a comprehensive inspection, testing, and maintenance program. In other words, the more complicated a system, the greater the likelihood that something can go wrong and the greater the effort needed to keep the system in proper working order.  Wet pipe systems should always be the first type of system considered. Only in cases where a wet pipe system cannot properly protect a space should another type of system be contemplated. For example, a wet pipe system is not a good candidate for a cold storage room, because the cold temperature is likely to cause the water in the sprinkler piping to freeze, resulting in damage to the piping and impairment of the sprinkler system. Therefore, a dry pipe system or an antifreeze system is a better choice for the protection of cold storage rooms.  Related Resources  Wet Sprinkler System Operation Wet Sprinkler System Operation  Video"
+            },
+            "3.3.217": {
+                "title": "Sprinkler Types.",
+                "text": "See 3.3.215.4."
+            },
+            "3.3.218": {
+                "title": "Standard Array (Rolled Paper).",
+                "text": "See 3.3.8.5."
+            },
+            "3.3.219": {
+                "title": "Standard Spray Sprinkler.",
+                "text": "See 3.3.215.4.20."
+            },
+            "3.3.220": {
+                "title": "Static Pressure.",
+                "text": "The pressure that exists at a given point under normal distribution system conditions measured at the residual hydrant with no hydrants flowing. [24, 2022] (AUT-PRI)"
+            },
+            "3.3.221": {
+                "title": "Storage Aids.",
+                "text": "Commodity storage devices, such as pallets, dunnage, separators, and skids. (AUT-SSD)"
+            },
+            "3.3.222": {
+                "title": "Supervision.",
+                "text": "See 3.3.125.11."
+            },
+            "3.3.223": {
+                "title": "Supervisory Device.",
+                "text": "A device arranged to supervise the operative condition of automatic sprinkler systems. (AUT-SSI)  Enhanced Content Collapse NFPA 13 requires that certain elements and conditions of the sprinkler system be supervised to decrease the likelihood of system impairment. For example, a planned or inadvertent closure of one of the valves that controls the water supply to the sprinkler system would render the system inoperative. Therefore, these valves must be supervised.  Although several means of valve supervision are permitted by NFPA 13, a more sophisticated means includes the use of an electronically monitored tamper switch that sounds an alarm at a constantly attended location. The installation of this type of device is addressed by ﻿﻿NFPA 72﻿﻿, National Fire Alarm and Signaling Code. Other system conditions that are required to be supervised include the air pressure in a dry pipe or preaction system and the water temperature in a circulating closed-loop system."
+            },
+            "3.3.224": {
+                "title": "Survival Angle.",
+                "text": "See 3.3.125.12."
+            },
+            "3.3.225": {
+                "title": "System Riser.",
+                "text": "The aboveground horizontal or vertical pipe between the water supply and the mains (cross or feed) that contains a control valve (either directly or within its supply pipe), a pressure gauge, a drain, and a waterflow alarm device. (AUT-SSI)  Enhanced Content Collapse A system riser is more than just a subset of the term riser, which is broadly defined as any vertical piping within the sprinkler system.  FAQ  Must a system riser be vertical to be defined as a system riser?  As indicated by the definition, a system riser can be any aboveground pipe in a vertical or horizontal orientation installed between the water supply and the system mains that contains specific devices."
+            },
+            "3.3.226": {
+                "title": "System Working Pressure.",
+                "text": "The maximum anticipated static (nonflowing) or flowing pressure applied to sprinkler system components exclusive of surge pressures and exclusive of pressure from the fire department connection. (AUT-SSI)  Enhanced Content Collapse The term system working pressure applies to the maximum pressure that the system is expected to be exposed to under normal circumstances. All components of the sprinkler system should be rated for operating pressures at or above the system working pressure. Transient pressure spikes (surge pressure) and elevated pressure pumped into the system during fire department operations are not taken into consideration for the purposes of determining the system working pressure."
+            },
+            "3.3.227": {
+                "title": "Sway Brace.",
+                "text": "An assembly intended to be attached to the system piping to resist horizontal earthquake loads in two directions. (AUT-HBS)"
+            },
+            "3.3.228": {
+                "title": "Thermal Barrier.",
+                "text": "A material that limits the average temperature rise of the unexposed surface to not more than 250°F (139°C) above ambient for a specified fire exposure duration using the standard time–temperature curve of ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, or UL 263, Standard for Fire Tests of Building Construction and Materials. (AUT-SSI)  Enhanced Content Collapse The term thermal barrier is used in ﻿﻿9.2.4.1.1﻿﻿ to establish a condition necessary to omit sprinklers from certain types of dwelling unit bathrooms."
+            },
+            "3.3.229": {
+                "title": "Tiered Storage (Baled Cotton).",
+                "text": "An arrangement in which bales are stored directly on the floor, two or more bales high. (AUT-SSD)"
+            },
+            "3.3.230": {
+                "title": "Transverse Flue Space.",
+                "text": "The space between rows of storage parallel to the direction of loading. (See Figure A.‍3.3.122.) (AUT-SSD)  Enhanced Content Collapse NFPA 13 defines the minimum width of a transverse flue space as 6 in. (150 mm) [see ﻿﻿20.5.3.4.2﻿﻿]. This minimum width is intended to promote the heat from a fire to vent vertically, as opposed to travelling horizontally. This in turn allows sprinklers to operate as quickly as possible and reduces the potential of horizontal fire spread.  It should be noted that most full-scale fire tests conducted at testing labs are conducted with 6 in. (150 mm) wide transverse flue spaces. As a result, testing conducted with in-rack sprinklers installed in the transverse flue space have the in-rack sprinklers located only 3 in. (75 mm) horizontally away from the nearest pallet load. A minimum vertical clearance of 6 in. (150 mm) between the top of storage and the in-rack sprinkler deflector allows for direct sprinkler discharge to the top of the pallet load, thus allowing for water discharge, in theory, to all vertical surfaces of the pallet load. As the transverse flue space becomes wider, less sprinkler discharge will reach the top of the pallet loads if the vertical clearance is not changed. Therefore, if in-rack sprinklers are required within the transverse flue space of a storage rack, consideration should be given to providing as much vertical clearance between the top of storage and the in-rack sprinkler deflector as possible where the width of the transverse flue space exceeds 6 in. (150 mm)."
+            },
+            "3.3.231": {
+                "title": "Type 1 Stair.",
+                "text": "See 3.3.125.13."
+            },
+            "3.3.232": {
+                "title": "Unit Load.",
+                "text": "A pallet load or module held together in some manner and normally transported by material-handling equipment. (AUT-SSD)"
+            },
+            "3.3.233": {
+                "title": "Unobstructed Construction.",
+                "text": "See 3.3.43.2."
+            },
+            "3.3.234": {
+                "title": "Upright Sprinkler.",
+                "text": "See 3.3.215.3.6."
+            },
+            "3.3.235": {
+                "title": "Valve.",
+                "text": "2 A device for controlling the passage of fluid or gas through a pipe.  3.3.235.1 Check Valve. A valve that allows flow in one direction only. [24, 2022] (AUT-PRI)  3.3.235.2* Control Valve. A valve capable of stopping the flow of water to water-based fire protection systems and devices. (AUT-SSI)  Enhanced Content Collapse Control valves typically are gate- or butterfly-type valves and are not automatic system valves such as deluge and preaction valves.  3.3.235.3* Indicating Valve. A valve that has components that provide the valve operating position, open or closed. [24,2022] (AUT-PRI)   3.3.235.4* Water Control Valve. A valve that activates to allow water flow to a water-based fire protection system. (AUT-SSI)   3.3.235.4.1 Differential Dry Pipe Valve. A water control valve that is held in the closed position by the system gas pressure exposed to the surface area on the air/nitrogen side of the clapper where such surface area is larger than the surface area on the water supply side, with an intermediate chamber between the two surface areas that is open to atmosphere. (AUT-SSI)  Enhanced Content Collapse This definition describes the type of dry pipe valve that requires a high water level switch. There is only one use of this term in NFPA 13, in ﻿﻿8.2.5.4.2﻿﻿. A high water level switch is needed because a high column of water on a clapper could keep the dry valve from tripping in a fire event.  3.3.235.4.2 Mechanical Dry Pipe Valve. A water control valve that uses a series of mechanical devices such as levers, springs, diaphragms, and latches to hold the valve in the closed position with air/nitrogen pressure and without using the clapper surface areas to provide a differential between air/nitrogen and water pressures. (AUT-SSI)"
+            },
+            "3.3.236": {
+                "title": "Vertical Roll Paper Storage.",
+                "text": "See 3.3.188.4."
+            },
+            "3.3.237": {
+                "title": "Water Control Valve.",
+                "text": "See 3.3.235.4."
+            },
+            "3.3.238": {
+                "title": "Waterflow Alarm Device.",
+                "text": "An attachment to the sprinkler system that detects a predetermined water flow and is connected to a fire alarm system to initiate an alarm condition or is used to mechanically or electrically initiate a fire pump or local audible or visual alarm. (AUT-SSI)"
+            },
+            "3.3.239": {
+                "title": "Wet Barrel Hydrant.",
+                "text": "See 3.3.107.6."
+            },
+            "3.3.240": {
+                "title": "Wet Pipe Sprinkler System.",
+                "text": "See 3.3.216.10."
+            },
+            "3.3.241": {
+                "title": "Wood Pallet.",
+                "text": "See 3.3.154.5."
+            },
+            "3.3.242": {
+                "title": "Wrapped Roll Paper Storage.",
+                "text": "See 3.3.188.5.  Enhanced Content Collapse References Cited in Commentary  National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471.  NFPA 15, Standard for Water Spray Fixed Systems for Fire Protection, 2022 edition.  NFPA 24, Standard for the Installation of Private Fire Service Mains and Their Appurtenances, 2022 edition.  NFPA 25, Standard for Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems, 2020 edition.  NFPA 72®, National Fire Alarm and Signaling Code®, 2022 edition.  NFPA 204, Standard for Smoke and Heat Venting, 2021 edition.  NFPA 1963, Standard for Fire Hose Connections, 2019 edition.  American Fire Sprinkler Association, 12750 Merit Drive, Suite 350, Dallas, TX 75251.  “The Impact of 8 in. Lintels on Sprinkler Activation Within Small Rooms,” February 2005.  ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959.  ASTM E119, Standard Test Methods for Fire Tests of Building Construction and Materials, 2020.  Fire Protection Research Foundation, 1 Batterymarch Park, Quincy, MA 02169-7471.  “Evaluation of Sprinkler Performance in Protecting Gondola Type Shelf Storage,” September 2006.  “Antifreeze Solutions in Home Fire Sprinklers—Literature Review and Research Plan,” June 2010.  “Antifreeze Solutions in Home Fire Sprinklers—Phase II Research Final Report,” December 2010.  Underwriters Laboratories Inc., 333 Pfingsten Road, Northbrook, IL 60062-2096.  ANSI/UL 263, Fire Tests of Building Construction and Materials, 2021."
+            }
+        }
+    }
+}

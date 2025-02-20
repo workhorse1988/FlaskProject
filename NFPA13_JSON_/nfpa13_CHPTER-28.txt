@@ -1,0 +1,1846 @@
+Chapter 28 — Plans and Calculations
+
+
+
+225
+Plans and Calculations
+Enhanced Content
+Collapse
+Chapter 28 covers the requirements for the preparation of plans and calculations. These requirements include those provisions necessary for the fabrication and installation of a sprinkler system by the installing contractor as well as those provisions needed to demonstrate compliance to the authority having jurisdiction that the design meets the requirements of NFPA 13.
+
+Section ﻿﻿﻿﻿﻿﻿28.1﻿﻿﻿﻿﻿﻿ contains the requirements for the information that must be shown on the plans to confirm that the design and the layout of the system are appropriate. Sections ﻿﻿﻿﻿﻿28.2﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿28.3﻿﻿﻿﻿ contain detailed provisions of the hydraulic calculation procedure that must be followed. Section ﻿﻿﻿28.4﻿﻿﻿ contains a description of the standard format for presentation of the hydraulic calculations. Section ﻿﻿28.5﻿﻿ provides direction on the use of the pipe schedule method for sizing of piping.
+
+The two methods allowed for verifying that the proposed pipe sizes are appropriate are the hydraulic calculation method in Section 28.2 and the pipe schedule method in Section 28.5. NFPA 13 requires that only one of those two methods be used.
+
+Where utilized, Chapter 28 lays out a standardized procedure for performing the hydraulic calculations. This chapter also requires the use of a uniform format to ensure that the information is consistently reported and easy to read and understand, regardless of the method used to perform the calculations. The commentary text in this chapter is intended to enhance and explain the language in the standard and the background information on compliance.
+
+28.1* Working Plans.
+Enhanced Content
+Collapse
+The sprinkler system design process is continually changing in response to new technology and market conditions. Generally, plans are prepared primarily by the installing contractor, but more owners and authorities having jurisdiction are now requiring that plans be prepared by licensed fire protection engineers and that the plans be included as part of the overall building design package submittal for approval.
+
+The use of building information modeling (BIM) has led to greater coordination of all building elements, including the sprinkler system. This coordination requires more upfront design effort, which often results in preparation of sprinkler construction drawings prior to selection of the installing contractor.
+
+The growing trend toward the design/build delivery method has also affected the design process. When projects are completed using this method, the general contractor is responsible for both project design and construction. The design team and the subcontractors are selected by the general contractor. The design professionals work together with the installing contractors to prepare the construction documents.
+
+The video in the Related Resources below provides information about the importance of using a plan review checklist. A sample plan review checklist can also be found in the Related Resources to provide a systematic process for plan review.
+
+
+
+ASK THE AHJ
+
+Will a set of plans be rejected if every item in ﻿﻿﻿﻿﻿﻿28.1.1.1﻿﻿﻿﻿﻿﻿, ﻿﻿﻿﻿﻿28.1.3﻿﻿﻿﻿﻿, and ﻿﻿﻿﻿28.1.4﻿﻿﻿﻿—for example, the compass direction is not indicated—is not submitted to the authority having jurisdiction?
+
+Although a set of plans missing one item required by Section 28.1 could be rejected, most authorities having jurisdiction will approve plans with comments that must be addressed prior to installation if the intent of the design/layout can be deciphered. However, it is advantageous for the preparer to include all the required items for two reasons: (1) including all the details generally will speed up the review time, and (2) most authorities having jurisdiction generally will scrutinize the plans less when all the information is readily available and there are no obvious red flags.
+
+Related Resources
+
+Importance of Using a Plan Review Checklist
+Importance of Using a Plan Review Checklist
+
+Video
+Plan Review Checklist
+
+Document
+28.1.1* 
+Working plans shall be submitted for approval to the authority having jurisdiction before any equipment is installed or remodeled.
+
+28.1.1.1 
+Working plan submittals shall include the following:
+(1)
+Working plans of the system(s), per 28.1.3
+
+(2)
+Hydraulic calculations where systems are required to be calculated
+
+(3)
+Data sheets for the system components where required by the authority having jurisdiction
+
+(4)*
+Signed owner’s certificate
+
+
+28.1.1.2 
+Submittals shall be permitted to be in electronic format when approved by the authority having jurisdiction.
+
+28.1.1.3 
+A copy of the approved plans shall be given to the owner or owner’s representative.
+
+28.1.2 
+Deviation from approved plans shall require permission of the authority having jurisdiction.
+
+
+28.1.3 
+
+Working plans shall be drawn to an indicated scale, on sheets of uniform size, with a plan of each floor, and shall show those items from the following list that pertain to the design of the system:
+(1)
+Name and address of building being protected
+
+(2)
+Name, telephone number, and address of installing contractor
+
+(3)
+Point of compass and graphic scale indications on drawings and details as applicable
+
+(4)
+Location of all partitions that extend to or are within a minimum of 18 in. (450 mm) to the finished ceiling or exposed deck above
+
+(5)
+Location of all fire-rated partitions, fire barriers, draft stops, and draft curtains
+
+(6)
+Identification of all rooms and spaces, regardless of occupancy or use
+
+(7)
+Identification and labeling of all spaces, above and below ceilings, where sprinklers will be omitted, including appropriate citation of the section(s) of this standard for such omission(s)
+
+(8)
+Location of all fixtures, diffusers, lights, and devices installed in or mounted to the ceiling structure, regardless of the ceiling type (i.e., finished or exposed to structure)
+
+(9)
+Label finished or exposed ceiling heights for each space, including those that are sloped greater than 2 in 12 (16.7 percent)
+
+(10)*
+Location and identification of major mechanical, plumbing, and electrical equipment installed above or below the ceiling spaces if sprinkler protection is being provided for those areas
+
+(11)*
+Location and identification of all major structural members, and identification and labeling of construction types (i.e., obstructed or unobstructed) for each space or portion thereof in the building, as applicable
+
+(12)*
+Location and identification of concealed spaces, regardless of combustibility, and of architectural and/or structural features not shown or easily identifiable in the floor plan or reflected ceiling plan views
+
+(13)
+Water source(s) supply information, including the following:
+
+(a)
+Location
+
+(b)
+Type
+
+(c)
+Size
+
+(d)
+Dimensions
+
+(e)
+Capacity
+
+(f)
+Configuration
+
+(g)
+Elevation
+
+(h)
+Static pressure
+
+(i)
+Flow rate
+
+(j)
+Residual pressure
+
+(k)
+Flow test locations, dates, and sources (i.e., city or private)
+
+(l)
+Any adjustments from the raw data required by the engineer of record (i.e., owner’s certificate) or the water authority, if applicable
+
+(14)
+Information from the owner’s certificate required by Section 4.2, including the edition of this standard being used
+
+(15)
+Identification and labeling of design criteria for each room and/or space as shown on building plan, including the following:
+
+(a)
+Hazard classification associated with each room or space
+
+(b)
+Identification and location of all rooms and spaces intended for storage, including the following:
+
+i.
+Commodity classification
+
+ii.*
+Storage type and configuration
+
+iii.
+Height of storage for each dedicated room or space
+
+iv.
+Type of packaging to be used
+
+(16)
+Identification and labeling of all sprinkler systems, including type and overall area protected by each system
+
+(17)
+Location and labeling for the size, dimension, elevation, and type of all major sprinkler system components, including the following (see 28.1.3.1):
+
+(a)
+Pipe, fittings, valves, and test and drain locations
+
+(b)
+Sprinkler legend, per system, including the following:
+
+i.
+Orientation
+
+ii.
+Finish
+
+iii.
+Manufacturer
+
+iv.
+Model
+
+v.
+SIN number
+
+vi.
+K-factor
+
+vii.
+Temperature rating
+
+viii.
+Response type
+
+ix.
+Quantity of each
+
+x.
+If extended coverage or residential type, spacing utilized for this application
+
+(c)
+Manufacturer, model, length, maximum number of bends, and minimum bend radius and corresponding K-factor applied to flexible sprinkler hose
+
+(18)
+Location and labeling of all system flushing, forward flow, water flow alarm, and test and drain locations
+
+(19)
+Location and labeling of sprinkler system riser(s) and,if applicable, standpipe location(s)
+
+(20)
+Location and labeling of fire department connections
+
+(21)
+Location and labeling of hydraulic calculation information, including the following:
+
+(a)
+Graphic indication of each area of operation, including a description of any allowed density or area modifications applied
+
+(b)
+Labeling of all node locations that correspond to each hydraulic calculation
+
+(22)
+Location and labeling of seismic system components, including the following:
+
+(a)
+Zones of influence
+
+(b)
+Bracing and restraint assemblies
+
+(c)
+Flexible couplings and penetration clearances
+
+(d)
+Maximum spacing of components
+
+(e)
+Design angle category(ies)
+
+(23)
+Sprinkler system details and information for other system components necessary for the complete installation, including the following:
+
+(a)
+Hanger and/or hanger assemblies intended to be used throughout
+
+(b)
+Total system volume for dryand double interlock preaction systems
+
+(c)
+Hydraulic calculation summary information, including the following:
+
+i.
+Method of calculation
+
+ii.
+Total water and pressure required
+
+iii.
+Hose demand
+
+(d)
+Special information, settings, or values required for ongoing inspection, testing, and maintenance and system use, including the following:
+
+i.
+Pressure regulating device features and means for conducting a flow test
+
+ii.
+Dry pipe, preaction, and/or deluge systems
+
+iii.
+Information regarding antifreeze solution used
+
+
+Enhanced Content
+Collapse
+The video in the Related Resources below provides information about the importance of using a plan review checklist. A sample plan review checklist can also be found in the Related Resources to provide a systematic process for plan review.
+
+
+
+FAQ
+
+Is the intent of item (23) of 28.1.3 that hanger locations be dimensioned?
+
+Even though item (23) of 28.1.3 requires hanger or hanger assemblies to be indicated on the working plans, there is no intent to require that the locations be specifically dimensioned. Instead, sufficient information must be included on the working plans to determine that the rules of Chapter ﻿﻿﻿﻿17﻿﻿﻿﻿ have been met. In reality, typical hanger spacing notes and standard details will satisfy this requirement.
+
+Related Resources
+
+Plan Review Checklist
+
+Document
+Importance of Using a Plan Review Checklist
+Importance of Using a Plan Review Checklist
+
+Video
+
+28.1.3.1 
+
+Where a proposed new system will connect to or be installed adjacent to an existing system(s), plans shall show adequate portions of the existing system(s) pertinent to the design and installation of the new system in addition to the items listed in 28.1.3(23).
+
+Enhanced Content
+Collapse
+Providing enough information about the existing system that a new system will be installed adjacent to provides a full picture of the installation for the authority having jurisdiction to review for full compliance. Providing details only on the new system or portion of a system might not allow full evaluation of the protection provided.
+
+28.1.4 
+A signed copy of the owner’s certificate and the working plan submittal shall include the manufacturer’s installation instructions for any specially listed equipment, including descriptions, applications, and limitations for any sprinklers, devices, piping, or fittings.
+
+Enhanced Content
+Collapse
+FAQ
+
+Why are manufacturer’s instructions required to be submitted?
+
+Manufacturer’s instructions frequently contain information about the use and limitations of a product that is not in NFPA 13 but that is critical to the installation of the sprinkler system plans and hydraulic calculations. Examples of specially listed equipment include specially listed sprinklers, for which the flows and pressures necessary to use them are not specifically discussed in NFPA 13, or specially listed fittings with equivalent lengths (hydraulic characteristics) that are not addressed in NFPA 13.
+
+Specially listed products frequently have additional rules and requirements regarding their use that are not covered in NFPA 13. Many times, these special rules contain limitations on the use of the product. It is important that a product be installed in conformance with its special listing and that the authority conducting the plan review be able to determine whether the proposed use of the product is consistent with such.
+
+28.2 Hydraulic Calculation Procedures.
+
+Enhanced Content
+Collapse
+Section 28.2 covers the procedures for hydraulic calculations. Systems that used the pipe schedule method for determining pipe sizes are not required to follow Section 28.2, but they will need to use the tables in Section ﻿﻿﻿28.5﻿﻿﻿ to ensure that the pipe sizes are appropriate. The required format and documentation for hydraulic calculations are contained in Section ﻿﻿28.4﻿﻿.
+
+28.2.1* General.
+Enhanced Content
+Collapse
+FAQ
+
+Is the number of sprinklers that can be supplied by a given pipe size limited when the hydraulic calculation procedure is used?
+
+The hydraulic calculation procedure, which is favored over the pipe schedule procedure, does not impose any limit on the number of sprinklers supplied by certain diameters of pipe. The determining factor for any such limit rests with the capacity of the water supply and the required flow rate for the number of operating sprinklers supported.
+
+28.2.1.1 
+A calculated system for a building, or a calculated addition to a system in an existing sprinklered building, shall supersede the rules in this standard governing pipe schedules, except that all systems shall continue to be limited by area.
+
+28.2.1.2 
+Pipe sizes shall be no less than 1 in. (25 mm) nominal for black or galvanized steel piping and 3⁄4 in. (20 mm) nominal for copper tubing or brass, stainless steel, or nonmetallic piping listed for fire sprinkler service unless permitted by Sections 30.4 and 30.6.
+
+28.2.1.3 
+The size of pipe, number of sprinklers per branch line, and number of branch lines per cross main shall otherwise be limited only by the available water supply.
+
+28.2.1.4* 
+Unless required by other NFPA standards, the velocity of water flow shall not be limited when hydraulic calculations are performed using the Hazen–Williams or Darcy Weisbach formulas.
+
+28.2.1.5 
+However, sprinkler spacing and all other rules covered in this and other applicable standards shall be observed.
+
+28.2.1.6 
+Hydraulic calculations shall extend to the effective point of the water supply where the characteristics of the water supply are known.
+
+28.2.2 Formulas.
+28.2.2.1 Friction Loss Formula.
+Enhanced Content
+Collapse
+CLOSER LOOK
+
+Understanding the Hazen-Williams Formula
+
+The Hazen-Williams formula is the most common of the empirical formulas used to determine relationships among flow, friction loss, and available pressure for the design of a sprinkler system. The formula was developed at the beginning of the 20th century by Allen Hazen, a civil engineer, and Gardner Stewart Williams, a professor of civil engineering at the University of Michigan. The Hazen-Williams formula is an empirical relationship developed by observation of the resultant pressure loss across a known length of a select number of pipe types and sizes using a select number of water flow rates, making its confirmed accuracy somewhat limited to those conditions of flow similar to that observed. A different method of calculating friction loss, known as the Darcy-Weisbach equation, can provide a more precise method for establishing those relationships, but due to its complexity it is not commonly used for calculating friction loss of water at room temperature in fire protection systems. The Darcy-Weisbach equation more accurately accounts for the effects of turbulence, temperature, and viscosity. See the commentary following ﻿﻿﻿﻿﻿﻿﻿﻿﻿28.2.2.1.3﻿﻿﻿﻿﻿﻿﻿﻿﻿ for more information on the use of the Darcy-Weisbach equation with antifreeze solutions.
+
+The Hazen-Williams formula depends on the relationship of the pipe type (the C factor) with the pipe diameter and the flow through the pipe. The C factor describes the relative roughness of the pipe interior and is similar to the epsilon factor used in the Darcy-Weisbach calculation technique. Standardized C factors for various pipe types are shown in Table 28.2.4.8.1. These C factors represent aged pipe and not the smooth new pipe used in an original installation. By forcing the use of aged pipe, NFPA 13 includes a safety factor that accounts for expected corrosion.
+
+As stated, NFPA 13 does not stipulate a maximum limit on water velocities in piping; however, some insurance companies incorporate such limits. The definition for the Darcy-Weisbach method contained in FM Data Sheet 2-0, Installation Guidelines for Automatic Sprinklers, includes a recommended velocity limit of 30 ft/sec (9.1 m/sec) for the use of the Hazen-Williams formula, suggesting the use of the Darcy-Weisbach equation at higher velocities. Other mechanical piping standards impose limits on water velocity because of concerns over noise and pipe erosion. Such concerns are not relevant in fire protection pipe systems, because water is not normally flowing through them. Automatic sprinkler systems operate only during a fire or during testing.
+
+NFPA 13 does not require calculations to be performed by hand. Friction loss tables or internal hydraulic calculations that are part of a software program are usually used to establish the friction loss. Such tables and programs provide a set of accurate friction loss values for a combination of pipe types and flows, all of which are based on the Hazen-Williams formula.
+
+Starting with the 2007 edition, NFPA 13 requires large antifreeze systems to be calculated using the Darcy-Weisbach formula, rather than the Hazen-Williams formula with which most people in the sprinkler industry are familiar.
+
+NFPA 13 does not require the use of the Darcy-Weisbach method of calculating friction loss for water-only systems because the density and viscosity of water do not change significantly over the range of temperatures where water is used for fire protection, and the effect of turbulence is extremely minor. However, where antifreeze solutions are used in cold spaces, the viscosity and density of the antifreeze can change significantly, and the use of the Hazen-Williams formula alone would seriously underpredict the pressure necessary to push the antifreeze out of the pipe.
+
+Additionally, the provisions of both ﻿﻿﻿﻿﻿﻿﻿﻿NFPA 11﻿﻿﻿﻿﻿﻿﻿﻿, Standard for Low-, Medium-, and High-Expansion Foam, and ﻿﻿﻿﻿﻿﻿﻿NFPA 16﻿﻿﻿﻿﻿﻿﻿, Standard for the Installation of Foam-Water Sprinkler and Foam-Water Spray Systems, require the use of the Darcy-Weisbach formula for the calculation of friction loss in piping carrying foam concentrate. It should be noted that the use of the Darcy-Weisbach formula is suitable only for Newtonian fluids. Some alcohol-resistant foam concentrates are non-Newtonian fluids and require other special consideration.
+
+For small antifreeze systems, the water is expected to be able to push the antifreeze out of the pipe without the need for additional calculations. However, for large antifreeze systems, there is concern that it would be difficult for water to push a large quantity of antifreeze at a low temperature, a low viscosity, and a high density out of a sprinkler. The Technical Committee on Sprinkler System Discharge Criteria chose to require the calculation of the pressure necessary to push the solution out of the sprinklers (friction loss) for systems larger than 40 gal (150 L). While this size system is somewhat arbitrary, the 40 gal (150 L) size has been the traditional dividing line between small and large antifreeze systems.
+
+The Darcy-Weisbach formula looks fairly straightforward. With only five variables, however, it is difficult to find the value for the friction factor, f. The formulas for f can be quite complicated, even with the use of computers, so a diagram—called the Moody diagram and shown in ﻿﻿﻿﻿﻿Figure A.28.2.4.8.2﻿﻿﻿﻿﻿—is used to find the friction factor.
+
+28.2.2.1.1 
+Pipe friction losses shall be determined on the basis of the Hazen–Williams formula, as follows: 
+[
+28.2.2.1.1
+]
+
+code book image: f2a06b7a-5f1a-11eb-a38d-0de52099bdc8
+where:
+p
+=
+frictional resistance (psi/ft of pipe)
+Q
+=
+flow (gpm)
+C
+=
+friction loss coefficient
+d
+=
+actual internal diameter of pipe (in.)
+
+28.2.2.1.2 
+For SI units, the following equation shall be used:
+
+
+[
+28.2.2.1.2
+]
+
+code book image: fe3b0084-5f1a-11eb-a38d-0de52099bdc8
+where:
+pm
+=
+frictional resistance (bar/m of pipe)
+Qm
+=
+flow (L/min)
+C
+=
+friction loss coefficient
+dm
+=
+actual internal diameter (mm)
+28.2.2.1.3 
+
+For antifreeze systems greater than 40 gal (150 L) in size, the friction loss shall also be calculated using the Darcy–Weisbach formula [use Equation 28.2.2.1.3a (US) or Equation 28.2.2.1.3b (SI)]: 
+[
+28.2.2.1.3a
+]
+
+code book image: cb675fb3-5f1a-11eb-a38d-0de52099bdc8
+where:
+ΔP
+=
+friction loss (psi)
+f
+=
+friction loss factor from Moody diagram
+l
+=
+length of pipe or tube (ft)ρ
+=
+density of fluid (lb/ft3)
+Q
+=
+flow in pipe or tube (gpm)
+d
+=
+inside diameter of tube (in.)
+
+[28.2.2.1.3b]
+
+code book image: 953573d2-7796-11eb-be51-77e821582828
+where:
+ΔPm
+=
+friction loss (bar)
+f
+=
+friction loss factor from Moody diagram
+l
+=
+length of pipe or tube (m)ρ
+=
+density of fluid (kg/m3)
+Q
+=
+flow in pipe or tube (L/min)
+d
+=
+inside diameter of tube (mm)
+
+Enhanced Content
+Collapse
+FAQ
+
+Why does NFPA 13 require the use of the Darcy-Weisbach formula?
+
+The Darcy-Weisbach formula is more precise than the Hazen-Williams formula at predicting friction loss, because it takes into account the turbulence of the fluid as well as the effect of different densities and viscosities that occur at various temperatures.
+
+28.2.2.2 Velocity Pressure Formula.
+Velocity pressure shall be determined on the basis of the following formula: 
+[
+28.2.2.2
+]
+
+code book image: cd3ce30f-5f1a-11eb-a38d-0de52099bdc8
+where:
+Pv
+=
+velocity pressure (psi) (SI, 1 psi = 0.0689 bar)
+Q
+=
+flow (gpm) (SI, 1 gal = 3.785 L)
+D
+=
+inside diameter (in.) (SI, 1 in. = 25.4 mm)
+
+Enhanced Content
+Collapse
+The velocity pressure is the amount of energy associated with the velocity of the water in a pipe. The velocity pressure always acts in the direction of waterflow. As a result, velocity pressure will not act to cause discharge of water from an operating sprinkler where the water velocity passes through the piping past the open sprinkler. There are certain circumstances in which hydraulic calculations might be required to account for this phenomenon. For example, ﻿﻿NFPA 15﻿﻿, Standard for Water Spray Fixed Systems for Fire Protection, requires hydraulic calculations in a number of situations. The basic formula for velocity pressure (U.S. units) is as follows:
+
+
+
+where:
+
+Pv = velocity pressure (psi)
+
+V = velocity (ft/sec)
+
+g = 32.2 ft/sec2 (gravitational constant of the earth)
+
+By substituting Q/A for V in the velocity pressure formula and using proper units of conversion, the more usable formula that appears in the text is found. Using this approach, Q is the volumetric flow rate (ft3/sec), and A is the cross-sectional area (ft2) of the pipe.
+
+For SI units, use the following equation:
+
+
+
+where:
+
+Pv = velocity pressure (bar)
+
+V = velocity (m/s)
+
+g = 9.8 m/s
+
+28.2.2.3 Normal Pressure Formula.
+Normal pressure (Pn) shall be determined on the basis of the following formula:
+
+
+[
+28.2.2.3
+]
+
+code book image: f9114903-5f1a-11eb-a38d-0de52099bdc8
+where:
+Pn
+=
+normal pressure
+Pt
+=
+total pressure [psi (bar)]
+Pv
+=
+velocity pressure [psi (bar)]
+Enhanced Content
+Collapse
+The normal pressure acts in all directions and includes the pressure acting against, or perpendicular to, the pipe wall. This pressure acts to cause the flow of water from operated sprinklers attached to the side of the piping. When no flow occurs, the velocity pressure is zero, and the normal pressure is equal to the total pressure. See parts (a) and (b) of Exhibit 28.1, which illustrate normal and velocity pressures when water flows through a pipe. Where all the flow through the piping is directed to discharge from the operating sprinkler, both the velocity pressure and the normal pressure combine to cause flow from the operating sprinkler. This condition is illustrated at the end of a branch line as shown in part (c). Part (d) of the exhibit shows where flow from a gridded branch line from opposing directions combines to discharge from an operating sprinkler.
+
+EXHIBIT 28.1 Normal and Velocity Pressures.
+
+
+
+
+
+CLOSER LOOK
+
+Total Pressure Method versus Velocity Pressure Method
+
+NFPA 13 permits the user to choose between two methods of hydraulic calculations—the total pressure method and the velocity pressure method. The term velocity pressure method is something of a misnomer because this calculation method uses the normal pressure at a sprinkler to calculate the resultant flow from that sprinkler. As such, it might be better called the normal pressure method of calculation. To find the normal pressure, the velocity pressure first must be determined and then subtracted from the total pressure, which yields the normal pressure. Because this calculation method forces the user to find the velocity pressure in order to eliminate its effect on the prediction of flow from an orifice, it has become known as the velocity pressure method of calculation.
+
+Hydraulic calculations of sprinkler systems using the total pressure method (Pt) are the most common. Use of the total pressure method simplifies the calculations and, in most cases, builds an additional safety factor into the hydraulic calculations, because the assumption is that the total pressure is responsible for pushing the water out of the pipe through every operating sprinkler. This assumption is somewhat conservative because only the normal pressure is really responsible for pushing the water out of the pipe at almost all the operating sprinklers. Except for the sprinkler at the end of a branch line with one-way flow or at a point of converging flow on a branch line having flow from both directions, the normal pressure is always less than the total pressure. By using a higher pressure to calculate the operating sprinkler flow, the demand is overestimated, thereby creating a safety factor.
+
+With the velocity pressure method of calculation, the normal pressure is used to calculate the flow from the operating sprinkler, except at the last sprinkler on the end of a branch line or a point of converging flow with no flow past the sprinkler. In those two locations, the total pressure should be used to calculate the discharge, because the velocity pressure and the normal pressure will be acting in the direction of the flowing sprinkler, adding up to the total pressure. With the velocity pressure method of calculation, the user must be careful that all the sprinklers have sufficient flow. It is possible that the reduced normal pressure at an operating sprinkler might not provide sufficient drive to support the minimum flow required for that sprinkler and must be confirmed. Due to the additional safety factors built into the total pressure method of calculation, no additional considerations generally are required with this calculation method for fire sprinkler systems.
+
+﻿﻿NFPA 15﻿﻿ requires the use of the velocity pressure method of hydraulic calculation in many situations because of the possibility of long runs of small-diameter pipe to the end nozzle and because it is common for large flow demands to discharge from the side of a tee in a water spray system. The long runs of small-diameter pipe can cause a disparity between the flow predicted by the total pressure method and the flow predicted by the normal pressure method that is greater than what is acceptable. Because sprinkler systems generally do not have long runs of small-diameter pipe that extend to the end sprinkler and because fire sprinkler systems rarely have large flows coming from the side of a tee, these concerns are not shared by the Technical Committee on Sprinkler System Discharge Criteria. Therefore, the velocity pressure method is not mandated.
+
+See the commentary following ﻿﻿﻿﻿28.2.4.10.1﻿﻿﻿﻿ and ﻿﻿﻿28.2.4.10.2﻿﻿﻿ for more information on the effect of velocity pressure and normal pressure on the discharge from an open sprinkler.
+
+28.2.2.4 Hydraulic Junction Points.
+28.2.2.4.1 
+Pressures at hydraulic junction points shall balance within 0.5 psi (0.03 bar).
+
+Enhanced Content
+Collapse
+Hydraulic calculations for loops and grids must be done using an iterative technique known as the Hardy-Cross method, in which an assumption is made and then a series of calculations is made to test the assumption. If the calculated value is the same as the assumed value, the assumption is correct. Due to the number of significant digits used in the calculations and the method of rounding, getting exactly the same number between the assumed value and the calculated value is not always possible. Therefore, a value needed to be selected to let the user know how close is close enough to continue with the calculations.
+
+The value of 0.5 psi (0.03 bar) was selected because it provides a reasonable degree of accuracy for balancing at hydraulic junction points. Most computer programs can easily obtain this value without an excessive number of iterations. By requiring a reasonable balance at the hydraulic junction points, the designer is assured that an excess system demand is not somehow concealed in the calculations. Many software programs can carry the balance to four significant digits. The use of four significant digits does not necessarily mean that the design is better but, rather, that the computer can perform a faster calculation with more significant digits to the right of the decimal point.
+
+28.2.2.4.2 
+The highest pressure at the junction point, and the total flows as adjusted, shall be carried into the calculations.
+
+28.2.2.4.3 
+Pressure balancing shall be permitted through the use of a K-factor developed for branch lines or portions of systems using the formula in 28.2.2.5.
+
+Enhanced Content
+Collapse
+Pressure balancing is the act of adjusting demand flows when calculations for different portions of the system require different pressures at the same point. Since there can be only one pressure at any point, the highest pressure of all the demands must be provided. Once the higher pressure is provided, greater flows than necessary will go to the other portions of the system. The balancing procedure calculates and accounts for those higher flows.
+
+The K-factor formula shown in ﻿﻿28.2.2.5﻿﻿ is a simplification of the true physics involved. A more accurate K-factor for the portion of the system can be determined without respect to the elevation changes in the system. The allowance for the use of an equivalent K-factor for a connected series of pipe and sprinklers generally is based the fact that both the flow rate from the operating sprinklers and the friction loss through the piping are related to some constant times the square root of the pressure. The flow rate through an open sprinkler at an operating pressure is dictated by the formula
+
+
+
+or Q=KP0.5. The flow rate through a segment of piping is directly related to the amount of friction loss through the piping segment. The friction loss in a segment of piping based on the Hazen-Williams formula is as follows:
+
+
+
+Rearranging this formula to solve for the flow rate Q gives
+
+
+
+where the bracketed portion of the equation is a constant for a particular pipe segment. This reduces the equation to Q =KPpP 0.54. In the reduced equation, raising the pressure, P, to a power function of 0.54 is roughly equal to that of 0.5, a square root, making the use of an approximation for an equivalent K based on
+
+
+
+reasonably close. It should be noted that the inclusion of significant elevation changes in the piping segments for which an equivalent K is being calculated might not be appropriate since the effect of elevation change is based on the linear function Pe = 0.433H, which is not related to the flow rate through the piping segment.
+
+Where branch lines, drops, or sprigs include significant elevation changes and multiple flowing sprinklers and varying elevations, consideration for the use of an alternative means of calculation might be appropriate. However, such a calculation technique can be difficult to perform by hand, so the simplified formula is permitted but should be used with care. Many of the computer programs on the market perform this balancing feature using the more precise method and discounting the elevation changes in establishing a K-factor. Because of the balancing feature, such computer programs produce more accurate results than hand calculations.
+
+28.2.2.5 K-Factor Formula.
+K-factors, flow from an orifice, or pressure from an orifice shall be determined on the basis of the following formula:
+
+
+[
+28.2.2.5
+]
+
+code book image: 0c3b23ec-5f1b-11eb-a38d-0de52099bdc8
+where:
+Kn
+=
+equivalent K at a node
+Q
+=
+flow at the node
+P
+=
+pressure at the node
+28.2.3 Equivalent Pipe Lengths of Valves and Fittings.
+28.2.3.1 Pipe and Fittings.
+28.2.3.1.1 
+Table 28.2.3.1.1 shall be used to determine the equivalent length of pipe for fittings and devices unless manufacturer’s test data indicate that other factors are appropriate.
+
+
+
+
+Table 28.2.3.1.1 Equivalent Schedule 40 Steel Pipe Length Chart
+Fittings and Valves Expressed in Equivalent Feet (Meters) of Pipe
+Fittings and Valves	1⁄ 2 in.	3⁄ 4 in.	1 in.	11⁄4 in.	11⁄2 in.	2 in.	21⁄2 in.	3 in.	31⁄2 in.	4 in.	5 in.	6 in.	8 in.	10 in.	12 in.
+(15 mm)	(20 mm)	(25 mm)	(32 mm)	(40 mm)	(50 mm)	(65 mm)	(80 mm)	(90 mm)	(100 mm)	(125 mm)	(150 mm)	(200 mm)	(250 mm)	(300 mm)
+45°elbow	—	1 (0.3)	1 (0.3)	1 (0.3)	2 (0.6)	2 (0.6)	3 (0.9)	3 (0.9)	3 (0.9)	4 (1.2)	5 (1.5)	7 (2.1)	9 (2.7)	11 (3.3)	13 (4)
+90°standard elbow	1 (0.3)	2 (0.6)	2 (0.6)	3 (0.9)	4 (1.2)	5 (1.5)	6 (1.8)	7 (2.1)	8 (2.4)	10 (3.0)	12 (3.7)	14 (4.3)	18 (5.5)	22 (6.7)	27 (8.2)
+90°long-turn elbow	0.5 (0.2)	1 (0.3)	2 (0.6)	2 (0.6)	2 (0.6)	3 (0.9)	4 (1.2)	5 (1.5)	5 (1.5)	6 (1.8)	8 (2.4)	9 (2.7)	13 (4)	16 (4.9)	18 (5.5)
+Tee or cross (flow turned 90°)	3 (0.9)	4 (1.2)	5 (1.5)	6 (1.8)	8 (2.4)	10 (3.0)	12 (3.7)	15 (4.6)	17 (5.2)	20 (6.1)	25 (7.6)	30 (9.1)	35 (10.7)	50 (15.2)	60 (18.3)
+Butterfly valve	—	—	—	—	—	6 (1.8)	7 (2.1)	10 (3.0)	—	12 (3.7)	9 (2.7)	10 (3.0)	12 (3.7)	19 (5.8)	21 (6.4)
+Gate valve	—	—	—	—	—	1 (0.3)	1 (0.3)	1 (0.3)	1 (0.3)	2 (0.6)	2 (0.6)	3 (0.9)	4 (1.2)	5 (1.5)	6 (1.8)
+Vane type flow switch			6 (1.8)	9 (2.7)	10 (3.0)	14 (4.3)	17 (5.2)	22 (6.7)	—	30 (9.1)	—	16 (4.9)	22 (6.7)	29 (8.8)	36 (11)
+Swing check*	—	—	5 (1.5)	7 (2.1)	9 (2.7)	11 (3.3)	14 (4.3)	16 (4.9)	19 (5.8)	22 (6.7)	27 (8.2)	32 (10)	45 (14)	55 (17)	65 (20)
+Note: Information on 1⁄2 in. (15 mm) pipe is included in this table only because it is allowed under Sections 30.4 and 30.6.
+
+*Due to the variation in design of swing check valves, the pipe equivalents indicated in this table are considered average.
+
+Enhanced Content
+Collapse
+Values for ½ in. (15 mm) and ¾ in. (20 mm) steel pipe appear in Table 28.2.3.1.1 because, when hydraulic and pipe schedule systems are redesigned or modified, Sections ﻿﻿﻿﻿﻿﻿﻿30.4﻿﻿﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿﻿﻿30.5﻿﻿﻿﻿﻿﻿ permit the use, under certain conditions, of pipe nipples up to 4 in. (100 mm) in length with a pipe diameter smaller than 1 in. (25 mm). Additionally, some older systems might include ¾ in. (20 mm) steel piping, as was allowed under some older editions of NFPA 13. Those situations are the only ones in which steel pipe smaller than 1 in. (25 mm) can be used in a sprinkler system.
+
+The fitting and valve losses shown in Table 28.2.3.1.1 are experimentally derived values that, for convenience, have been rounded to a whole number. The exception is the swing check valve, in which several makes of valves were averaged to produce the numbers in the table. Where possible, the designer should use the friction loss value for the specific check valve that is to be installed. This information usually can be obtained from the manufacturer.
+
+Where valves or fittings that are not shown in Table 28.2.3.1.1 are used in the system, the user must account for the friction loss by obtaining the equivalent length from the manufacturer or by obtaining the actual friction loss at the specific flow. The equivalent length/friction loss needs to be included in the calculations.
+
+Extension fittings utilized in accordance with ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿16.8.6﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ that are greater than 2 in. (50 mm) in length are required to be listed for such use and must be included in the hydraulic calculations. See ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿28.2.3.4﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ for additional information. Where extension fittings are used as permitted by ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿16.8.6﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ and are not greater than 2 in. (50 mm) in length, they are not required to be included in the hydraulic calculations. In either case, such extension fittings are permitted only with sprinklers K-8.0 (K-115) or smaller and for protecting light or ordinary hazard occupancies.
+
+Table 28.2.3.1.1 is valid only for Schedule 40 steel pipe with a C factor of 120. For other types of pipe or other C factor values, the equivalent length from Table 28.2.3.1.1 must be modified. For pipes with a C factor other than 120, the modifier can be found in ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Table 28.2.3.2.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿. For pipes with internal diameters other than Schedule 40 steel, the modifiers can be calculated using the formula shown in ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿28.2.3.1.3.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿. For situations in which the pipe size and the C factor are different from those for Schedule 40 steel, both correction factors must be applied.
+
+For example, fittings for 4 in. (100 mm) Schedule 10 steel pipe being used in a dry pipe sprinkler system with a C factor of 100 would have to apply a correction factor of 0.713 (from ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Table 28.2.3.2.1﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿) and another correction factor of 1.32 (calculated from the equation in ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿28.2.3.1.3.1﻿﻿﻿). Multiplying those two correction factors equals the combined factor of 0.94 (1.32 × 0.713 = 0.94). Therefore, to use the equivalent lengths in Table 28.2.3.1.1 for 4 in. (100 mm) Schedule 10 steel pipe in a system with a C factor of 100, the values in the table must be multiplied by 0.94. That would make the equivalent length of a 90-degree standard elbow 9.4 ft (2.87 m) instead of 10 ft (3.0 m).
+
+28.2.3.1.2 
+For saddle-type fittings having friction loss greater than that shown in Table 28.2.3.1.1, the increased friction loss shall be included in hydraulic calculations.
+
+Enhanced Content
+Collapse
+Some specially listed 1 in. (25 mm) saddle-type fittings have a friction loss equivalent to 21 ft (6.4 m) of pipe, as opposed to the 5 ft (1.5 m) shown in Table 28.2.3.1.1. This difference in friction loss is another case in which the listing information for a given product is of utmost importance. Ignoring the increased loss would introduce an appreciable error into the calculations.
+
+28.2.3.1.3 Equivalent Length Modifier.
+28.2.3.1.3.1 
+For internal pipe diameters different from Schedule 40 steel pipe [Schedule 30 for pipe diameters 8 in. (200 mm) and larger], the equivalent length shown in Table 28.2.3.1.1 shall be multiplied by a factor derived from the following formula:
+
+
+[
+28.2.3.1.3.1
+]
+
+code book image: fed3e528-5f1a-11eb-a38d-0de52099bdc8
+Enhanced Content
+Collapse
+To further increase the accuracy of the equivalent pipe length in Table 28.2.3.1.1, the modification formula shown in 28.2.3.1.3.1 is intended to account for the difference in the internal diameter between Schedule 40 pipe and other pipe. The modifier calculated by the formula in 28.2.3.1.3.1 must be applied to the equivalent length of the pipe given in Table 28.2.3.1.1, because the pipe assumed by Table 28.2.3.1.1 has the internal diameter of Schedule 40 steel pipe. The pressure loss within a fitting is primarily associated with the energy required to cause a change in direction or turbulence loss of the flowing water through the fitting and is constant at a given water flow rate. Use of pipes with a different internal diameter will have different friction loss characteristics and will require a different length of pipe to achieve the same friction loss through the fitting.
+
+An example of differing friction loss is the friction loss through a 2 in. (50 mm), 90-degree standard-turn elbow connected to a piece of Schedule 40 steel pipe with a flow of water in the pipe of 100 gpm (379 L/min). The equivalent length of pipe describing that friction loss is then compared to the equivalent length for the same elbow when it is connected to a piece of Schedule 10 steel pipe. When the elbow is connected to the Schedule 40 steel pipe, Table 28.2.3.1.1 indicates that the friction loss has an equivalent length of 5 ft (1.5 m) of Schedule 40 pipe. With a flow of 100 gpm (379 L/min) in the pipe, the friction loss would be 0.5 psi (0.03 bar) through the elbow (using the Hazen-Williams formula). When the elbow is attached to the Schedule 10 steel pipe, the friction loss through the elbow will still be 0.5 psi (0.03 bar), but it will require a different length of pipe to equal a friction loss of 0.5 psi (0.03 bar). The formula in 28.2.3.1.3.1 allows the calculation of a correction factor that will produce the correct length of different pipe. In this example, the internal diameter of 2 in. (50 mm) Schedule 10 pipe is 2.157 in. (54.8 mm), while the internal diameter of 2 in. (50 mm) Schedule 40 pipe is 2.067 in. (52.5 mm). Using those diameters, the correction factor can be calculated as follows:
+
+
+
+The correction factor of 1.23 is then multiplied by the 5 ft (1.5 m) value obtained from Table 28.2.3.1.1 for an equivalent length of 6.15 ft (1.88 m) for a 90-degree standard-turn elbow attached to a 2 in. (50 mm) piece of Schedule 10 pipe.
+
+Commentary Table 28.1 has been developed using the formula in 28.2.3.1.3.1 for common types of pipe used in fire sprinkler systems to help users who might be intimidated by the formula.
+
+
+
+
+
+
+
+FAQ
+
+Why do the equivalent lengths in Table 28.2.3.1.1 need to be adjusted for different schedules of steel pipe when the fittings (or valves) are the same as Schedule 40 and should have the same friction loss?
+
+The loss within a fitting is not really a friction loss but rather the energy loss associated with the change in direction or turbulence associated with flow of water through the fitting. The values in Table 28.2.3.1.1 are the lengths of straight pipe (Schedule 40) that would be needed to represent the specific loss in pressure. Because it is necessary to include that specific pressure loss value in the calculations, the use of a different type of pipe, with a different internal diameter, will require a different amount of pipe to maintain the same calculated pressure loss through the fitting.
+
+28.2.3.1.3.2 
+The factor thus obtained shall be further modified as required by Table 28.2.3.1.1. This table shall apply to other types of pipe listed in Table 28.2.3.1.1 only where modified by factors from 28.2.3.1.1 and 28.2.3.2.
+
+28.2.3.2 C Factors.
+Table 28.2.3.1.1 shall be used with a Hazen–Williams C factor of 120 only.
+
+Enhanced Content
+Collapse
+CLOSER LOOK
+
+The Impact of C Factors
+
+The example that follows illustrates the effect of differing C factors. The base formula for friction loss through a given length of pipe using the Hazen-Williams approach is as follows:
+
+
+
+where:
+
+Pf = friction loss (psi) (bar)
+
+L = length (ft) (m)
+
+Q = flow (gpm) (L/min)
+
+C = friction loss coefficient
+
+d = actual internal diameter of pipe (in.) (mm)
+
+The example illustrates why an adjustment is needed and considers a 2 in. (50 mm), Schedule 40, 10 ft (3.1 m) length of steel pipe with a C factor of 100 when 135 gpm (511 L/min) is flowing through the pipe. The actual internal diameter of the pipe must be used. Table A.16.3.2 provides information in this regard for steel piping. When the C factor is 100, the friction loss is as follows:
+
+
+
+From Table 28.2.3.2.1, the multiplier for pipe having a C value of 100 is 0.713. The correction to the friction loss value is as follows:
+
+
+
+When the C factor is 120, the friction loss is as follows:
+
+
+
+Therefore, the values from Table 28.2.3.1.1 need to be adjusted accordingly when C factors other than 120 are used.
+
+Another example specifically considers the adjustment needed for a fitting. Determine the equivalent length of a 1¼ in. (32 mm) 90-degree elbow used in a system employing Schedule 10 steel pipe on a dry pipe system.
+
+In step 1, determine the internal diameter of Schedule 10 and Schedule 40 steel pipe. From Table A.16.3.2, Schedule 10 is 1.442 in. (36.6 mm) and Schedule 40 is 1.380 in. (35.1 mm).
+
+In step 2, the factor is derived using the following equation (see also ﻿﻿﻿﻿﻿﻿28.2.3.1.3.1﻿﻿﻿﻿﻿﻿):
+
+
+
+In step 3, the equivalent length of a 1¼ in. pipe obtained from Table 28.2.3.1.1 is established for a 1¼ in. (32 mm), Schedule 40, 90-degree elbow and multiplied by the factor determined in step 2, as follows:
+
+
+
+In step 4, a final adjustment is made for the different C factor for a dry pipe system. From Table 28.2.4.8.1, the C value for a dry system using black steel is 100. From Table 28.2.3.2.1, the multiplier for pipe with a C value of 100 is 0.713. Therefore, the equivalent length of a 1¼ in. (32 mm) 90-degree elbow used in a system employing Schedule 10 steel pipe on a dry pipe system is as follows:
+
+
+
+28.2.3.2.1 
+For other values of C, the values in Table 28.2.3.1.1 shall be multiplied by the factors indicated in Table 28.2.3.2.1.
+
+
+
+Table 28.2.3.2.1 C Value Multiplier
+Value of C	100	130	140	150
+Multiplying factor	0.713	1.16	1.33	1.51
+Note: These factors are based upon the friction loss through the fitting being independent of the C factor available to the piping.
+
+Enhanced Content
+Collapse
+C factors are addressed in Table 28.2.3.2.1. The method of hydraulic calculations used for sprinkler systems mathematically represents the friction loss for a valve or fitting as an extra length of pipe. This assumed extra length of pipe is referred to as the fitting’s equivalent length or the valve’s equivalent length. In an effort to make the calculations easier, the equivalent length of pipe is added to the actual length of pipe attached to the fitting. To correctly add the equivalent pipe length to the actual pipe length, the two pipes must be of the same material and of the same internal diameter, and they must have the same C factor.
+
+Table 28.2.3.1.1 contains equivalent lengths for various types of fittings and valves for Schedule 40 pipe with a C factor of 120. Where other types of pipe are used, the length of pipe needed to create the same amount of friction loss will be different. The formula in ﻿﻿﻿﻿﻿﻿28.2.3.1.3.1﻿﻿﻿﻿﻿﻿ is used to adjust for different pipe diameter (other schedules of pipe), and 28.2.3.2.1, including Table 28.2.3.2.1, is used to adjust for differing C factors.
+
+
+
+FAQ
+
+Why are the equivalent lengths multiplied by numbers greater than 1.0 for C factors greater than 120 and less than 1.0 for C factors less than 120 when C factors less than 120 have a worse friction loss?
+
+The loss within a fitting is not really a friction loss but is the energy loss associated with the change in direction or turbulence associated with flow of water through the fitting. The values in Table 28.2.3.1.1 are the lengths of straight pipe (Schedule 40) that would be needed to represent the specific loss in pressure. Pipes with C factors greater than 120 have less friction loss per foot of pipe; therefore, it takes more pipe to get to the same friction loss of a fitting than it does for pipe with a C factor of 120. Likewise, pipes with a C factor less than 120 take less pipe to achieve the same friction loss as does pipe with a C factor of 120.
+
+28.2.3.3 Valves and Components.
+Specific friction loss values or equivalent pipe lengths for alarm valves, dry pipe valves, deluge valves, strainers, backflow prevention devices, and other devices shall be made available to the authority having jurisdiction.
+
+28.2.3.4 Differing Values.
+Specific friction loss values or equivalent pipe lengths for listed fittings not in Table 7.4.1 shall be used in hydraulic calculations where these losses or equivalent pipe lengths are different from those shown in Table 28.2.3.1.1.
+
+Enhanced Content
+Collapse
+Specially listed products that do not conform to the ASTM pipe sizes are addressed in 28.2.3.4. A number of special fittings that are listed for various pipe types are available on the market. These fittings often have friction loss values that differ from the values given in Table 28.2.3.1.1. Although these fittings tend to facilitate the installation of a system, they do come with a pressure penalty that must be accounted for in the hydraulic calculations. As indicated in ﻿﻿﻿﻿﻿﻿28.1.1.1﻿﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿﻿28.1.4﻿﻿﻿﻿﻿, the working plans are required to include manufacturer’s instructions for and information on these specially listed fittings.
+
+Where listed extension fittings [>2 in. (50 mm)] are utilized as permitted under ﻿﻿﻿﻿16.8.6﻿﻿﻿﻿, the equivalent length of the fitting as provided by the manufacturer must be included in the hydraulic calculations.
+
+28.2.4* Calculation Procedure.
+28.2.4.1* 
+For all systems the design area shall be the hydraulically most demanding based on the criteria of Chapter 19, Chapter 20, or the special design approaches in accordance with the requirements of Chapter 27.
+
+Enhanced Content
+Collapse
+This paragraph clarifies that the water supply must be capable of handling the most demanding situation faced by the system. The most demanding situation might not be the most remote from the water supply if situations closer to the water supply are more hazardous or have larger areas protected by individual sprinklers. For example, an office building might be sprinklered as a light hazard occupancy, with sprinklers spaced 14 ft × 14 ft (4.3 m × 4.3 m) in the rooms remote from the water supply and with extended coverage sprinklers covering 20 ft × 20 ft (6.1 m × 6.1 m) closer to the water supply.
+
+The extended coverage sprinklers are closer to the water supply, but they might produce a demand greater than the sprinklers spaced 14 ft × 14 ft (4.3 m × 4.3 m) far from the water supply. Where the most demanding condition is not readily obvious, multiple calculations will need to be performed for verification. Where multiple areas are being calculated, it is possible that one area will have a higher pressure demand and the other area will have a higher flow demand. In those circumstances, it is not
+
+necessary to ensure that the higher flow is available at the higher pressure. Instead, the water supply needs to be verified only as being capable of handling each individual demand situation.
+
+This paragraph also recognizes that the design areas are not always in the shape of a rectangle. For example, in a design involving listed residential sprinklers, the design area of four sprinklers might be a square, depending on the branch line locations and the room configuration.
+
+28.2.4.1.1 Room Design Method.
+Where the design is based on the room design method, the calculation shall be based on the room and communicating space, if any, that is hydraulically the most demanding.
+
+Enhanced Content
+Collapse
+The use of the room design method, which is addressed in 28.2.4.1.1, is popular in highly compartmented occupancies. In effect, this method predicts that the number of sprinklers that will open during a fire is the total of all sprinklers in the room or compartment. If walls and the openings therein from the room to other spaces are not protected as required by ﻿﻿﻿﻿﻿﻿﻿19.2.3﻿﻿﻿﻿﻿﻿﻿ or ﻿﻿﻿﻿﻿﻿20.13﻿﻿﻿﻿﻿﻿, additional sprinklers must be used in those adjoining spaces.
+
+When using the room design method, users must remember that a corridor is also a room. In many compartmented occupancies (e.g., guest room areas of hotels), the corridor is likely the most demanding room. In such a case, Chapter ﻿﻿﻿﻿﻿19﻿﻿﻿﻿﻿ does not require that all the sprinklers in the corridor open during a fire. The probability that so many sprinklers would open in a long narrow corridor served by a single line of sprinklers along the corridor is so remote that the decision has been made to limit the number of sprinklers in the room design method to five for standard coverage sprinklers and all sprinklers within any 75 linear ft (23 linear ft) as provided by ﻿﻿﻿﻿19.2.3.3.6﻿﻿﻿﻿ and ﻿﻿﻿19.2.3.3.7﻿﻿﻿.
+
+An interesting note is that the room design method is the same for both wet pipe and dry pipe systems. No sprinklers are required to be added to the design for dry pipe systems because the assumption is that the walls around the room will contain the fire, even during the delay in getting water to the sprinklers in a dry pipe system.
+
+Note that the room design method overrides the requirement in ﻿﻿28.2.4.2.1﻿﻿ that the design area be rectangular. When the room design method is used, the shape of the most demanding room becomes the shape of the design area.
+
+28.2.4.2 Density/Area Method.
+28.2.4.2.1* 
+Where the design is based on the density/area method, the design area shall be a rectangular area having a dimension parallel to the branch lines at least 1.2 times the square root of the area of sprinkler operation (A) used, which shall permit the inclusion of sprinklers on both sides of the cross main.
+
+28.2.4.2.2 
+Any fractional sprinkler shall be carried to the next higher whole sprinkler.
+
+28.2.4.2.3 
+In systems having branch lines with an insufficient number of sprinklers to fulfill the 1.2 requirement, the design area shall be extended to include sprinklers on adjacent branch lines supplied by the same cross main.
+
+28.2.4.2.4* 
+Where the available floor area for a specific area/density design criteria, including any extension of area as required by 19.1.2 and Section 20.13, is less than the required minimum design area, the design area shall be permitted to only include those sprinklers within the available design area.
+
+28.2.4.2.5* 
+Where the total design discharge from the operating sprinklers is less than the minimum required discharge determined by multiplying the required design density times the required minimum design area, an additional flow shall be added at the point of common connection closest to the source to increase the overall demand, not including hose stream allowance, to the minimum required discharge.
+
+
+28.2.4.2.6* 
+Where a sprinkler’s assigned area of discharge is defined by the presence of a full-height wall assembly, the area on the opposite side of the wall of the flowing sprinkler shall not be counted towards the total design area.
+
+28.2.4.3 CMSA Sprinkler Method.
+Enhanced Content
+Collapse
+Control mode specific application (CMSA) sprinklers do not follow the density/area method of calculation, and the discharge criteria in the storage chapters do not specify how many sprinklers to include on the branch line [as they do for early suppression fast-response (ESFR) sprinklers, where the criteria mandate four sprinklers on three branch lines]. Therefore, the user must know how many sprinklers to calculate on the branch lines in the design area.
+
+To obtain the number of sprinklers to be calculated, ﻿﻿﻿﻿﻿28.2.4.3.1﻿﻿﻿﻿﻿ instructs the user to calculate the area covered by the number of the design sprinklers spaced at the maximum allowable area per sprinkler and then to multiply the square root of that calculated design area by 1.2. For example, if the tables in Chapter ﻿﻿﻿﻿20﻿﻿﻿﻿ through Chapter ﻿﻿﻿26﻿﻿﻿ require 15 sprinklers to be located in the design area, and the maximum allowable spacing per sprinkler is 100 ft² (9.3 m²) [with 10 ft (3.0 m) between sprinklers on a branch line], 15 sprinklers would cover 1500 ft² (139 m²). Using the rule for 1.2 times the square root of the design area, the dimension parallel to the branch line is 46.5 ft (14.5 m). Therefore, five sprinklers would be calculated on the most remote branch line, five sprinklers would be calculated on the second most remote branch line, and five sprinklers would be calculated on the third most remote branch line, for a total design area of 15 sprinklers. This calculation incorporates the requirement of ﻿﻿28.2.4.2.2﻿﻿ to round a fractional sprinkler to the next highest sprinkler.
+
+28.2.4.3.1 
+For CMSA sprinklers, the design area shall be a rectangular area having a dimension parallel to the branch lines at least 1.2 times the square root of the area protected by the number of sprinklers to be included in the design area. The design area protected by the number of sprinklers to be used by the 1.2 rule shall be based on the maximum allowable area per sprinkler.
+
+28.2.4.3.2 
+Any fractional sprinkler shall be carried to the next higher whole sprinkler.
+
+28.2.4.3.3 
+In systems having branch lines with an insufficient number of sprinklers to fulfill the 1.2 requirement, the design area shall be extended to include sprinklers on adjacent branch lines supplied by the same cross main.
+
+28.2.4.4 ESFR Sprinkler Method.
+For ESFR sprinklers, the design area shall consist of the most hydraulically demanding area of 12 sprinklers, consisting of 4 sprinklers on each of three branch lines, unless other specific numbers of design sprinklers are required in other sections of this standard.
+
+Enhanced Content
+Collapse
+The requirement that the design area for ESFR sprinklers to include four sprinklers on three branch lines is correct for most applications of ESFR sprinklers. For some applications, such as certain tire arrays protected in accordance with ﻿﻿Table 23.5﻿﻿, additional ESFR sprinklers must be calculated to achieve the 20 sprinkler design application. For this application, the design area must include five sprinklers on each of four branch lines as provided by footnote c to ﻿Table 23.5﻿﻿.
+
+28.2.4.5* Gridded Systems.
+28.2.4.5.1 
+For gridded systems, the designer shall verify that the hydraulically most demanding area is being used.
+
+Enhanced Content
+Collapse
+Gridded sprinkler systems are covered in 28.2.4.5. In the 1975 edition of NFPA 13, the shape of the design area for a gridded system was a square located along the far cross main (not the supply cross main). However, that configuration did not necessarily represent the hydraulically most demanding area. Because of the complexity of the flow in a gridded system and the bidirectional flows that often occur within the same branch line, the hydraulically most demanding area is not readily obvious.
+
+To determine the appropriate design area, ﻿﻿28.2.4.5.2﻿﻿ requires that an initial design area be selected and one additional area be considered on each side of the initially selected area. This approach results in three separate design areas that overlap each other, as illustrated in Figure A.28.2.4.5. Design area A 2 represents the initially chosen design area. Hydraulic calculations for each of the three design areas are required to determine the most demanding area. If the initially chosen area (A 2) is determined not to be the most demanding, then an additional area adjacent to the area with the highest demand of the three (either A 1 or A 3) needs to be calculated to verify that this additional area is not more demanding. This technique is typically referred to as “peaking the system.” This peaking calculation is a common feature of hydraulic computer programs that is often completed automatically to verify a single calculated area.
+
+Hydraulic calculations for a gridded system verify the hydraulically most demanding area and determine the system demand. These calculations are tedious and extremely time-consuming if performed by hand. Performing the calculations with a hydraulics computer program is the most economical method and is the standard for the industry.
+
+28.2.4.5.2 
+A minimum of two additional sets of calculations shall be submitted to demonstrate peaking of demand area friction loss when compared to areas immediately adjacent on either side along the same branch lines, unless the requirements of 28.2.4.5.3 are met.
+
+28.2.4.5.3 
+Computer programs that show the peaking of the demand area friction loss shall be acceptable based on a single set of calculations.
+
+28.2.4.6 Design Densities.
+28.2.4.6.1* 
+System piping shall be hydraulically designed using design densities and areas of operation in accordance with 19.2.3.2 or Chapter 20 as required for the occupancies or hazards involved.
+
+Enhanced Content
+Collapse
+The reference to Chapter ﻿﻿﻿﻿20﻿﻿﻿﻿ in 28.2.4.6.1 is intended to encompass all the storage discharge requirements in Chapter ﻿﻿﻿21﻿﻿﻿ through Chapter ﻿﻿26﻿﻿.
+
+28.2.4.6.2* 
+The density shall be calculated on the basis of floor area of sprinkler operation. Where sprinklers are installed under a sloped ceiling, the area used for this calculation shall be the horizontal plane below the sprinklers.
+
+Enhanced Content
+Collapse
+For evaluation of remote area requirements for sprinkler systems installed under sloping roofs or ceilings, the actual horizontal floor area calculated must be equal to or greater than the required remote design area.
+
+The area of coverage per sprinkler for determination of the spacing for density application purposes is based on the horizontal area of coverage of the sprinkler, as determined by the S × L rules of 9.5.2—that is, horizontally along branch lines and between branch lines. Consider a sprinkler system where the branch lines are 12 ft (3.7 m) apart and the sprinklers are 10 ft (3.0 m) apart on the branch lines [120 ft2 (11.1 m2) spacing per sprinkler]. If the sprinkler system is installed so that the distance between the sprinklers and the walls is only 2 ft (0.6 m), the sprinkler in the corner would still be considered as covering 120 ft2 (11.1 m2) for the purpose of applying the density to the sprinkler to determine the required flow from the sprinkler. Therefore, if the required density in this case is 0.2 gpm/ft2 (8.1 mm/min), the sprinkler would need to flow 24 gpm (91 L/min) [0.2 gpm/ft2 × 120 ft2 (8.1 mm/min × 11.1 m2)], and not a lesser flow, because of the walls.
+
+Where a small room, as defined in ﻿﻿﻿﻿﻿﻿﻿3.3.206﻿﻿﻿﻿﻿﻿﻿, is considered, the area of sprinkler coverage is calculated as the area of the room divided by the number of sprinklers in that room. See ﻿﻿﻿﻿﻿﻿10.2.4.1.2﻿﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿10.2.5.2.3﻿﻿﻿﻿ for additional information regarding small rooms.
+
+The piping layout of many systems is not always as uniform as described in the preceding example. Due to building features, sprinkler placement and piping layouts can take on a more varied arrangement. This arrangement can result in differing areas of coverage for sprinklers in the design area and requires evaluation of several portions of a system to determine the hydraulically most demanding area and the proper system demand. Once the area of coverage per sprinkler and the appropriate dimensions for S and L are determined, other sprinklers are not required to be uniformly spaced in this arrangement. However, any other sprinkler layout that results in a greater hydraulic demand should be calculated separately to verify that the layout will work.
+
+28.2.4.6.3 
+The area covered by any sprinkler used in hydraulic design and calculations shall be the horizontal distances measured between the sprinklers on the branch line and between the branch lines in accordance with 9.5.2.
+
+28.2.4.6.4 
+Where sprinklers are installed above and below a ceiling or in a case where more than two areas are supplied from a common set of branch lines, the branch lines and supplies shall be calculated to supply the largest water demand.
+
+28.2.4.6.5* 
+For sloped ceiling applications, the area of sprinkler application for density calculations shall be based upon the projected horizontal area.
+
+Enhanced Content
+Collapse
+FAQ
+
+To determine the remote area for a sprinkler system installed under sloping roofs or ceilings, is the remote area measured along the slope or on the floor?
+
+As addressed earlier, the density is based on the floor area, which holds true even under sloped ceiling conditions. In such a case, the density is applied to the area projected on the floor, not the area on the slope that was calculated in accordance with Chapter 9. The area on the floor will be somewhat smaller than the area along the slope, which will result in a somewhat smaller flow demand from the sprinkler. However, the smaller flow demand will be compensated for by the fact that the total design area will also be calculated on the floor, which will include a total of more sprinklers than if the area were calculated along the slope.
+
+28.2.4.7* Design Area Sprinklers.
+28.2.4.7.1 
+Each sprinkler in the design area and the remainder of the hydraulically designed system shall discharge at a flow rate at least equal to the stipulated minimum water application rate (density) multiplied by the area of sprinkler operation.
+
+28.2.4.7.1.1 
+Where sprinklers are required to discharge a specific flow or pressure rather than a density, each sprinkler in the design area shall discharge at a flow or pressure at least equal to the minimum required.
+
+28.2.4.7.2* 
+Where the design area is equal to or greater than the area in Table 28.2.4.7.2 for the hazard being protected by the sprinkler system, the discharge for sprinklers protecting small compartments 55 ft2 (5.1 m2) or less, such as closets, washrooms, and similar compartments that are in the design area, shall be permitted to be omitted from the hydraulic calculations.
+
+
+
+Table 28.2.4.7.2 Minimum Design Area
+Occupancy Hazard Classification	Minimum Design Area to Omit Discharge from Sprinklers in Small Compartments in Design Area
+[ft2 (m2)]
+Light hazard–wet pipe system	1500 (140)
+Light hazard–dry pipe system	1950 (180)
+Ordinary hazard–wet pipe system	1500 (140)
+Ordinary hazard–dry pipe system	1950 (180)
+Extra hazard–wet pipe system	2500 (130)
+Extra hazard–dry pipe system	3250 (300)
+Enhanced Content
+Collapse
+The intent of 28.2.4.7.2 is to permit sprinklers in a small compartment, 55 ft2 (5.1 m2) or less, to be considered not open (closed) during a fire in the area around the compartment. To use this rule, the area of operation for calculations must be at least 1500 ft2 (140 m2) for wet pipe systems in light and ordinary hazard occupancies and at least 2500 ft2 (230 m2) for wet pipe systems in extra hazard occupancies. For dry pipe systems, the area of operation for calculations must be at least 1950 ft2 (180 m2) for light and ordinary hazard occupancies and at least 3250 ft2 (300 m2) for extra hazard occupancies. While the sprinklers are allowed to be omitted from the hydraulic calculations, the floor space for these small spaces are included as part of the overall design area in determination of the indicated minimum design areas specified in Table 28.2.4.7.2.
+
+If quick-response sprinklers are used in a wet pipe system in a light or ordinary hazard occupancy, and the design area is decreased below 1500 ft2 (140 m2), the sprinklers in the small compartments are not permitted to be considered closed. In other words, this rule is not permitted to be applied because the design/density area falls below the minimum required in ﻿﻿﻿﻿﻿Table 19.2.3.1.1﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿﻿﻿Figure 19.2.3.1.1﻿﻿﻿﻿﻿﻿.
+
+In a case in which the room design method would be advantageous, the area of operation would be below the minimum area specified in ﻿﻿﻿﻿Table 19.2.3.1.1﻿﻿﻿﻿﻿. Since the area is less than the minimum, this rule normally would not be applied when the room design option is used.
+
+To use the rule in 28.2.4.7.2, the compartments must be 55 ft2 (5.1 m2) or less in size and meet the definition of a compartment as provided by ﻿﻿﻿﻿3.3.40﻿﻿﻿﻿. These small spaces generally are of such a size that only one sprinkler is required to protect them. The sprinkler protection in the small compartment still must be verified as being capable of producing the appropriate discharge density, as specified in ﻿﻿﻿﻿Table 19.2.3.1.1﻿﻿﻿﻿﻿﻿. The intent of this provision is to prevent installations that would not be capable of delivering the minimum design density to sprinklers located in these small spaces.
+
+It is compelling to note the types of areas described in 28.2.4.7.2. Small compartments are intended not only to be physically small but also to contain a relatively small fuel load. For example, a small office can meet the size limitations indicated; however, this rule is not intended to apply to small offices. The intent is to allow omission of sprinklers from the hydraulic calculations for small compartments that are ancillary to the primary occupancy of the building or space. The intent of the rule is not to eliminate the rooms that constitute the primary occupancy of a building or space from the calculations. If sprinklers in these spaces are not included in the calculations, the proper water demand will not be determined and can cause unfavorable sprinkler system performance.
+
+The provisions of 28.2.4.7.2 do not provide a specific limit as to the total number of small compartments that can be eliminated from the hydraulic calculations within any single design area calculation. Good judgement should be applied to ensure that the resultant calculation covers an appropriate operating design area with sufficient overall discharge to address the protected hazard at hand.
+
+In compartmented areas, such as the small spaces described, the simultaneous operation of all the sprinklers in the design area is unlikely. On the other hand, sprinklers installed in closely associated spaces having limited closure protection of the openings between such spaces could be expected to operate all the sprinklers in response to a fire. Due consideration should be given to the likelihood of such an occurrence.
+
+One of the primary advantages of omitting sprinklers from these small compartments is not only the elimination of the required discharge density over the floor area of the space but also the elimination of the overdischarge commonly associated with such small spaces. The higher pressure required to operate sprinklers with larger spacing located outside the small compartment can result in a significant overdischarge within the small compartment. Even where the omission of sprinklers from the hydraulic calculations is not permitted, due to either the size of the compartment or the use of a lesser overall design area than is required, alternative means of managing the overdischarge might be permitted. For some specific uses, such as exposure protection, small enclosures, smaller portions of a room, or directional discharge, the use of a different K-factor is permitted for purposes of managing the overdischarge from operating sprinklers. See ﻿﻿﻿28.2.4.9.2﻿﻿﻿, the commentary following 28.2.4.9.2, and ﻿﻿28.2.4.9.3﻿﻿.
+
+28.2.4.7.2.1 
+The sprinklers in these small compartments shall be capable of discharging the minimum density appropriate for the hazard they protect in accordance with Figure 19.2.3.1.1.
+
+28.2.4.7.2.2 
+The requirements of 28.2.4.7.2 shall only apply where the area of application is equal to or greater than the area shown in Table 28.2.4.7.2 for the appropriate hazard clas⁠sification (including a 30 percent increase for dry pipe systems).
+
+
+28.2.4.7.3* 
+The requirements of 28.2.4.7.1 and 28.2.4.7.1.1 to include every sprinkler in the design area shall not apply where sprinklers are provided above and below obstructions.
+
+28.2.4.7.3.1 
+Sprinklers under the obstruction shall not be required to be included in the hydraulic calculation of the ceiling sprinklers.
+
+Enhanced Content
+Collapse
+The basic idea behind hydraulic calculations, including reasonable safety factors, is to account for all the sprinklers that might open in case of a fire. Where sprinklers are installed both above and below obstructions, all sprinklers above and below the obstructions are unlikely to open. Rather than force the user to calculate both sets of sprinklers simultaneously, the user is directed to prove the most demanding situation with calculations. In most cases, ceiling sprinklers will represent the greatest demand, unless significant numbers of sprinklers are installed under obstructions with long runs of relatively small-diameter pipe.
+
+The presence of a permanent or temporary obstruction, such as an overhead garage door, is treated in a manner similar to that for a ceiling configuration that requires sprinklers to be located above and below the ceiling.
+
+28.2.4.7.3.2 
+Where the piping to sprinklers under obstructions follows the same sizing pattern as the branch lines, no additional hydraulic calculations shall be required for sprinklers under obstructions.
+
+Enhanced Content
+Collapse
+The requirement in 28.2.4.7.3.2 clarifies that as long as the pipe sizing under the obstruction is the same as the branch lines, the sprinklers under the obstruction generally will not be more demanding because of the increased elevation head gained dropping down under the obstruction. Care still should be taken, however, where long runs of pipe are utilized to provide protection under an obstruction, where multiple sprinklers are fed off a single drop, and where the drop is a dead-end feed off a gridded overhead system.
+
+28.2.4.7.4 
+Water demand of sprinklers installed in concealed spaces shall not be required to be added to the ceiling demand.
+
+28.2.4.7.5 
+Calculations shall begin at the hydraulically most remote sprinkler.
+
+28.2.4.7.6 
+The calculated pressure at each sprinkler shall be used to determine the discharge flow rate for that particular sprinkler.
+
+28.2.4.7.7 
+Where sprinklers are installed under a sloped ceiling, the area shall be calculated on a horizontal plane below the sprinklers.
+
+Enhanced Content
+Collapse
+At first glance, 28.2.4.7.7 might seem redundant with ﻿﻿﻿﻿﻿28.2.4.6.5﻿﻿﻿﻿﻿. However, 28.2.4.6.5 addresses the area covered by a single sprinkler that will be multiplied by the density to achieve the minimum flow required from the sprinkler, whereas 28.2.4.7.7 is intended to cover the entire operating area (or design area).
+
+The intent of NFPA 13 is to require the operating area to be measured along the floor, not along the slope, even though the area along the slope was used for spacing the sprinklers. This requirement results in more sprinklers in the design area than if the area were measured along the slope. While fire tests in sloped occupancies are not as extensive as in flat situations, sufficient fire experience has demonstrated that this situation is a problem, and a conservative approach has been taken to determine the number of sprinklers in the operating area.
+
+28.2.4.8 Friction Loss.
+Enhanced Content
+Collapse
+With regard to 28.2.4.8, water flowing through a pipe, a fitting, or any other attachment, such as a valve or a strainer, results in a pressure loss due to friction and turbulent flow.
+
+The evaluation of the waterflow from the supply to the last branch line in the system is illustrated in Exhibit 28.3. Tee A is included with the 1½ in. (40 mm) starting piece. Tee B is included with the 2 in. (50 mm) riser nipple. Tees C and D are not included because the flow travels straight through those tees. Tee E is included with the 3 in. (80 mm) piece of cross main.
+
+
+
+EXHIBIT 28.3 Typical Sprinkler System Used in Making Sample Calculations.
+
+
+
+
+
+
+28.2.4.8.1 
+Pipe friction loss shall be calculated in accordance with the Hazen–Williams formula with C values from Table 28.2.4.8.1, as follows:
+(1)
+Pipe, fittings, and devices such as valves, meters, flow switches in pipes 2 in. (50 mm) or less in size, and strainers shall be included, and elevation changes that affect the sprinkler discharge shall be calculated.
+
+(2)
+Tie-in drain piping shall not be included in the hydraulic calculations.
+
+(3)
+Losses for a tee or a cross shall be calculated where flow direction change occurs based on the equivalent pipe length of the piping segment in which the fitting is included.
+
+(4)
+The tee at the top of a riser nipple shall be included in the branch line, the tee at the base of a riser nipple shall be included in the riser nipple, and the tee or cross at a cross main–feed main junction shall be included in the cross main.
+
+(5)
+Losses for straight-through flow in a tee or cross shall not be included.
+
+(6)
+The loss of reducing elbows based on the equivalent length value of the smallest outlet shall be calculated.
+
+(7)
+The equivalent length value for the standard elbow on any abrupt 90-degree turn, such as the screw-type pattern, shall be used.
+
+(8)
+The equivalent length value for a fitting with a bushing shall be the same as for a similarly sized and configured reducing fitting.
+
+(9)
+The equivalent length value for the long-turn elbow on any sweeping 90-degree turn, such as a flanged, welded, or mechanical joint-elbow type, shall be used. (See Table 28.2.3.1.1.)
+
+(10)
+Losses shall be permitted to be excluded for tapered reducers.
+
+(11)
+Losses shall be permitted to be excluded for a fitting with or without a bushing, directly connected to a sprinkler, except as required in 28.2.3.1.2 and 28.2.3.4.
+
+(12)
+Losses through a pressure-reducing valve shall be included based on the normal inlet pressure condition, and pressure loss data from the manufacturer's literature shall be used.
+
+(13)
+In new systems, an increased C value of 120 shall be permitted where nitrogen is provided in accordance with 8.2.6.9.
+
+
+
+
+Table 28.2.4.8.1 Hazen–Williams C Values
+Pipe or Tube	C Value*
+Unlined cast or ductile iron	100
+Black steel (dry systems including preaction)	100
+Black steel (wet systems including deluge)	120
+Black steel (dry system including preaction) using nitrogen†	120
+Galvanized steel (dry systems including preaction)	100
+Galvanized steel (wet systems including deluge)	120
+Galvanized steel (dry systems including preaction) using nitrogen†	120
+Plastic all (listed)	150
+Cement-lined cast- or ductile iron	140
+Copper tube, brass or stainless steel	150
+Asbestos cement	140
+Concrete	140
+*The authority having jurisdiction is permitted to allow other C values.
+
+†Nitrogen supply shall be installed in accordance with 8.2.6.9.
+
+Enhanced Content
+Collapse
+NFPA 13 requires the use of the Hazen-Williams formula to determine friction losses (pressure losses between pipe segments) in water-filled piping (see 28.2.2.1.1 for the formula). One variable in this formula is represented by C. This variable, often referred to as the C value, is a coefficient that reflects the roughness of the internal surface of the piping material. The lower the C value, the rougher the inner surface of the pipe material.
+
+C values for steel and iron pipe materials tend to decrease with time, due to the buildup of scale and the effects of corrosion. The values shown in Table 28.2.4.8.1 include C values for aged pipe. If pipe could remain in its original condition after installation, the C factors would be somewhat higher than those shown in Commentary Table 28.2. A comparison between new pipe C factors and the design C factors required by NFPA 13 is shown in Commentary Table 28.2. For ferrous and cement-lined products, an adjustment is applied to compensate for the aging of the pipe.
+
+
+
+Factors that can affect the C value for a particular piece of pipe include the pipe’s manufacturing process, the rate of pipe corrosion, and the buildup of scale and other materials that decrease the inside diameter of the pipe. The synergistic effect of these contributing factors is accounted for by reducing the pipe’s C value.
+
+Pipe manufacturing techniques do not usually produce a perfectly round piece of pipe, and some inherent imperfections exist. However, the imperfections are usually subtle and cannot be detected without precise measurements being taken.
+
+Corrosion of ferrous materials is difficult to prevent in sprinkler systems. Degradation of pipe caused by corrosion can actually cause a slight increase in the internal diameter of the pipe. However, the effects of corrosion should not be considered as having a positive effect on system performance. Corrosion causes the internal surface of the pipe to become much rougher, thus increasing the associated pressure loss due to friction.
+
+Tuberculation of pipe is a function of the naturally occurring elements and chemicals added to the water supply by the water purveyor. The waterborne chemicals can fall out over time and cause buildups on the internal portions of the pipe network. The result is a rougher internal pipe surface and a smaller internal diameter.
+
+If the Darcy-Weisbach method of calculations is to be used as an alternative to Hazen-Williams to calculate an antifreeze system or to comply with ﻿﻿﻿﻿﻿﻿NFPA 11﻿﻿﻿﻿﻿﻿ or ﻿﻿﻿﻿﻿﻿﻿NFPA 16﻿﻿﻿﻿﻿﻿﻿, standardized values for degradation of the pipe’s interior condition will need to utilize the appropriate ɛ-factors provided in Table A.28.2.4.8.2.
+
+Table 28.2.4.8.1 includes the types of materials commonly used in the design and installation of sprinkler systems. If the water quality is poor and the pipe deteriorates faster than would be expected in most water supplies, further adjustments to the C value should be made. Commentary Table 28.2 identifies the adjustments (safety factors) used for a particular type of pipe material. Because plastic and copper piping materials do not experience the same effects as ferrous pipe, their C values are not adjusted.
+
+With regard to 28.4.8.1(11), on branch lines with upright or pendent sprinklers screwed into the line tee, the friction losses associated with the line tee are permitted to be excluded from the calculations. This is based on the assumption that one fitting would be included in the approval tests of a sprinkler with the presence of that fitting being accounted for as part of the sprinkler’s K-factor. This assumption might not be universally correct, particularly with larger orifice sprinklers operating at higher pressure; however, the allowance for omission is still permitted.
+
+Where sprinklers are installed on sprigs or drops, the reducing coupling at the sprinkler is permitted to be ignored, but the tee on the branch line must be included. In this situation, an equivalent K-factor for the entire assembly, which includes the tee fitting, the sprig or drop, and the sprinkler, could be determined as allowed by ﻿﻿﻿﻿﻿28.2.2.4.3﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿28.2.2.5﻿﻿﻿﻿. See the commentary following 28.2.2.4.3 for additional discussion. The equivalent K-factor allows individual calculations to be simplified for each junction between the branch line and the sprig.
+
+With regard to 28.2.4.8.1(12), pressure-reducing devices are installed where system pressures are in excess of the system component’s pressure rating. Some components are limited to a maximum working pressure of 175 psi (12 bar). These devices act to intentionally reduce the available pressure, so that system components will not be damaged by high pressures. The manufacturer’s instructions must be closely followed to establish the correct outlet pressure and flow parameters.
+
+Item (13) is new to the 2022 edition and provides a beneficial allowance of utilizing a C value of 120 where nitrogen is used in new dry or preaction systems. This allowance recognizes the benefits of corrosion inhibition where it is used. Caution must be taken however if an owner were to decide to stop using nitrogen and switch to air, in which case the system should be reevaluated with a C factor of 100.
+
+28.2.4.8.2* 
+For antifreeze systems greater than 40 gal (150 L) in size, the pipe friction loss shall be calculated using the Darcy-Weisbach equation shown in 28.2.2.1.3 using a Moody diagram and ℇ-factors that are representative of aged pipe otherwise following the methodology presented in 28.2.4.8.1.
+
+28.2.4.9 Orifice Plates.
+28.2.4.9.1 
+Orifice plates shall not be used for balancing the system.
+
+Enhanced Content
+Collapse
+FAQ
+
+Why are orifice plates prohibited by 28.2.4.9.1?
+
+Orifice plates are prohibited because they can be removed during modification of a system and not be reinstalled. Such removal would invalidate the hydraulic calculations supporting the initial system design. Also, if installed in a horizontal run of pipe, orifice plates are subject to the accumulation of debris on the surface facing the direction of waterflow. Such accumulation would further affect the hydraulics as well as impede proper system drainage.
+
+28.2.4.9.2 
+Unless the requirements of 28.2.4.9.3 or 28.2.4.9.4 are met, mixing of sprinklers of different K-factors by reducing the K-factor of adjacent sprinklers on the same branch line leading back to the main for the purpose of minimizing sprinkler over discharge shall not be permitted.
+
+Enhanced Content
+Collapse
+In general, the use of sprinklers with differing K-factors is discouraged. The main reason is that if a sprinkler needs to be replaced in the future, a sprinkler of the wrong K-factor could be put in place if multiple K-factor sprinklers are in the same system or compartment. In the past, the use of different sized threads on the sprinkler frame for different K-factor sprinklers were used to minimize that concern; however, with the current array of available K-factor sprinklers being available with the same sized thread, this is no longer the case. A specific identification of the sprinkler orifice size would need to be determined from the sprinkler identification number (SIN) or the model number for the sprinkler. NFPA 13 does permit the use of different K-factor sprinklers in the following situations:
+
+Exposure protection systems. Different K-factor sprinklers can be used to help distribute water evenly over the surface being protected.
+Small enclosures or smaller portions of a room. Smaller K-factor sprinklers can be used in small enclosures to minimize the flow from the sprinklers. In closets, bathrooms, and other small spaces, a larger K-factor sprinkler would discharge more water than necessary to achieve the density needed to cover the small floor area. It must be kept in mind, however, that sprinklers with a K-factor less than K-5.6 (K-80) can be used only in a light hazard occupancy.
+Directional discharge. In some cases, a designer might want to achieve a specific outcome by throwing water in a particular direction. A sprinkler with a different K-factor can achieve that effect.
+Extended coverage sprinklers. Extended coverage sprinklers and standard spray sprinklers can be mixed in a system to protect the entire floor area economically. Different extended coverage sprinklers can also be used on the same system to economically cover the space.
+Residential sprinklers. As with extended coverage sprinklers, it is sometimes necessary to mix different K-factor residential sprinklers to economically cover the space.
+The committee sees no reason to prohibit the kinds of installation discussed in ﻿﻿﻿﻿﻿28.2.4.9.3﻿﻿﻿﻿﻿ and ﻿﻿﻿﻿28.2.4.9.4﻿﻿﻿﻿ as long as the sprinklers are installed in accordance with their listing and the water supply can deliver the required flow and pressure to the sprinklers. An example of the application of 28.2.4.9.3 is illustrated in Exhibit 28.4.
+
+EXHIBIT 28.4 Sprinkler Layout Using Multiple K-Factor Approach.
+
+
+
+The center portions of the room can be protected with extended coverage sprinklers that have a nominal K-factor of K-8.0 (K-115). However, the space under the 3 ft (0.9 m) wide soffit also needs to be protected. Because the areas under the soffits are so small, 28.2.4.9.3 permits the use of a sprinkler with a different K-factor.
+
+28.2.4.9.3* 
+Sprinklers with different K-factors shall be acceptable for specific uses, such as exposure protection, small enclosures, smaller portions of a room, or directional discharge, where an adjacent sprinkler does not need to discharge as much water.
+
+28.2.4.9.4 
+Extended-coverage and residential sprinklers with a different K-factor shall be acceptable for part of the protection area where installed in accordance with their listing.
+
+28.2.4.10* Pressures.
+28.2.4.10.1 
+When calculating flow from an orifice, the total pressure (Pt) shall be used, unless the calculation method of 28.2.4.10.2 is utilized.
+
+Enhanced Content
+Collapse
+The total pressure, which is addressed in 28.2.4.10.1 and ﻿﻿28.2.4.10.2﻿﻿, acts on the end outlet at the point where the flow enters the sprinkler outlet at the end of a single direction feed branch line or where it enters the sprinkler outlet from opposing directions or a gridded branch line. Velocity pressure is usually small compared to the total pressure and normally does not have a major effect on the overall outcome of the hydraulic calculation.
+
+The decision whether to use the normal pressure or the total pressure to predict the flow from the sprinkler is completely at the discretion of the person performing the hydraulic calculations. Use of the total pressure typically adds a safety factor between 5 percent and 10 percent for flow and pressure demand at the water supply.
+
+28.2.4.10.2 
+Use of the normal pressure (Pn) calculated by subtracting the velocity pressure from the total pressure shall be permitted. Where the normal pressure is used, it shall be used on all branch lines and cross mains where applicable.
+
+Enhanced Content
+Collapse
+When velocity pressure is applied to the calculations, the discharge from the second sprinkler from the end of the branch line is sometimes less than the discharge from the end sprinkler. To correct this deficiency, either the pipe sizing should be changed or the end sprinkler discharge should be slightly increased.
+
+Paragraph 28.2.4.7.6 requires that the discharge from each sprinkler in the design area be calculated based on the pressure acting at that sprinkler. The intent of that requirement is to prevent the calculation of the discharge from each sprinkler in the design area based on the discharge from the most remote sprinkler by manipulating the density/area requirements. For instance, if the hydraulically most demanding sprinkler produces a flow of 20.8 gpm (79 L/min) based on its area of coverage and design density, it is not correct to assume that the remaining sprinklers in the design area will also flow at 20.8 gpm (79 L/min). When water flows through a piping network, pressure changes result throughout the system due to friction, turbulence, and elevation changes. Therefore, the pressures acting at each sprinkler in the design area can vary, resulting in different amounts of flow at each sprinkler. Those pressure changes must be accounted for, thereby increasing the complexity of the hydraulic calculations.
+
+28.2.4.10.3 
+Flow from a sprinkler shall be calculated using the nominal K-factor except that the manufacturer's adjusted K-factors shall be utilized for dry-type sprinklers.
+
+28.2.4.11 Minimum Operating Pressure.
+28.2.4.11.1 
+Minimum operating pressure of any sprinkler shall be 7 psi (0.5 bar).
+
+Enhanced Content
+Collapse
+When sprinklers are submitted to testing laboratories for examination and listing, they are subjected to water distribution and fire tests. These tests traditionally were conducted at a minimum flow of 15 gpm (57 L/min) for a K-5.6 (K-80) sprinkler. The pressure required to produce that flow through the sprinkler is approximately 7 psi (0.5 bar), as illustrated in the equation that follows. The requirement recognizes that specially listed sprinklers might have minimum operating pressures greater than 7 psi (0.5 bar). In some cases, the minimum operating pressure can be as high as 75 psi (5.17 bar).
+
+
+
+In previous years, some sprinklers were listed with operating pressures less than 7 psi (0.5 bar). NFPA 13 no longer permits such pressures. The concern was that, at lower pressures, sprinklers that had been installed for an extended period of time would not operate properly. The minimal force created by the low pressure might not be sufficient to blow the orifice cap off the sprinkler when the sprinkler link activates. Another concern was that sprinklers operating at pressures less than 7 psi (0.5 bar) might produce unsuitable discharge patterns.
+
+28.2.4.11.2 
+Where a higher minimum operating pressure for the desired application is specified in the listing of the sprinkler, this higher pressure shall be required.
+
+28.2.4.12 Maximum Operating Pressure.
+For extra hazard occupancies, palletized, solid-piled, bin box, back-to-back shelf storage, shelf storage, or rack storage, the maximum operating pressure of any sprinkler shall be 175 psi (12 bar).
+
+Enhanced Content
+Collapse
+FAQ
+
+Why does NFPA 13 limit the maximum pressure to 175 psi (12 bar)?
+
+The requirements for a maximum operating pressure are addressed in 28.2.4.12. In extra hazard occupancies or higher challenge fire risks, excessive discharge pressures could adversely affect the effectiveness of sprinkler discharge in high-challenge fire conditions. At high pressure, water leaving the sprinkler orifice affects the sprinkler deflector at high velocity and breaks up into tiny water droplets. Those droplets might not have the momentum to penetrate the fire plume common in extra hazard and storage fires. The maximum pressure limit does not apply to light and ordinary occupancy hazards; however, components utilized at higher pressures, including sprinklers, must be rated for such high pressure applications.
+
+28.2.5 In-Rack Sprinklers.
+28.2.5.1 
+Pipes to in-rack sprinklers shall be sized by hydraulic calculations.
+
+28.2.5.2 
+Water demand of sprinklers installed in racks or water curtains shall be added to the ceiling sprinkler water demand at the point of connection. Demands shall be balanced to the higher pressure.
+
+Enhanced Content
+Collapse
+As a general rule, the flow and pressure demand associated with in-rack sprinklers must be hydraulically balanced to the higher pressure in the same manner that is required for branch lines on opposite sides of a cross main. For some specific commodities stored in racks, the protection criteria do not require the in-rack sprinkler water demand to be added to the ceiling system demand. Examples include those permitted in Section ﻿﻿﻿﻿﻿25.6﻿﻿﻿﻿﻿ as well as certain combustible liquids in plastic containers protected in accordance with ﻿﻿﻿﻿NFPA 30﻿﻿﻿﻿. This protection criterion generally employs combinations of in-rack sprinklers and solid barriers throughout the rack that are intended to operate independent of the installed ceiling sprinkler protection. In those circumstances, the most demanding flow from either the ceiling sprinkler system or the in-rack sprinkler system must be met. Where in-rack sprinklers are balanced, there are multiple acceptable locations for the point of connection, from the cross main directly over the racks to the system riser manifold, depending on the number of in-rack sprinklers supplied by the system. The separate water demands are still balanced, even at a remote point of connection.
+
+It is important to note that the in-rack sprinkler demand is required to be balanced with the ceiling sprinkler demand in the same area as the in-rack sprinklers. This is representative of the operation of sprinklers at the ceiling within the vicinity of a fire occurring within the racks containing the in-rack sprinklers. If the remote area of a warehouse has only ceiling sprinklers, and a portion of the warehouse has in-rack sprinklers closer to the water supply, the in-rack sprinkler demand does not need to be balanced with the remote area ceiling demand. Instead, the most remote/demanding area of the ceiling sprinklers over the in-rack sprinklers needs to be calculated and added to the in-rack sprinkler, balanced to the higher pressure.
+
+28.3 Hose Allowance.
+Water allowance for outside hose shall be added to the sprinkler and inside hose requirement at the connection to the city water main or a yard hydrant, whichever is closer to the system riser.
+
+28.4 Hydraulic Calculation Forms.
+28.4.1 General.
+Hydraulic calculations shall be prepared on form sheets that include a summary sheet, detailed worksheets, and a graph sheet. [See Figure A.‍28.4.2(a), Figure A.‍28.4.3, and Figure A.‍28.4.4 for copies of typical forms.]
+
+Enhanced Content
+Collapse
+The calculation forms in the Annex A material associated with Section 28.4 (﻿﻿﻿﻿﻿﻿﻿﻿﻿A.28.4.2﻿﻿﻿﻿﻿﻿﻿﻿﻿) are tools to help monitor the waterflow through the system, to summarize system design information, and to allow for a quick evaluation of the system. As illustrated in ﻿﻿﻿Figure A.28.4.2(c)﻿﻿, waterflow through the system is tracked in a direction opposite to that of the actual waterflow; that is, the first evaluation point begins at the hydraulically most demanding sprinkler—often the sprinkler farthest from the system riser—and ends at the point of connection to the system water supply. The calculation forms allow the designer or other persons reviewing the plans to account for individual pipe lengths and fittings and to keep track of changes in pressure and flow that result from friction loss and elevation changes. ﻿﻿Figure A.28.4.2(c)﻿ and ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Figure A.28.4.3﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ are for use with sprinkler systems calculated by hand. For sprinkler systems calculated with computer programs, a standardized printout is mandated by ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿28.4.5﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿.
+
+28.4.2* Summary Sheet.
+The summary sheet shall contain the following information, where applicable:
+(1)
+Date
+
+(2)
+Location
+
+(3)
+Name of owner and occupant
+
+(4)
+Building number or other identification
+
+(5)
+Description of hazard (for storage applications, the commodity classification, storage height, and rack configuration shall be included)
+
+(6)
+Name and address of contractor or designer
+
+(7)
+Name of approving agency
+
+(8)
+System design requirements, as follows:
+(a)
+Design area of water application, ft2 (m2).
+
+(b)
+Minimum rate of water application (density), gpm/ft2 (mm/min). Where sprinklers are listed with minimum water application in gpm (L/min) or pressure in psi (bar), the minimum rate of water application shall be indicated in gpm (L/min) or pressure, psi (bar).
+
+(c)
+Area per sprinkler, ft2 (m2).
+
+
+(9)
+Total water requirements as calculated, including allowance for inside hose, outside hydrants, and water curtain and exposure sprinklers
+
+(10)
+Allowance for in-rack sprinklers, gpm (L/min)
+
+(11)
+Limitations (dimension, flow, and pressure) on extended coverage or other listed special sprinklers
+
+
+Enhanced Content
+Collapse
+FAQ
+
+How is the area of operation affected by the size of the building?
+
+The area of sprinkler operation is independent of the total area of the building. For example, when a design area of 1500 ft2 (139 m2) is selected for an office building, the fire is anticipated to be controlled to an operating sprinkler area no larger than 1500 ft2 (139 m2), regardless of the size of the building.
+
+28.4.3* Detailed Worksheets.
+Detailed worksheets or computer printout sheets shall contain the following information:
+(1)
+Sheet number
+
+(2)
+Sprinkler description and discharge constant (K)
+
+(3)
+Hydraulic reference points
+
+(4)
+Flow in gpm (L/min)
+
+(5)
+Pipe size
+
+(6)
+Pipe lengths, center-to-center of fittings
+
+(7)
+Equivalent pipe lengths for fittings and devices
+
+(8)
+Friction loss in psi/ft (bar/m) of pipe
+
+(9)
+Total friction loss between reference points
+
+(10)
+In-rack sprinkler demand balanced to ceiling demand
+
+(11)
+Elevation head in psi (bar) between reference points
+
+(12)
+Required pressure in psi (bar) at each reference point
+
+(13)
+Velocity pressure and normal pressure if included in calculations
+
+(14)
+Notes to indicate starting points or reference to other sheets or to clarify data shown
+
+(15)*
+Diagram to accompany gridded system calculations to indicate flow quantities and directions for lines with sprinklers operating in the remote area
+
+(16)
+Combined K-factor calculations for sprinklers on drops, armovers, or sprigs where calculations do not begin at the sprinkler
+
+
+28.4.4* Graph Sheet.
+A graphic representation of the complete hydraulic calculation shall be plotted on semiexponential graph paper (Q1.85) and shall include the following:
+(1)
+Water supply curve
+
+(2)
+Sprinkler system demand
+
+(3)
+Hose allowance (where applicable)
+
+(4)
+In-rack sprinkler demand (where applicable)
+
+
+Enhanced Content
+Collapse
+
+
+28.4.5 Hydraulic Reports.
+Enhanced Content
+Collapse
+ASK THE AHJ
+
+Can the authority having jurisdiction reject a set of plans if the computer-generated hydraulic calculation reports are not submitted in the format shown in 28.4.5?
+
+Yes. If the jurisdiction enforces the 2007 or newer edition of NFPA 13, sprinkler system designers should have been submitting reports in the standardized format as of January 1, 2008. If the incorrect format is the submittal’s only flaw, the authority having jurisdiction could potentially give the designer a warning to obtain software that will produce the correct format for future submittals.
+
+28.4.5.1* General.
+28.4.5.1.1 
+Hydraulic calculations shall be prepared on form sheets that include a summary sheet, a graph sheet, a water supply analysis, a node analysis, and detailed worksheets.
+
+28.4.5.1.2 
+The data shall be presented in the order shown in Figure 28.4.5.1.2(a) through Figure 28.4.5.1.2(d).
+
+code book image: f41e0ad4-5f1a-11eb-a38d-0de52099bdc8
+Figure 28.4.5.1.2(a) Summary Sheet.
+
+code book image: cdb101a2-5f1a-11eb-a38d-0de52099bdc8
+Figure 28.4.5.1.2(b) Graph Sheet.
+
+code book image: d50b54d1-5f1a-11eb-a38d-0de52099bdc8
+Figure 28.4.5.1.2(c) Supply and Node Analysis Sheet.
+
+code book image: 04ca146e-5f1b-11eb-a38d-0de52099bdc8
+Figure 28.4.5.1.2(d) Detailed Worksheet.
+
+28.4.5.2 Summary Sheet.
+The summary sheet as shown in Figure 28.4.5.1.2(a) shall contain the following information, where applicable:
+(1)
+Project name and date
+
+(2)
+Location (including street address)
+
+(3)
+Owner or expected occupant of space being designed
+
+(4)
+Name, address, and phone number of installing contractor
+
+(5)
+Name and phone number of designer
+
+(6)
+Authority having jurisdiction
+
+(7)
+Standard or document system is being designed to, including the edition of the document
+
+(8)
+Design area number and location
+
+(9)
+Drawing or sheet number where design area is located
+
+(10)
+Occupancy or commodity classification and information
+
+(11)
+For storage applications (including miscellaneous), additional information including storage height, ceiling height, storage configuration, aisle width, orientation of upright or pendent, sprinkler K-factor and sprinkler temperature, and the table and or curve utilized in the design
+
+(12)
+System type, including the system volume with type of protection system indicated in the notes
+
+(13)
+Sprinkler type, including coverage and response type
+
+(14)
+Slope of roof or ceiling within the design area
+
+(15)
+System design requirements, as follows:
+(a)
+Design area of application, ft2 (m2)
+
+(b)
+Minimum rate of water application (density), gpm/ft2 (mm/min)
+
+(c)
+Area per sprinkler, ft2 (m2)
+
+(d)
+Number of sprinklers calculated
+
+
+(16)
+Total water requirements as calculated, including allowance for inside hose, outside hydrants, water curtain, and exposure sprinklers, and allowance for in-rack sprinklers, gpm (L/min)
+
+(17)
+Ceiling height if used for quick response sprinkler reduction
+
+(18)
+Elevation of highest calculated sprinkler
+
+(19)
+Water supply information, including the following:
+(a)
+Date and time of test
+
+(b)
+Location of the test and flow hydrant(s)
+
+(c)
+Source of the water for the flow test
+
+(d)
+Elevation of the test hydrant relative to the finished floor
+
+(e)
+Size of fire pump, gpm @ psi (L/min @ bar)
+
+(f)
+Size of on-site water tank
+
+
+(20)
+Notes that include peaking information for calculations performed by a computer program, type of preaction system, limitations (dimension, flow, and pressure) on extended-coverage or other listed special sprinklers, system type, including the system volume
+
+
+28.4.5.3 Graph Sheet.
+A graphic representation of the complete hydraulic calculation shall be plotted on semiexponential graph paper (Q1.85) as shown in Figure 28.4.5.1.2(b) and shall include the following:
+(1)
+Water supply curve
+
+(2)
+Sprinkler system demand
+
+(3)
+Hose demand (where applicable)
+
+(4)
+In-rack sprinkler demand (where applicable)
+
+(5)
+Additional pressures supplied by a fire pump or other source (when applicable)
+
+
+28.4.5.4 Supply Analysis.
+Information summarized from the graph sheet as shown in Figure 28.4.5.1.2(c) shall include the following:
+(1)
+Node tag at the source
+
+(2)
+Static pressure [psi (bar)] available at the source
+
+(3)
+Residual pressure [psi (bar)] available at the source
+
+(4)
+Total flow [gpm (L/min)] available at the source
+
+(5)
+Available pressure [psi (bar)] at the source when the total calculated demand is flowing
+
+(6)
+Total calculated demand [gpm (L/min)] at the source
+
+(7)
+Required pressure [psi (bar)] when flowing total calculated demand
+
+
+28.4.5.5 Node Analysis.
+Organized information as shown in Figure 28.4.5.1.2(c) regarding the node tags given to each hydraulic reference point on the system as indicated on the shop drawings shall include the following information:
+(1)
+Node tag for each specific point on the system used in the hydraulic calculations
+
+(2)
+Elevation in ft (m) of each node tag
+
+(3)
+K-factor of flowing nodes (such as sprinklers)
+
+(4)
+Hose allowance in gpm (L/min) requirements for the node tag
+
+(5)
+Pressure in psi (bar) at the node
+
+(6)
+Discharge in gpm (L/min) calculated at the node
+
+(7)
+Notes that indicate any special requirements for the node
+
+
+28.4.5.6 Detailed Worksheets.
+Detailed worksheets as shown in Figure 28.4.5.1.2(d) or computer printout sheets shall contain the following information:
+(1)
+Sheet number
+
+(2)
+Hydraulic reference points used in each step
+
+(3)
+Elevation in ft (m) at each hydraulic reference point
+
+(4)
+Sprinkler description and discharge constant (K) for the flowing reference point
+
+(5)
+Flow in gpm (L/min) for the flowing reference point (when applicable)
+
+(6)
+Total flow in gpm (L/min) through each step
+
+(7)
+Nominal pipe size in in. (mm)
+
+(8)
+Actual internal diameter of pipe in in. (mm)
+
+(9)
+Quantity and length in ft (m) of each type of fitting and device
+
+(10)
+Pipe lengths in ft (m), center-to-center of fittings
+
+(11)
+Equivalent pipe lengths in ft (m) of fittings and devices for the step
+
+(12)
+Total equivalent length in ft (m) of pipes and fitting for the step
+
+(13)
+C-factor used in each step
+
+(14)
+Friction loss in psi/ft (bar/m) of pipe
+
+(15)
+Sum of the pressures from the previous step (starting pressure at beginning)
+
+(16)
+Elevation head in psi (bar) between reference points
+
+(17)
+Total friction loss in psi (bar) between reference points
+
+(18)
+Required pressure in psi (bar) at each reference point
+
+(19)
+Notes and other information shall include the following:
+(a)
+Velocity pressure and normal pressure if included in calculations
+
+(b)
+In-rack sprinkler demand balanced to ceiling demand
+
+(c)
+Notes to indicate starting points or reference to other sheets or to clarify data shown
+
+(d)
+Diagram to accompany gridded system calculations to indicate flow quantities and directions for lines with sprinklers operating in the remote area
+
+(e)
+Combined K-factor calculations for sprinklers on drops, armovers, or sprigs where calculations do not begin at the sprinkler
+
+(f)
+The pressure [psi/(bar)] loss assigned the backflow device when included on a system
+
+(g)
+Friction factor and Reynolds number when the Darcy–Weisbach equation is used
+
+
+
+Enhanced Content
+Collapse
+CLOSER LOOK
+
+Elevation Pressure
+
+The specific weight of water produces the pressure associated with the elevation of water above a datum. For example, for a 1 ft × 1 ft × 1 ft (300 mm x 300 mm x 300 mm) cube filled with water, the resultant pressure at the base of the cube would be the force exerted by the weight of the cube over the area of the base of the cube. The weight of the cube is 62.4 lb (28,304 g), and the area of the base of the cube is 1 ft2 (90,000 mm2), which would result in a pressure of 62.4 lb/ft2 or 0.433 psi (0.0298 bar). If this same cube were divided into columns of water with a base of 1 in.2 (645 mm2) and standing 1 ft (300 mm) tall, the cube would contain 144 such columns.
+
+ Elevation Pressure
+
+
+
+28.5 Pipe Schedules.
+Pipe schedules shall not be used, except in existing systems and in new systems or extensions to existing systems described in Chapter 19. Water supplies shall conform to 19.2.2.
+
+28.5.1* General.
+28.5.1.1 
+The pipe schedule sizing provisions shall not apply to hydraulically calculated systems.
+
+28.5.1.2 
+Sprinkler systems having sprinklers with K-factors other than 5.6 nominal, listed piping material other than that covered in Table 7.3.1.1, extra hazard Group 1 and Group 2 systems, and exposure protection systems shall be hydraulically calculated.
+
+Enhanced Content
+Collapse
+The numbers of sprinklers shown in the pipe schedule tables are based on the assumption that the sprinklers in the pipe schedule system have a K-factor of K-5.6 (K-80). Sprinklers with a larger K-factor will flow more water than a K-5.6 (K-80) sprinkler at the same pressure, which would increase the friction loss in the piping and could adversely affect the ability of the sprinkler system to control the fire. Sprinklers with a smaller K-factor might not produce enough flow to control the fire.
+
+28.5.1.3 
+The number of automatic sprinklers on a given pipe size on one floor shall not exceed the number given in 28.5.2, 28.5.3, or 28.5.4 for a given occupancy.
+
+Enhanced Content
+Collapse
+The numbers of sprinklers shown in the pipe schedule tables are maximum numbers for the minimum size pipes shown. The graduated type of system—that is, larger pipe serving increasingly smaller pipe—is not mandatory, provided that the minimum pipe sizes established in the pipe schedule tables are met. The number of sprinklers per branch line is limited (see ﻿﻿﻿﻿28.5.2.1﻿﻿﻿﻿, ﻿﻿﻿28.5.3.1﻿﻿﻿, and ﻿﻿A.28.5.4﻿﻿) on pipe schedule systems, and, prior to 1966, the number of branch lines on a cross main was limited to 14 (see 28.5.1.3). These rules do not apply to hydraulically designed systems.
+
+28.5.1.4* Size of Risers.
+Each system riser shall be sized to supply all sprinklers on the riser on any one floor as determined by the standard schedules of pipe sizes in 28.5.2, 28.5.3, or 28.5.4.
+
+28.5.1.5 Slatted Floors, Large Floor Openings, Mezzanines, and Large Platforms.
+Buildings having slatted floors or large unprotected floor openings without approved stops shall be treated as one area with reference to pipe sizes, and the feed mains or risers shall be of the size required for the total number of sprinklers.
+
+Enhanced Content
+Collapse
+Fire spreads readily through grated or slatted floors. Therefore, an area with such divisions must be treated as a single fire area for sizing pipe.
+
+28.5.1.6 Stair Towers.
+Stair towers, or other construction with incomplete floors, if piped on independent risers, shall be treated as one area with reference to pipe sizes.
+
+Enhanced Content
+Collapse
+A fire in a stair or tower can open a large number of sprinklers in that area. An independent riser supplying such an area must be sized to supply all the sprinklers in the area.
+
+28.5.2 Schedule for Light Hazard Occupancies.
+28.5.2.1 Branch Lines.
+28.5.2.1.1 
+Unless permitted by 28.5.2.1.2 or 28.5.2.1.3, branch lines shall not exceed eight sprinklers on either side of a cross main.
+
+28.5.2.1.2 
+Where more than eight sprinklers on a branch line are necessary, lines shall be permitted to be increased to nine sprinklers by making the two end lengths 1 in. (25 mm) and 11⁄4 in. (32 mm), respectively, and the sizes thereafter standard.
+
+28.5.2.1.3 
+Ten sprinklers shall be permitted to be placed on a branch line, making the two end lengths 1 in. (25 mm) and 11⁄4 in. (32 mm), respectively, and feeding the tenth sprinkler by a 21⁄2 in. (65 mm) pipe.
+
+Enhanced Content
+Collapse
+The amount of pressure lost to friction in long runs of small-diameter pipe is significant. Therefore, the number of sprinklers on a branch line is limited to eight sprinklers in light hazard occupancies. Paragraph 28.5.2.1.3 permits up to 10 sprinklers on branch lines in light hazard occupancies, provided that pipe sizing is increased to reduce the pressure drop along the run of pipe.
+
+28.5.2.2 Pipe Sizes.
+28.5.2.2.1 
+Pipe sizes shall be in accordance with Table 28.5.2.2.1.
+
+
+
+Table 28.5.2.2.1 Light Hazard Pipe Schedules
+Steel	Copper
+1 in. (25 mm)	2 sprinklers	1 in. (25 mm)	2 sprinklers
+11⁄4 in. (32 mm)	3 sprinklers	11⁄4 in. (32 mm)	3 sprinklers
+11⁄2 in. (40 mm)	5 sprinklers	11⁄2 in. (40 mm)	5 sprinklers
+2 in. (50 mm)	10 sprinklers	2 in. (50 mm)	12 sprinklers
+21⁄2 in. (65 mm)	30 sprinklers	21⁄2 in. (65 mm)	40 sprinklers
+3 in. (80 mm)	60 sprinklers	3 in. (80 mm)	65 sprinklers
+31⁄2 in. (90 mm)	100 sprinklers	31⁄2 in. (90 mm)	115 sprinklers
+4 in. (100 mm)	See Section 4.4.	4 in. (100 mm)	See Section 4.4.
+Enhanced Content
+Collapse
+A system riser in a light hazard occupancy is limited to the protection area of 52,000 ft² (4831 m²). Piping is sized in accordance with Table 28.5.2.2.1, unless more than 100 sprinklers are in an area without subdividing partitions. Piping supplying such sprinklers must be sized in accordance with ﻿﻿﻿﻿28.5.2.4﻿﻿﻿﻿ to minimize the friction loss.
+
+28.5.2.2.2 
+Each area requiring more sprinklers than the number specified for 31⁄2 in. (90 mm) pipe in Table 28.5.2.2.1 and without subdividing partitions (not necessarily fire walls) shall be supplied by mains or risers sized for ordinary hazard occupancies.
+
+28.5.2.3 
+Where sprinklers are installed above and below ceilings in accordance with Figure 28.5.2.3(a) through Figure 28.5.2.3(c), and such sprinklers are supplied from a common set of branch lines or separate branch lines from a common cross main, such branch lines shall not exceed eight sprinklers above and eight sprinklers below any ceiling on either side of the cross main.
+
+code book image: e3a0653c-5f1a-11eb-a38d-0de52099bdc8
+Figure 28.5.2.3(a) Arrangement of Branch Lines Supplying Sprinklers Above and Below Ceiling.
+
+code book image: 01ea25ec-5f1b-11eb-a38d-0de52099bdc8
+Figure 28.5.2.3(b) Sprinkler on Riser Nipple from Branch Line in Lower Fire Area.
+
+code book image: e41a291f-5f1a-11eb-a38d-0de52099bdc8
+Figure 28.5.2.3(c) Arrangement of Branch Lines Supplying Sprinklers Above, Between, and Below Ceilings.
+
+Enhanced Content
+Collapse
+FAQ
+
+Is the ceiling, as referenced in 28.5.2.3, required to be a rated assembly (i.e., 1 hour-rated, 2 hour rated, and so forth)?
+
+The intent of the standard is that a ceiling separates the two areas, above and below the ceiling membrane, to limit the exposure of both sets of sprinklers to the same fire plume. Therefore, the requirements of 28.5.2.3 do not require a fire-rated assembly.
+
+28.5.2.4 
+Unless the requirements of 28.5.2.5 are met, pipe sizing up to and including 2 1⁄2 in. (65 mm) shall be as shown in Table 28.5.2.4 utilizing the greatest number of sprinklers to be found on any two adjacent levels.
+
+
+
+Table 28.5.2.4 Number of Sprinklers Above and Below Ceiling
+Steel	Copper
+1 in. (25 mm)	2 sprinklers	1 in. (25 mm)	2 sprinklers
+11⁄4 in. (32 mm)	4 sprinklers	11⁄4 in. (32 mm)	4 sprinklers
+11⁄2 in. (40 mm)	7 sprinklers	11⁄2 in. (40 mm)	7 sprinklers
+2 in. (50 mm)	15 sprinklers	2 in. (50 mm)	18 sprinklers
+21⁄2 in. (65 mm)	50 sprinklers	21⁄2 in. (65 mm)	65 sprinklers
+28.5.2.5 
+Branch lines and cross mains supplying sprinklers installed entirely above or entirely below ceilings shall be sized in accordance with Table 28.5.2.2.1.
+
+Enhanced Content
+Collapse
+A fire either above or below a ceiling in a light hazard occupancy normally will be contained in that area by operating sprinklers. In light hazard pipe schedule systems, NFPA 13 permits more sprinklers on a branch line in the above or below configuration than are permitted on a branch line protecting a single area. NFPA 13 also permits more total sprinklers to be supplied by a given pipe size. To determine if sprinkler protection is needed above the ceiling, Section ﻿﻿9.2﻿﻿ should be consulted.
+
+The requirement of 28.5.2.5 recognizes that piping dedicated to a given area—that is, above a ceiling or below a ceiling—must be sized to accommodate the sprinklers for that area only.
+
+28.5.2.6* 
+Where the total number of sprinklers above and below a ceiling exceeds the number specified in Table 28.5.2.4 for 21⁄2 in. (65 mm) pipe, the pipe supplying such sprinklers shall be increased to 3 in. (75 mm) and sized thereafter according to the schedule shown in Table 28.5.2.2.1 for the number of sprinklers above or below a ceiling, whichever is larger.
+
+28.5.3 Schedule for Ordinary Hazard Occupancies.
+28.5.3.1 
+Unless permitted by 28.5.3.2 or 28.5.3.3, branch lines shall not exceed eight sprinklers on either side of a cross main.
+
+28.5.3.2 
+Where more than eight sprinklers on a branch line are necessary, lines shall be permitted to be increased to nine sprinklers by making the two end lengths 1 in. (25 mm) and 11⁄4 in. (32 mm), respectively, and the sizes thereafter standard.
+
+28.5.3.3 
+Ten sprinklers shall be permitted to be placed on a branch line, making the two end lengths 1 in. (25 mm) and 11⁄4 in. (32 mm), respectively, and feeding the tenth sprinkler by a 21⁄2 in. (65 mm) pipe.
+
+28.5.3.4 
+Pipe sizes shall be in accordance with Table 28.5.3.4.
+
+
+
+Table 28.5.3.4 Ordinary Hazard Pipe Schedule
+Steel	Copper
+1 in. (25 mm)	2 sprinklers	1 in. (25 mm)	2 sprinklers
+11⁄4 in. (32 mm)	3 sprinklers	11⁄4 in. (32 mm)	3 sprinklers
+11⁄2 in. (40 mm)	5 sprinklers	11⁄2 in. (40 mm)	5 sprinklers
+2 in. (50 mm)	10 sprinklers	2 in. (50 mm)	12 sprinklers
+21⁄2 in. (65 mm)	20 sprinklers	21⁄2 in. (65 mm)	25 sprinklers
+3 in. (80 mm)	40 sprinklers	3 in. (80 mm)	45 sprinklers
+31⁄2 in. (90 mm)	65 sprinklers	31⁄2 in. (90 mm)	75 sprinklers
+4 in. (100 mm)	100 sprinklers	4 in. (100 mm)	115 sprinklers
+5 in. (125 mm)	160 sprinklers	5 in. (125 mm)	180 sprinklers
+6 in. (150 mm)	275 sprinklers	6 in. (150 mm)	300 sprinklers
+8 in. (200 mm)	See Section 4.4.	8 in. (200 mm)	See Section 4.4.
+Enhanced Content
+Collapse
+The pipe sizes specified in Table 28.5.3.4 take into consideration normal water supplies and friction loss. The pipe sizes tend to be somewhat smaller for branch lines and somewhat larger for cross mains, feed mains, and system risers compared with hydraulically designed systems.
+
+28.5.3.5 
+Where the distance between sprinklers on the branch line exceeds 12 ft (3.7 m) or the distance between the branch lines exceeds 12 ft (3.7 m), the number of sprinklers for a given pipe size shall be in accordance with Table 28.5.3.5.
+
+
+
+Table 28.5.3.5 Number of Sprinklers — Greater Than 12 ft (3.7 m) Separations
+Steel	Copper
+21⁄2 in. (65 mm)	15 sprinklers	21⁄2 in. (65 mm)	20 sprinklers
+3 in. (80 mm)	30 sprinklers	3 in. (80 mm)	35 sprinklers
+31⁄2 in. (90 mm)	60 sprinklers	31⁄2 in. (90 mm)	65 sprinklers
+Note: For other pipe and tube sizes, see Table 28.5.3.4.
+
+Enhanced Content
+Collapse
+The requirement of 28.5.3.5 recognizes the increased friction loss when either the distance between sprinklers on branch lines or the distance between branch lines exceeds 12 ft (3.7 m). The requirement also recognizes that the sprinkler’s area of coverage must reach or overlap any adjacent sprinkler’s area of coverage, so that uniform water discharge and density are achieved. Increasing the pipe sizing as required reduces pressure losses due to friction and results in a greater amount of pressure at the sprinkler. The higher pressure increases sprinkler discharge and improves water distribution.
+
+28.5.3.6 
+Where sprinklers are installed above and below ceilings and such sprinklers are supplied from a common set of branch lines or separate branch lines supplied by a common cross main, such branch lines shall not exceed eight sprinklers above and eight sprinklers below any ceiling on either side of the cross main.
+
+28.5.3.7 
+Pipe sizing up to and including 3 in. (76 mm) shall be as shown in Table 28.5.3.7 in accordance with Figure 28.5.2.3(a), Figure 28.5.2.3(b), and Figure 28.5.2.3(c) utilizing the greatest number of sprinklers to be found on any two adjacent levels.
+
+
+
+Table 28.5.3.7 Number of Sprinklers Above and Below a Ceiling
+Steel	Copper
+1 in. (25 mm)	2 sprinklers	1 in. (25 mm)	2 sprinklers
+11⁄4 in. (32 mm)	4 sprinklers	11⁄4 in. (32 mm)	4 sprinklers
+11⁄2 in. (40 mm)	7 sprinklers	11⁄2 in. (40 mm)	7 sprinklers
+2 in. (50 mm)	15 sprinklers	2 in. (50 mm)	18 sprinklers
+21⁄2 in. (65 mm)	30 sprinklers	21⁄2 in. (65 mm)	40 sprinklers
+3 in. (80 mm)	60 sprinklers	3 in. (80 mm)	65 sprinklers
+28.5.3.8 
+Branch lines and cross mains supplying sprinklers installed entirely above or entirely below ceilings shall be sized in accordance with Table 28.5.3.4 or Table 28.5.3.5.
+
+Enhanced Content
+Collapse
+A fire located either above or below a ceiling in an ordinary hazard occupancy normally will be contained in that area by operating sprinklers. In ordinary hazard pipe schedule systems, NFPA 13 permits more sprinklers on a branch line in the above or below configuration than are permitted on a branch line protecting a single area. NFPA 13 also permits more total sprinklers to be supplied by a given pipe size. To determine if sprinkler protection is needed above the ceiling, Section ﻿﻿9.2﻿﻿ should be consulted.
+
+28.5.3.9* 
+Where the total number of sprinklers above and below a ceiling exceeds the number specified in Table 28.5.3.7 for 3 in. (80 mm) pipe, the pipe supplying such sprinklers shall be increased to 31⁄2 in. (90 mm) or larger and sized thereafter according to the schedule shown in Table 28.5.2.2.1 or Table 28.5.3.4 for the number of sprinklers above or below a ceiling, whichever is larger.
+
+28.5.3.10 
+Where the distance between the sprinklers protecting the occupied area exceeds 12 ft (3.7 m) or the distance between the branch lines exceeds 12 ft (3.7 m), the branch lines shall be sized in accordance with either Table 28.5.3.5, taking into consideration the sprinklers protecting the occupied area only, or Table 28.5.3.7, whichever requires the greater size of pipe.
+
+Enhanced Content
+Collapse
+The probability of a fire involving the areas both above and below a ceiling in an ordinary hazard occupancy and opening in excess of 60 sprinklers is extremely remote. When piping or tubing is being sized for systems with more than 60 sprinklers with steel pipe and more than 65 sprinklers with copper tubing, the pipe or tubing diameter is increased to reduce friction loss.
+
+28.5.4* Extra Hazard Occupancies.
+Extra hazard occupancies shall be hydraulically calculated.
